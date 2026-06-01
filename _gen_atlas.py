@@ -8,6 +8,11 @@ OUT   = r"C:/repos/atlas"
 USER  = "DavidWise01"
 EXCLUDE = {"honey-badger"}   # illegal-capability tool — not curated into a public showcase
 
+# repos whose live page is not at the repo root (point the live link at the real file)
+PAGES_OVERRIDE = {"cameron-howe": "https://davidwise01.github.io/cameron-howe/reader.html"}
+# HTML-classified repos with no servable root landing page → code-only, no live link
+NO_PAGES = {"seed-kernel"}
+
 # ── category order + accent color ──────────────────────────────
 CATS = [
     ("Library & Foundations",            "#c9a227"),
@@ -89,6 +94,7 @@ CAT = {
  "symbiot-os":"OS & Infrastructure","the.source":"OS & Infrastructure",
  "aeon-entangled":"OS & Infrastructure","aeon-servers":"OS & Infrastructure",
  "DavidWise01.github.io":"OS & Infrastructure","toph-sovereign":"OS & Infrastructure",
+ "atlas":"OS & Infrastructure",
  "swarm-os":"OS & Infrastructure","mimzy-core":"OS & Infrastructure",
  # Other · Lab
  "pocket-universe":"Other · Lab",
@@ -105,9 +111,13 @@ for r in REPOS:
     cat  = CAT.get(name, "Other · Lab")
     desc = (r["description"] or "").strip()
     pages = ""
-    if lang == "HTML":
-        pages = "https://davidwise01.github.io/" if name == "DavidWise01.github.io" \
-                else f"https://{USER.lower()}.github.io/{name}/"
+    if lang == "HTML" and name not in NO_PAGES:
+        if name in PAGES_OVERRIDE:
+            pages = PAGES_OVERRIDE[name]
+        elif name == "DavidWise01.github.io":
+            pages = "https://davidwise01.github.io/"
+        else:
+            pages = f"https://{USER.lower()}.github.io/{name}/"
     entries.append({"name":name,"desc":desc,"lang":lang,"cat":cat,
                     "gh":r["url"],"pages":pages,"pushed":r["pushedAt"]})
 

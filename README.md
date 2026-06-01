@@ -1,13 +1,13 @@
 # ATLAS
 
 [![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
-[![Repos: 109](https://img.shields.io/badge/repositories-109-c9a227?style=flat-square)](#)
+[![Repos: 110](https://img.shields.io/badge/repositories-110-c9a227?style=flat-square)](#)
 [![Categories: 12](https://img.shields.io/badge/categories-12-7c3aed?style=flat-square)](#)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
 > The whole body of work, one front door.
 
-A master index of every public ROOT0 / TriPod repository — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
+A master index of every public ROOT0 / TriPod repository (110) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
 
 **→ [davidwise01.github.io/atlas](https://davidwise01.github.io/atlas/)**
 
@@ -27,7 +27,7 @@ A master index of every public ROOT0 / TriPod repository — governance, physics
 | Tools & CLIs | 8 | Zero-dependency executables, validators, restitution engines |
 | Creative · Audio · Visual | 11 | Synthesizers, deckbuilders, generative art, browser toys |
 | Writing · Books · Doctrine | 11 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas |
-| OS & Infrastructure | 8 | `symbiot-os`, central hubs, servers, the public index site |
+| OS & Infrastructure | 9 | `symbiot-os`, central hubs, servers, the public index sites |
 | Other · Lab | 1 | Experiments |
 
 ---
