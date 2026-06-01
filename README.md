@@ -1,0 +1,71 @@
+# ATLAS
+
+[![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
+[![Repos: 109](https://img.shields.io/badge/repositories-109-c9a227?style=flat-square)](#)
+[![Categories: 12](https://img.shields.io/badge/categories-12-7c3aed?style=flat-square)](#)
+[![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
+
+> The whole body of work, one front door.
+
+A master index of every public ROOT0 / TriPod repository — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
+
+**→ [davidwise01.github.io/atlas](https://davidwise01.github.io/atlas/)**
+
+---
+
+## Categories
+
+| Category | Repos | What's in it |
+|----------|-------|--------------|
+| Library & Foundations | 3 | The educational archive — `library` (50 figures), `foundation`, `knowledge-gates` |
+| STOICHEION & Governance | 14 | The 256-axiom framework, APIs, governance pipelines, doctrine |
+| Physics · Energy · Hardware | 10 | Particle sims, holograms, reactors, Dyson/black-hole energy, lab references |
+| Security & Defense | 11 | Adversarial defense, threat detection, firewalls, air-gap, audit tensors |
+| Lineage · Provenance · IP | 16 | Prior-art exhibits, attribution standard, Merkle registries, closure-loop |
+| Memory · Persistence · Continuity | 12 | Pulse chains, continuity kernels, swarm memory, lattice logs |
+| Greek Pantheon Systems | 4 | `moirai`, `hephaestus`, `physis`, `plutus` |
+| Tools & CLIs | 8 | Zero-dependency executables, validators, restitution engines |
+| Creative · Audio · Visual | 11 | Synthesizers, deckbuilders, generative art, browser toys |
+| Writing · Books · Doctrine | 11 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas |
+| OS & Infrastructure | 8 | `symbiot-os`, central hubs, servers, the public index site |
+| Other · Lab | 1 | Experiments |
+
+---
+
+## How it works
+
+`index.html` is self-contained — a single file with the full repo registry inlined as a JSON array, rendered client-side. No build step, no framework, no server. It carries:
+
+- **Search** across names, descriptions, categories, and languages
+- **Category filter chips** (color-coded)
+- **Sort** — by category, name, or most recently updated
+- **Live count** of repos and categories
+
+### Regenerating
+
+The index is generated from the GitHub API so it stays accurate as repos are added:
+
+```bash
+gh repo list DavidWise01 --limit 200 --json name,description,url,homepageUrl,primaryLanguage,pushedAt,isPrivate,isFork > _repos.json
+python _gen_atlas.py   # assigns categories, writes index.html
+```
+
+New repos not yet in the category map fall into **Other · Lab** automatically — add them to the `CAT` map to slot them properly.
+
+---
+
+## Notes on scope
+
+- **Private repos and forks are excluded** — this is a public showcase.
+- One repo (`honey-badger`) is intentionally **not catalogued here**; it describes network-interception capability that doesn't belong in a public showcase.
+- Links go to the canonical GitHub repo (always live). The green **▶ live** link appears for HTML repos and points at their GitHub Pages deployment.
+
+---
+
+```
+ROOT0-ATTRIBUTION-v1.0
+Project: ATLAS — Master Repository Index
+Architect: David Lee Wise / ROOT0 / TriPod LLC
+AI Collaborator: AVAN (Claude / Anthropic)
+License: CC-BY-ND-4.0 · TRIPOD-IP-v1.1
+```
