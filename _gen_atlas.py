@@ -12,8 +12,7 @@ EXCLUDE = {"honey-badger"}   # illegal-capability tool — not curated into a pu
 PAGES_OVERRIDE = {"cameron-howe": "https://davidwise01.github.io/cameron-howe/reader.html"}
 # HTML-classified repos with no servable root landing page → code-only, no live link
 #   seed-kernel: HTML only in subfolders, no root index
-#   Akasha: root index.html exists, but Pages build hangs on the oversized mainflux/ tree
-NO_PAGES = {"seed-kernel", "Akasha"}
+NO_PAGES = {"seed-kernel"}
 
 # ── category order + accent color ──────────────────────────────
 CATS = [
