@@ -77,7 +77,7 @@ CAT = {
  "tools":"Tools & CLIs","pop-kit":"Tools & CLIs","lumen":"Tools & CLIs",
  "astraea":"Tools & CLIs","root0-tools":"Tools & CLIs","root0-software":"Tools & CLIs",
  "language-of-the-machine":"Tools & CLIs","oasis":"Tools & CLIs",
- "homer":"Tools & CLIs",
+ "homer":"Tools & CLIs", "nom":"Tools & CLIs",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",
@@ -163,6 +163,11 @@ h1{font-family:var(--serif);font-size:clamp(34px,9vw,76px);font-weight:700;lette
 .sub{font-size:15px;color:var(--pa2);max-width:60ch;margin:16px auto 0;font-style:italic}
 #count{font-family:var(--mono);font-size:12px;color:var(--dim);letter-spacing:.08em;margin-top:18px}
 #count b{color:var(--gold)}
+#arbiter{display:inline-block;margin-top:12px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;color:var(--dim);text-decoration:none;border:1px solid var(--faint);padding:5px 12px;transition:all .18s}
+#arbiter:hover{color:var(--gold);border-color:var(--gold)}
+#arbiter.clean{color:#5fb98a;border-color:#264a38}
+#arbiter.dead{color:#e0556a;border-color:#4a2630}
+#arbiter #arb-state{color:inherit}
 .bar{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:30px;position:sticky;top:0;background:linear-gradient(180deg,var(--ink) 70%,transparent);padding:14px 0;z-index:5}
 .search{flex:1;min-width:210px;max-width:380px;position:relative}
 #q{width:100%;background:var(--ink2);border:1px solid var(--line);color:var(--pa);font-family:var(--body);font-size:14px;padding:10px 14px 10px 34px;outline:none}
@@ -206,6 +211,7 @@ footer a{color:var(--gold);text-decoration:none}
     <h1>ATLAS</h1>
     <p class="sub">The whole body of work, one front door. Every public repository — governance, physics, security, lineage, tools, writing — catalogued and linked.</p>
     <div id="count">indexing…</div>
+    <a id="arbiter" href="https://github.com/DavidWise01/nom" title="nom — arbiter of the atlas. If it can't be reached, it didn't happen.">⚖ ARBITER · 🗿 nom · <span id="arb-state">awaiting verdict</span></a>
   </header>
 
   <div class="bar">
@@ -304,6 +310,19 @@ function updateCount(shown){
 document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render()});
 document.getElementById("sort").addEventListener("change",e=>{sort=e.target.value;render()});
 buildChips();render();
+
+// nom — arbiter of the atlas: show the latest reachability verdict
+fetch("data/arbiter.json?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).then(v=>{
+  if(!v) return;
+  const el=document.getElementById("arbiter"), st=document.getElementById("arb-state");
+  const clean=v.verdict==="CLEAN";
+  el.classList.add(clean?"clean":"dead");
+  const when=(v.at||"").slice(0,10);
+  st.textContent = clean
+    ? `${v.repos} repos · ${v.links_checked} links verified · ${when}`
+    : `${(v.dead||[]).length} dead of ${v.links_checked} · ${when}`;
+  el.title = `nom · ${v.verdict} · seal ${v.seal} · ${v.doctrine}`;
+}).catch(()=>{});
 </script>
 </body>
 </html>
@@ -313,3 +332,11 @@ html = HTML.replace("__CATS__", cats_js).replace("__DATA__", data_js)
 with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
     f.write(html)
 print("\nwrote atlas/index.html")
+
+# machine-readable manifest for the arbiter (nom) to verify against
+os.makedirs(os.path.join(OUT, "data"), exist_ok=True)
+manifest = [{"name": e["name"], "cat": e["cat"], "gh": e["gh"], "pages": e["pages"]}
+            for e in entries]
+with open(os.path.join(OUT, "data", "repos.json"), "w", encoding="utf-8") as f:
+    json.dump(manifest, f, indent=0, ensure_ascii=False)
+print(f"wrote atlas/data/repos.json ({len(manifest)} entries)")

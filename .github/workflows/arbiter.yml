@@ -1,0 +1,48 @@
+name: Arbiter — nom
+
+# nom adjudicates the atlas: every catalogued link must resolve, or it is flagged.
+# If it can't be reached, it didn't happen.
+on:
+  schedule:
+    - cron: '0 7 * * 1'        # weekly, Monday 07:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: arbiter
+  cancel-in-progress: false
+
+jobs:
+  arbitrate:
+    name: verify every link
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Arbitrate (stdlib only — no deps)
+        run: python arbiter.py
+      - name: Commit verdict if changed
+        run: |
+          git config user.name "nom-arbiter[bot]"
+          git config user.email "nom-arbiter@users.noreply.github.com"
+          git add data/arbiter.json
+          if git diff --staged --quiet; then
+            echo "verdict unchanged"
+          else
+            git commit -m "arbiter: $(date -u +%Y%m%d-%H%M%S) verdict"
+            git push
+          fi
+      - name: Ring the bell if links are dead
+        if: always()
+        run: |
+          v=$(python -c "import json;print(json.load(open('data/arbiter.json'))['verdict'])")
+          if [ "$v" = "DEAD_LINKS" ]; then
+            n=$(python -c "import json;print(len(json.load(open('data/arbiter.json'))['dead']))")
+            echo "::warning::Arbiter found $n unreachable link(s) in the atlas."
+          fi

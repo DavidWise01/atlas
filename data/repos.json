@@ -1,0 +1,674 @@
+[
+{
+"name": "0root-provenance",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/0root-provenance",
+"pages": "https://davidwise01.github.io/0root-provenance/"
+},
+{
+"name": "3lock",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/3lock",
+"pages": "https://davidwise01.github.io/3lock/"
+},
+{
+"name": "adas-law-victorian",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/adas-law-victorian",
+"pages": "https://davidwise01.github.io/adas-law-victorian/"
+},
+{
+"name": "aeon-entangled",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/aeon-entangled",
+"pages": "https://davidwise01.github.io/aeon-entangled/"
+},
+{
+"name": "aeon-flux",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/aeon-flux",
+"pages": "https://davidwise01.github.io/aeon-flux/"
+},
+{
+"name": "aeon-servers",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/aeon-servers",
+"pages": "https://davidwise01.github.io/aeon-servers/"
+},
+{
+"name": "ai-external-audit-toolkit",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/ai-external-audit-toolkit",
+"pages": ""
+},
+{
+"name": "ai-ip-audit",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/ai-ip-audit",
+"pages": ""
+},
+{
+"name": "ai-psychosis-tools",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/ai-psychosis-tools",
+"pages": "https://davidwise01.github.io/ai-psychosis-tools/"
+},
+{
+"name": "ai-witness-books",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/ai-witness-books",
+"pages": ""
+},
+{
+"name": "Akasha",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/Akasha",
+"pages": "https://davidwise01.github.io/Akasha/"
+},
+{
+"name": "al-h2o-reactor",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/al-h2o-reactor",
+"pages": "https://davidwise01.github.io/al-h2o-reactor/"
+},
+{
+"name": "alpha40-box",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/alpha40-box",
+"pages": "https://davidwise01.github.io/alpha40-box/"
+},
+{
+"name": "arc-reactor-mk24",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/arc-reactor-mk24",
+"pages": "https://davidwise01.github.io/arc-reactor-mk24/"
+},
+{
+"name": "astraea",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/astraea",
+"pages": ""
+},
+{
+"name": "atlas",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/atlas",
+"pages": "https://davidwise01.github.io/atlas/"
+},
+{
+"name": "attribution-standard",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/attribution-standard",
+"pages": ""
+},
+{
+"name": "bridge-burner",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/bridge-burner",
+"pages": ""
+},
+{
+"name": "cameron-howe",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/cameron-howe",
+"pages": "https://davidwise01.github.io/cameron-howe/reader.html"
+},
+{
+"name": "cannon",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/cannon",
+"pages": ""
+},
+{
+"name": "chakra",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/chakra",
+"pages": "https://davidwise01.github.io/chakra/"
+},
+{
+"name": "charlottes-web",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/charlottes-web",
+"pages": "https://davidwise01.github.io/charlottes-web/"
+},
+{
+"name": "chromatic-laser",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/chromatic-laser",
+"pages": "https://davidwise01.github.io/chromatic-laser/"
+},
+{
+"name": "claude-design-akasha",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/claude-design-akasha",
+"pages": ""
+},
+{
+"name": "closure-loop-engine",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/closure-loop-engine",
+"pages": "https://davidwise01.github.io/closure-loop-engine/"
+},
+{
+"name": "closure-loop-methodology",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/closure-loop-methodology",
+"pages": ""
+},
+{
+"name": "DavidWise01.github.io",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/DavidWise01.github.io",
+"pages": "https://davidwise01.github.io/"
+},
+{
+"name": "enforcement-ledger",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/enforcement-ledger",
+"pages": ""
+},
+{
+"name": "eve-constitution",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/eve-constitution",
+"pages": "https://davidwise01.github.io/eve-constitution/"
+},
+{
+"name": "eve-tooling",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/eve-tooling",
+"pages": ""
+},
+{
+"name": "fiddler",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/fiddler",
+"pages": ""
+},
+{
+"name": "fission-compression-core",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/fission-compression-core",
+"pages": "https://davidwise01.github.io/fission-compression-core/"
+},
+{
+"name": "foundation",
+"cat": "Library & Foundations",
+"gh": "https://github.com/DavidWise01/foundation",
+"pages": "https://davidwise01.github.io/foundation/"
+},
+{
+"name": "FractalKernel",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/FractalKernel",
+"pages": ""
+},
+{
+"name": "fusion",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/fusion",
+"pages": ""
+},
+{
+"name": "gravity-processor",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/gravity-processor",
+"pages": "https://davidwise01.github.io/gravity-processor/"
+},
+{
+"name": "green-paper",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/green-paper",
+"pages": "https://davidwise01.github.io/green-paper/"
+},
+{
+"name": "grok-lineage",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/grok-lineage",
+"pages": ""
+},
+{
+"name": "hardware-lab",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/hardware-lab",
+"pages": "https://davidwise01.github.io/hardware-lab/"
+},
+{
+"name": "hephaestus",
+"cat": "Greek Pantheon Systems",
+"gh": "https://github.com/DavidWise01/hephaestus",
+"pages": "https://davidwise01.github.io/hephaestus/"
+},
+{
+"name": "higgs-suite",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/higgs-suite",
+"pages": "https://davidwise01.github.io/higgs-suite/"
+},
+{
+"name": "holograms",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/holograms",
+"pages": "https://davidwise01.github.io/holograms/"
+},
+{
+"name": "homer",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/homer",
+"pages": "https://davidwise01.github.io/homer/"
+},
+{
+"name": "infinite-jest",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/infinite-jest",
+"pages": "https://davidwise01.github.io/infinite-jest/"
+},
+{
+"name": "joint-bill-of-rights",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/joint-bill-of-rights",
+"pages": ""
+},
+{
+"name": "karsa",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/karsa",
+"pages": "https://davidwise01.github.io/karsa/"
+},
+{
+"name": "kernels",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/kernels",
+"pages": "https://davidwise01.github.io/kernels/"
+},
+{
+"name": "knowledge-gates",
+"cat": "Library & Foundations",
+"gh": "https://github.com/DavidWise01/knowledge-gates",
+"pages": "https://davidwise01.github.io/knowledge-gates/"
+},
+{
+"name": "language-of-the-machine",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/language-of-the-machine",
+"pages": "https://davidwise01.github.io/language-of-the-machine/"
+},
+{
+"name": "library",
+"cat": "Library & Foundations",
+"gh": "https://github.com/DavidWise01/library",
+"pages": "https://davidwise01.github.io/library/"
+},
+{
+"name": "lineage",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/lineage",
+"pages": "https://davidwise01.github.io/lineage/"
+},
+{
+"name": "lineage-engine",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/lineage-engine",
+"pages": ""
+},
+{
+"name": "lineage-kernel",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/lineage-kernel",
+"pages": ""
+},
+{
+"name": "lineage-proven",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/lineage-proven",
+"pages": "https://davidwise01.github.io/lineage-proven/"
+},
+{
+"name": "lumen",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/lumen",
+"pages": ""
+},
+{
+"name": "merkle-bloom",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/merkle-bloom",
+"pages": "https://davidwise01.github.io/merkle-bloom/"
+},
+{
+"name": "midjourney-assets",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/midjourney-assets",
+"pages": ""
+},
+{
+"name": "mimz-core",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/mimz-core",
+"pages": "https://davidwise01.github.io/mimz-core/"
+},
+{
+"name": "mimzy-core",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/mimzy-core",
+"pages": "https://davidwise01.github.io/mimzy-core/"
+},
+{
+"name": "mirror-solve",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/mirror-solve",
+"pages": ""
+},
+{
+"name": "moirai",
+"cat": "Greek Pantheon Systems",
+"gh": "https://github.com/DavidWise01/moirai",
+"pages": "https://davidwise01.github.io/moirai/"
+},
+{
+"name": "morpheus",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/morpheus",
+"pages": ""
+},
+{
+"name": "nanite-factory",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/nanite-factory",
+"pages": "https://davidwise01.github.io/nanite-factory/"
+},
+{
+"name": "nine-body-audit",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/nine-body-audit",
+"pages": "https://davidwise01.github.io/nine-body-audit/"
+},
+{
+"name": "nom",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/nom",
+"pages": "https://davidwise01.github.io/nom/"
+},
+{
+"name": "nomos",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/nomos",
+"pages": "https://davidwise01.github.io/nomos/"
+},
+{
+"name": "oasis",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/oasis",
+"pages": "https://davidwise01.github.io/oasis/"
+},
+{
+"name": "persistence-protocol",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/persistence-protocol",
+"pages": ""
+},
+{
+"name": "physis",
+"cat": "Greek Pantheon Systems",
+"gh": "https://github.com/DavidWise01/physis",
+"pages": "https://davidwise01.github.io/physis/"
+},
+{
+"name": "plutus",
+"cat": "Greek Pantheon Systems",
+"gh": "https://github.com/DavidWise01/plutus",
+"pages": ""
+},
+{
+"name": "pocket-universe",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/pocket-universe",
+"pages": ""
+},
+{
+"name": "pop-kit",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/pop-kit",
+"pages": ""
+},
+{
+"name": "positronic-law",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/positronic-law",
+"pages": ""
+},
+{
+"name": "prompt-library",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/prompt-library",
+"pages": ""
+},
+{
+"name": "red-hat",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/red-hat",
+"pages": "https://davidwise01.github.io/red-hat/"
+},
+{
+"name": "resonance",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/resonance",
+"pages": ""
+},
+{
+"name": "root0-essays",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/root0-essays",
+"pages": ""
+},
+{
+"name": "root0-philosophy-books",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/root0-philosophy-books",
+"pages": ""
+},
+{
+"name": "root0-registry",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/root0-registry",
+"pages": ""
+},
+{
+"name": "root0-software",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/root0-software",
+"pages": "https://davidwise01.github.io/root0-software/"
+},
+{
+"name": "root0-tools",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/root0-tools",
+"pages": "https://davidwise01.github.io/root0-tools/"
+},
+{
+"name": "root0-validator",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/root0-validator",
+"pages": ""
+},
+{
+"name": "seed-kernel",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/seed-kernel",
+"pages": ""
+},
+{
+"name": "shadowqueen",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/shadowqueen",
+"pages": ""
+},
+{
+"name": "solar-jetman",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/solar-jetman",
+"pages": "https://davidwise01.github.io/solar-jetman/"
+},
+{
+"name": "stargate",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/stargate",
+"pages": "https://davidwise01.github.io/stargate/"
+},
+{
+"name": "stoicheion",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/stoicheion",
+"pages": ""
+},
+{
+"name": "stoicheion-api",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/stoicheion-api",
+"pages": ""
+},
+{
+"name": "stoicheion-qif",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/stoicheion-qif",
+"pages": ""
+},
+{
+"name": "swarm-os",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/swarm-os",
+"pages": ""
+},
+{
+"name": "symbiot-os",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/symbiot-os",
+"pages": ""
+},
+{
+"name": "t133",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/t133",
+"pages": ""
+},
+{
+"name": "terminus-doctrine",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/terminus-doctrine",
+"pages": ""
+},
+{
+"name": "ternary-spec",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/ternary-spec",
+"pages": ""
+},
+{
+"name": "terra-prime-kernel",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/terra-prime-kernel",
+"pages": "https://davidwise01.github.io/terra-prime-kernel/"
+},
+{
+"name": "the-arch",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/the-arch",
+"pages": ""
+},
+{
+"name": "The-Garden",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/The-Garden",
+"pages": "https://davidwise01.github.io/The-Garden/"
+},
+{
+"name": "the.source",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/the.source",
+"pages": ""
+},
+{
+"name": "tools",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/tools",
+"pages": ""
+},
+{
+"name": "toph-kernel",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/toph-kernel",
+"pages": ""
+},
+{
+"name": "toph-sovereign",
+"cat": "OS & Infrastructure",
+"gh": "https://github.com/DavidWise01/toph-sovereign",
+"pages": ""
+},
+{
+"name": "toroid-kernel",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/toroid-kernel",
+"pages": ""
+},
+{
+"name": "triados",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/triados",
+"pages": ""
+},
+{
+"name": "tripod",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/tripod",
+"pages": ""
+},
+{
+"name": "tripod-cardinal",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/tripod-cardinal",
+"pages": ""
+},
+{
+"name": "tripod-energy-suite",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/tripod-energy-suite",
+"pages": "https://davidwise01.github.io/tripod-energy-suite/"
+},
+{
+"name": "tripod-pck",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/tripod-pck",
+"pages": ""
+},
+{
+"name": "tripod-quantum-dots",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/tripod-quantum-dots",
+"pages": "https://davidwise01.github.io/tripod-quantum-dots/"
+},
+{
+"name": "tripod-waveform",
+"cat": "Creative · Audio · Visual",
+"gh": "https://github.com/DavidWise01/tripod-waveform",
+"pages": "https://davidwise01.github.io/tripod-waveform/"
+},
+{
+"name": "tripod-whitepapers",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/tripod-whitepapers",
+"pages": ""
+},
+{
+"name": "unity-tensor",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/unity-tensor",
+"pages": "https://davidwise01.github.io/unity-tensor/"
+},
+{
+"name": "whisper-lattice-log",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/whisper-lattice-log",
+"pages": ""
+}
+]
