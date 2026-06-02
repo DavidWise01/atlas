@@ -1,16 +1,16 @@
 # ATLAS
 
 [![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
-[![Repos: 112](https://img.shields.io/badge/repositories-112-c9a227?style=flat-square)](#)
+[![Repos: 112](https://img.shields.io/badge/repositories-119-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
-[![Categories: 12](https://img.shields.io/badge/categories-12-7c3aed?style=flat-square)](#)
+[![Categories: 12](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
 > The whole body of work, one front door.
 
-A master index of every public ROOT0 / TriPod repository (112) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
+A master index of every public ROOT0 / TriPod repository (119) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
 
-**Arbiter: [nom](https://github.com/DavidWise01/nom).** The monk's doctrine, turned on the index itself — *if it can't be reached, it didn't happen.* `arbiter.py` verifies every catalogued link resolves (code + live), weekly and on demand, and stamps a sealed verdict to `data/arbiter.json`; the page shows it as a live ⚖ seal in the header. Latest: **169 links over 112 repos, 0 dead — CLEAN.**
+**Arbiter: [nom](https://github.com/DavidWise01/nom).** The monk's doctrine, turned on the index itself — *if it can't be reached, it didn't happen.* `arbiter.py` verifies every catalogued link resolves (code + live), weekly and on demand, and stamps a sealed verdict to `data/arbiter.json`; the page shows it as a live ⚖ seal in the header. Latest: **the page shows the live verdict; the arbiter re-verifies on a schedule and on demand.**
 
 **→ [davidwise01.github.io/atlas](https://davidwise01.github.io/atlas/)**
 
@@ -21,13 +21,14 @@ A master index of every public ROOT0 / TriPod repository (112) — governance, p
 | Category | Repos | What's in it |
 |----------|-------|--------------|
 | Library & Foundations | 3 | The educational archive — `library` (50 figures), `foundation`, `knowledge-gates` |
+| Codices · Rosters | 4 | Muster rolls of avatar agents — `bridge-burners`, `black-company`, `wheel-of-time`, `gap-cycle` |
 | STOICHEION & Governance | 14 | The 256-axiom framework, APIs, governance pipelines, doctrine |
 | Physics · Energy · Hardware | 10 | Particle sims, holograms, reactors, Dyson/black-hole energy, lab references |
-| Security & Defense | 11 | Adversarial defense, threat detection, firewalls, air-gap, audit tensors |
+| Security & Defense | 12 | Adversarial defense, threat detection, the confabulation-spiral guide, audit tensors |
 | Lineage · Provenance · IP | 16 | Prior-art exhibits, attribution standard, Merkle registries, closure-loop |
 | Memory · Persistence · Continuity | 12 | Pulse chains, continuity kernels, swarm memory, lattice logs |
 | Greek Pantheon Systems | 4 | `moirai`, `hephaestus`, `physis`, `plutus` |
-| Tools & CLIs | 10 | Zero-dependency executables, validators, the Homer agent, the nom monk |
+| Tools & CLIs | 12 | Zero-dependency executables, validators, and the agents — Homer, nom, Apsalar, Beak |
 | Creative · Audio · Visual | 11 | Synthesizers, deckbuilders, generative art, browser toys |
 | Writing · Books · Doctrine | 11 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas |
 | OS & Infrastructure | 9 | `symbiot-os`, central hubs, servers, the public index sites |

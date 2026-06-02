@@ -17,6 +17,7 @@ NO_PAGES = {"seed-kernel"}
 # ── category order + accent color ──────────────────────────────
 CATS = [
     ("Library & Foundations",            "#c9a227"),
+    ("Codices · Rosters",                "#9a6a3a"),
     ("STOICHEION & Governance",          "#7c3aed"),
     ("Physics · Energy · Hardware",      "#1763d6"),
     ("Security & Defense",               "#cc2233"),
@@ -78,6 +79,10 @@ CAT = {
  "astraea":"Tools & CLIs","root0-tools":"Tools & CLIs","root0-software":"Tools & CLIs",
  "language-of-the-machine":"Tools & CLIs","oasis":"Tools & CLIs",
  "homer":"Tools & CLIs", "nom":"Tools & CLIs",
+ "apsalar":"Tools & CLIs", "beak":"Tools & CLIs",
+ "confabulation-spiral":"Security & Defense",
+ "bridge-burners":"Codices · Rosters", "black-company":"Codices · Rosters",
+ "wheel-of-time":"Codices · Rosters", "gap-cycle":"Codices · Rosters",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",

@@ -78,6 +78,12 @@
 "pages": "https://davidwise01.github.io/alpha40-box/"
 },
 {
+"name": "apsalar",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/apsalar",
+"pages": "https://davidwise01.github.io/apsalar/"
+},
+{
 "name": "arc-reactor-mk24",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/arc-reactor-mk24",
@@ -102,10 +108,28 @@
 "pages": ""
 },
 {
+"name": "beak",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/beak",
+"pages": "https://davidwise01.github.io/beak/"
+},
+{
+"name": "black-company",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/black-company",
+"pages": "https://davidwise01.github.io/black-company/"
+},
+{
 "name": "bridge-burner",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/bridge-burner",
 "pages": ""
+},
+{
+"name": "bridge-burners",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/bridge-burners",
+"pages": "https://davidwise01.github.io/bridge-burners/"
 },
 {
 "name": "cameron-howe",
@@ -154,6 +178,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/closure-loop-methodology",
 "pages": ""
+},
+{
+"name": "confabulation-spiral",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/confabulation-spiral",
+"pages": "https://davidwise01.github.io/confabulation-spiral/"
 },
 {
 "name": "DavidWise01.github.io",
@@ -208,6 +238,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/fusion",
 "pages": ""
+},
+{
+"name": "gap-cycle",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/gap-cycle",
+"pages": "https://davidwise01.github.io/gap-cycle/"
 },
 {
 "name": "gravity-processor",
@@ -664,6 +700,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/unity-tensor",
 "pages": "https://davidwise01.github.io/unity-tensor/"
+},
+{
+"name": "wheel-of-time",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/wheel-of-time",
+"pages": "https://davidwise01.github.io/wheel-of-time/"
 },
 {
 "name": "whisper-lattice-log",
