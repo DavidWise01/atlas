@@ -77,6 +77,7 @@ CAT = {
  "tools":"Tools & CLIs","pop-kit":"Tools & CLIs","lumen":"Tools & CLIs",
  "astraea":"Tools & CLIs","root0-tools":"Tools & CLIs","root0-software":"Tools & CLIs",
  "language-of-the-machine":"Tools & CLIs","oasis":"Tools & CLIs",
+ "homer":"Tools & CLIs",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",
