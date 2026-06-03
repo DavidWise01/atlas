@@ -120,6 +120,12 @@
 "pages": ""
 },
 {
+"name": "boronic",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/boronic",
+"pages": ""
+},
+{
 "name": "bridge-burner",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/bridge-burner",
@@ -201,7 +207,7 @@
 "name": "elementals",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/elementals",
-"pages": ""
+"pages": "https://davidwise01.github.io/elementals/"
 },
 {
 "name": "enforcement-ledger",
@@ -459,7 +465,7 @@
 "name": "photonic",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/photonic",
-"pages": ""
+"pages": "https://davidwise01.github.io/photonic/"
 },
 {
 "name": "physis",
