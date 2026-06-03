@@ -79,6 +79,7 @@ CAT = {
  "moirai":"Greek Pantheon Systems","hephaestus":"Greek Pantheon Systems",
  "physis":"Greek Pantheon Systems","plutus":"Greek Pantheon Systems",
  # Tools & CLIs
+ "hephaestus-forge":"Tools & CLIs",
  "tools":"Tools & CLIs","pop-kit":"Tools & CLIs","lumen":"Tools & CLIs",
  "astraea":"Tools & CLIs","root0-tools":"Tools & CLIs","root0-software":"Tools & CLIs",
  "language-of-the-machine":"Tools & CLIs","oasis":"Tools & CLIs",

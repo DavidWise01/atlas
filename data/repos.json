@@ -294,6 +294,12 @@
 "pages": "https://davidwise01.github.io/hephaestus/"
 },
 {
+"name": "hephaestus-forge",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/hephaestus-forge",
+"pages": ""
+},
+{
 "name": "higgs-suite",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/higgs-suite",
