@@ -89,6 +89,7 @@ CAT = {
  "recluce":"Codices · Rosters",
  "sword-of-truth":"Codices · Rosters",
  "without-remorse":"Codices · Rosters",
+ "dantes-inferno":"Codices · Rosters",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",
