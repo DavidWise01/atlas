@@ -123,7 +123,7 @@
 "name": "boronic",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/boronic",
-"pages": ""
+"pages": "https://davidwise01.github.io/boronic/"
 },
 {
 "name": "bridge-burner",
@@ -376,6 +376,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/lineage-proven",
 "pages": "https://davidwise01.github.io/lineage-proven/"
+},
+{
+"name": "liquid",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/liquid",
+"pages": ""
 },
 {
 "name": "lumen",
