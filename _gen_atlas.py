@@ -87,6 +87,7 @@ CAT = {
  "riverworld":"Codices · Rosters",
  "ringworld":"Codices · Rosters",
  "recluce":"Codices · Rosters",
+ "sword-of-truth":"Codices · Rosters",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",

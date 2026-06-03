@@ -594,6 +594,12 @@
 "pages": ""
 },
 {
+"name": "sword-of-truth",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sword-of-truth",
+"pages": "https://davidwise01.github.io/sword-of-truth/"
+},
+{
 "name": "symbiot-os",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/symbiot-os",
