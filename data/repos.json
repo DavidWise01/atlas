@@ -117,7 +117,7 @@
 "name": "black-company",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/black-company",
-"pages": "https://davidwise01.github.io/black-company/"
+"pages": ""
 },
 {
 "name": "bridge-burner",
@@ -129,7 +129,7 @@
 "name": "bridge-burners",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/bridge-burners",
-"pages": "https://davidwise01.github.io/bridge-burners/"
+"pages": ""
 },
 {
 "name": "cameron-howe",
@@ -198,6 +198,12 @@
 "pages": "https://davidwise01.github.io/"
 },
 {
+"name": "elementals",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/elementals",
+"pages": ""
+},
+{
 "name": "enforcement-ledger",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/enforcement-ledger",
@@ -249,7 +255,7 @@
 "name": "gap-cycle",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/gap-cycle",
-"pages": "https://davidwise01.github.io/gap-cycle/"
+"pages": ""
 },
 {
 "name": "gravity-processor",
@@ -489,7 +495,7 @@
 "name": "recluce",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/recluce",
-"pages": "https://davidwise01.github.io/recluce/"
+"pages": ""
 },
 {
 "name": "red-hat",
@@ -507,13 +513,13 @@
 "name": "ringworld",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/ringworld",
-"pages": "https://davidwise01.github.io/ringworld/"
+"pages": ""
 },
 {
 "name": "riverworld",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/riverworld",
-"pages": "https://davidwise01.github.io/riverworld/"
+"pages": ""
 },
 {
 "name": "root0-essays",
@@ -735,7 +741,7 @@
 "name": "wheel-of-time",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wheel-of-time",
-"pages": "https://davidwise01.github.io/wheel-of-time/"
+"pages": ""
 },
 {
 "name": "whisper-lattice-log",
@@ -747,7 +753,7 @@
 "name": "white-gold-wielder",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/white-gold-wielder",
-"pages": "https://davidwise01.github.io/white-gold-wielder/"
+"pages": ""
 },
 {
 "name": "without-remorse",

@@ -49,6 +49,7 @@ CAT = {
  "arc-reactor-mk24":"Physics · Energy · Hardware","al-h2o-reactor":"Physics · Energy · Hardware",
  "gravity-processor":"Physics · Energy · Hardware","chromatic-laser":"Physics · Energy · Hardware",
  "hardware-lab":"Physics · Energy · Hardware","tripod-quantum-dots":"Physics · Energy · Hardware",
+ "elementals":"Physics · Energy · Hardware",
  # Security & Defense
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
  "charlottes-web":"Security & Defense","fiddler":"Security & Defense",
