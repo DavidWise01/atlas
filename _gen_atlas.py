@@ -85,6 +85,7 @@ CAT = {
  "wheel-of-time":"Codices · Rosters", "gap-cycle":"Codices · Rosters",
  "white-gold-wielder":"Codices · Rosters",
  "riverworld":"Codices · Rosters",
+ "ringworld":"Codices · Rosters",
  # Creative · Audio · Visual
  "tripod-waveform":"Creative · Audio · Visual","alpha40-box":"Creative · Audio · Visual",
  "midjourney-assets":"Creative · Audio · Visual","nanite-factory":"Creative · Audio · Visual",
