@@ -516,6 +516,12 @@
 "pages": ""
 },
 {
+"name": "quantum-box",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/quantum-box",
+"pages": "https://davidwise01.github.io/quantum-box/"
+},
+{
 "name": "recluce",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/recluce",

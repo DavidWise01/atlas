@@ -53,6 +53,7 @@ CAT = {
  "photonic":"Physics · Energy · Hardware",
  "boronic":"Physics · Energy · Hardware",
  "liquid":"Physics · Energy · Hardware",
+ "quantum-box":"Physics · Energy · Hardware",
  # Security & Defense
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
  "charlottes-web":"Security & Defense","fiddler":"Security & Defense",
