@@ -612,6 +612,12 @@
 "pages": ""
 },
 {
+"name": "singularity-well",
+"cat": "Security & Defense",
+"gh": "https://github.com/DavidWise01/singularity-well",
+"pages": "https://davidwise01.github.io/singularity-well/"
+},
+{
 "name": "solar-jetman",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/solar-jetman",

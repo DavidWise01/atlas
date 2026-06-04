@@ -57,6 +57,7 @@ CAT = {
  "memristor":"Physics · Energy · Hardware",
  "transmon":"Physics · Energy · Hardware",
  # Security & Defense
+ "singularity-well":"Security & Defense",
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
  "charlottes-web":"Security & Defense","fiddler":"Security & Defense",
  "3lock":"Security & Defense","bridge-burner":"Security & Defense",
