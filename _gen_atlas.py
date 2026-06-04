@@ -57,6 +57,7 @@ CAT = {
  "memristor":"Physics · Energy · Hardware",
  "transmon":"Physics · Energy · Hardware",
  "zero-point":"Physics · Energy · Hardware",
+ "plasmonic":"Physics · Energy · Hardware",
  # Security & Defense
  "singularity-well":"Security & Defense",
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
