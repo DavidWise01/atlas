@@ -426,6 +426,12 @@
 "pages": "https://davidwise01.github.io/mimzy-core/"
 },
 {
+"name": "mirror-lattice",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/mirror-lattice",
+"pages": "https://davidwise01.github.io/mirror-lattice/"
+},
+{
 "name": "mirror-solve",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/mirror-solve",
