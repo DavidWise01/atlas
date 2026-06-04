@@ -14,8 +14,8 @@ PAGES_OVERRIDE = {"cameron-howe": "https://davidwise01.github.io/cameron-howe/re
 #   seed-kernel: HTML only in subfolders, no root index
 NO_PAGES = {"seed-kernel"}
 # repos NOT classified HTML by GitHub (e.g. Python-dominant) that DO have a root Pages site
-#   mnemosyne: stdlib generators outweigh index.html, but the landing is live at the root
-HAS_PAGES = {"mnemosyne"}
+#   mnemosyne / tetraktys: stdlib engine+generators outweigh index.html, but the landing is live
+HAS_PAGES = {"mnemosyne", "tetraktys"}
 
 # ── category order + accent color ──────────────────────────────
 CATS = [
@@ -61,6 +61,7 @@ CAT = {
  "transmon":"Physics · Energy · Hardware",
  "zero-point":"Physics · Energy · Hardware",
  "plasmonic":"Physics · Energy · Hardware",
+ "tetraktys":"Physics · Energy · Hardware",
  # Security & Defense
  "singularity-well":"Security & Defense",
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",

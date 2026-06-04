@@ -1,14 +1,14 @@
 # ATLAS
 
 [![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
-[![Repos: 140](https://img.shields.io/badge/repositories-140-c9a227?style=flat-square)](#)
+[![Repos: 141](https://img.shields.io/badge/repositories-141-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
 [![Categories: 13](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
 > The whole body of work, one front door.
 
-A master index of every public ROOT0 / TriPod repository (140) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
+A master index of every public ROOT0 / TriPod repository (141) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
 
 **Arbiter: [nom](https://github.com/DavidWise01/nom).** The monk's doctrine, turned on the index itself — *if it can't be reached, it didn't happen.* `arbiter.py` verifies every catalogued link resolves (code + live), weekly and on demand, and stamps a sealed verdict to `data/arbiter.json`; the page shows it as a live ⚖ seal in the header. Latest: **the page shows the live verdict; the arbiter re-verifies on a schedule and on demand.**
 
