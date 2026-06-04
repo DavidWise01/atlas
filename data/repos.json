@@ -396,6 +396,12 @@
 "pages": ""
 },
 {
+"name": "memristor",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/memristor",
+"pages": ""
+},
+{
 "name": "merkle-bloom",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/merkle-bloom",
