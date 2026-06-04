@@ -594,6 +594,12 @@
 "pages": ""
 },
 {
+"name": "seed",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/seed",
+"pages": "https://davidwise01.github.io/seed/"
+},
+{
 "name": "seed-kernel",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/seed-kernel",

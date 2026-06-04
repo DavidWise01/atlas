@@ -71,6 +71,7 @@ CAT = {
  "attribution-standard":"Lineage · Provenance · IP","ai-ip-audit":"Lineage · Provenance · IP",
  "The-Garden":"Lineage · Provenance · IP","ai-external-audit-toolkit":"Lineage · Provenance · IP",
  # Memory · Persistence · Continuity
+ "seed":"Memory · Persistence · Continuity",
  "persistence-protocol":"Memory · Persistence · Continuity","tripod-pck":"Memory · Persistence · Continuity",
  "Akasha":"Memory · Persistence · Continuity","whisper-lattice-log":"Memory · Persistence · Continuity",
  "merkle-bloom":"Memory · Persistence · Continuity","seed-kernel":"Memory · Persistence · Continuity",
