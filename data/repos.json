@@ -726,6 +726,12 @@
 "pages": ""
 },
 {
+"name": "transmon",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/transmon",
+"pages": "https://davidwise01.github.io/transmon/"
+},
+{
 "name": "triados",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/triados",

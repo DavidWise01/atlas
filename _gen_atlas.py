@@ -55,6 +55,7 @@ CAT = {
  "liquid":"Physics · Energy · Hardware",
  "quantum-box":"Physics · Energy · Hardware",
  "memristor":"Physics · Energy · Hardware",
+ "transmon":"Physics · Energy · Hardware",
  # Security & Defense
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
  "charlottes-web":"Security & Defense","fiddler":"Security & Defense",
