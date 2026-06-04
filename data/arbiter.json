@@ -2,10 +2,17 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-06-04T00:05:23.310865+00:00",
-  "repos": 133,
-  "links_checked": 200,
-  "dead": [],
-  "verdict": "CLEAN",
-  "seal": "5d93022c0fa6"
+  "at": "2026-06-04T00:46:41.897212+00:00",
+  "repos": 134,
+  "links_checked": 202,
+  "dead": [
+    {
+      "name": "seed",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/seed/",
+      "status": 404
+    }
+  ],
+  "verdict": "DEAD_LINKS",
+  "seal": "ba0511bc887d"
 }
