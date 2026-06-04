@@ -438,6 +438,12 @@
 "pages": ""
 },
 {
+"name": "mnemosyne",
+"cat": "Memory · Persistence · Continuity",
+"gh": "https://github.com/DavidWise01/mnemosyne",
+"pages": "https://davidwise01.github.io/mnemosyne/"
+},
+{
 "name": "moirai",
 "cat": "Greek Pantheon Systems",
 "gh": "https://github.com/DavidWise01/moirai",

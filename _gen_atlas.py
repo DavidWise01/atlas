@@ -13,6 +13,9 @@ PAGES_OVERRIDE = {"cameron-howe": "https://davidwise01.github.io/cameron-howe/re
 # HTML-classified repos with no servable root landing page → code-only, no live link
 #   seed-kernel: HTML only in subfolders, no root index
 NO_PAGES = {"seed-kernel"}
+# repos NOT classified HTML by GitHub (e.g. Python-dominant) that DO have a root Pages site
+#   mnemosyne: stdlib generators outweigh index.html, but the landing is live at the root
+HAS_PAGES = {"mnemosyne"}
 
 # ── category order + accent color ──────────────────────────────
 CATS = [
@@ -75,6 +78,7 @@ CAT = {
  "attribution-standard":"Lineage · Provenance · IP","ai-ip-audit":"Lineage · Provenance · IP",
  "The-Garden":"Lineage · Provenance · IP","ai-external-audit-toolkit":"Lineage · Provenance · IP",
  # Memory · Persistence · Continuity
+ "mnemosyne":"Memory · Persistence · Continuity",
  "seed":"Memory · Persistence · Continuity",
  "mirror-lattice":"Memory · Persistence · Continuity",
  "persistence-protocol":"Memory · Persistence · Continuity","tripod-pck":"Memory · Persistence · Continuity",
@@ -138,7 +142,7 @@ for r in REPOS:
     cat  = CAT.get(name, "Other · Lab")
     desc = (r["description"] or "").strip()
     pages = ""
-    if lang == "HTML" and name not in NO_PAGES:
+    if (lang == "HTML" or name in HAS_PAGES) and name not in NO_PAGES:
         if name in PAGES_OVERRIDE:
             pages = PAGES_OVERRIDE[name]
         elif name == "DavidWise01.github.io":
