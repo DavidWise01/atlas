@@ -56,6 +56,7 @@ CAT = {
  "quantum-box":"Physics · Energy · Hardware",
  "memristor":"Physics · Energy · Hardware",
  "transmon":"Physics · Energy · Hardware",
+ "zero-point":"Physics · Energy · Hardware",
  # Security & Defense
  "singularity-well":"Security & Defense",
  "red-hat":"Security & Defense","shadowqueen":"Security & Defense",
