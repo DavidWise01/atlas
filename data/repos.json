@@ -750,10 +750,22 @@
 "pages": "https://davidwise01.github.io/The-Garden/"
 },
 {
+"name": "the-living-core",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/the-living-core",
+"pages": "https://davidwise01.github.io/the-living-core/"
+},
+{
 "name": "the-loom",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-loom",
 "pages": "https://davidwise01.github.io/the-loom/"
+},
+{
+"name": "the-uncut",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/the-uncut",
+"pages": "https://davidwise01.github.io/the-uncut/"
 },
 {
 "name": "the.source",

@@ -119,6 +119,8 @@ CAT = {
  "the-body":"Creative · Audio · Visual",
  "listeners-and-philosophers":"Creative · Audio · Visual",
  "the-loom":"Creative · Audio · Visual",
+ "the-living-core":"STOICHEION & Governance",
+ "the-uncut":"Writing · Books · Doctrine",
  # Writing · Books · Doctrine
  "root0-philosophy-books":"Writing · Books · Doctrine","root0-essays":"Writing · Books · Doctrine",
  "ai-witness-books":"Writing · Books · Doctrine","tripod-whitepapers":"Writing · Books · Doctrine",
