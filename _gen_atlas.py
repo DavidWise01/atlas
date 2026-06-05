@@ -122,6 +122,7 @@ CAT = {
  "joint-bill-of-rights":"Writing · Books · Doctrine","adas-law-victorian":"Writing · Books · Doctrine",
  "positronic-law":"Writing · Books · Doctrine","morpheus":"Writing · Books · Doctrine",
  "green-paper":"Writing · Books · Doctrine",
+ "cinnamon-enforcer":"Writing · Books · Doctrine",
  # OS & Infrastructure
  "symbiot-os":"OS & Infrastructure","the.source":"OS & Infrastructure",
  "aeon-entangled":"OS & Infrastructure","aeon-servers":"OS & Infrastructure",
