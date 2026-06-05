@@ -1,7 +1,7 @@
 # ATLAS
 
 [![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
-[![Repos: 144](https://img.shields.io/badge/repositories-145-c9a227?style=flat-square)](#)
+[![Repos: 145](https://img.shields.io/badge/repositories-145-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
 [![Categories: 13](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
