@@ -116,6 +116,7 @@ CAT = {
  "claude-design-akasha":"Creative · Audio · Visual","ai-psychosis-tools":"Creative · Audio · Visual",
  "FractalKernel":"Creative · Audio · Visual",
  "nest-3-deep":"Creative · Audio · Visual",
+ "the-body":"Creative · Audio · Visual",
  # Writing · Books · Doctrine
  "root0-philosophy-books":"Writing · Books · Doctrine","root0-essays":"Writing · Books · Doctrine",
  "ai-witness-books":"Writing · Books · Doctrine","tripod-whitepapers":"Writing · Books · Doctrine",
