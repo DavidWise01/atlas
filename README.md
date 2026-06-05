@@ -23,14 +23,14 @@ A master index of every public ROOT0 / TriPod repository (144) — governance, p
 | Library & Foundations | 3 | The educational archive — `library` (50 figures), `foundation`, `knowledge-gates` |
 | Codices · Rosters | 11 | Muster rolls of avatar agents — `bridge-burners`, `black-company`, `wheel-of-time`, `gap-cycle`, `white-gold-wielder`, `riverworld`, `ringworld`, `recluce`, `sword-of-truth`, `without-remorse`, `dantes-inferno` |
 | STOICHEION & Governance | 14 | The 256-axiom framework, APIs, governance pipelines, doctrine |
-| Physics · Energy · Hardware | 19 | Particle sims, holograms, reactors, Dyson/black-hole energy, `elementals`, `quantum-box`, and the processor concepts `photonic` · `boronic` · `liquid` |
+| Physics · Energy · Hardware | 20 | Particle sims, holograms, reactors, Dyson/black-hole energy, `elementals`, `quantum-box`, `tetraktys` (the quaternary oscillator), and the processor concepts `photonic` · `boronic` · `liquid` |
 | Security & Defense | 13 | Adversarial defense, threat detection, the confabulation-spiral guide, audit tensors |
 | Lineage · Provenance · IP | 16 | Prior-art exhibits, attribution standard, Merkle registries, closure-loop |
-| Memory · Persistence · Continuity | 14 | Pulse chains, continuity kernels, swarm memory, lattice logs |
+| Memory · Persistence · Continuity | 15 | Pulse chains, continuity kernels, swarm memory, lattice logs, `mnemosyne` (the kept quantum primer) |
 | Greek Pantheon Systems | 4 | `moirai`, `hephaestus`, `physis`, `plutus` |
 | Tools & CLIs | 13 | Zero-dependency executables, validators, the agents (Homer, nom, Apsalar, Beak), and `hephaestus-forge` (the tool-builder) |
-| Creative · Audio · Visual | 11 | Synthesizers, deckbuilders, generative art, browser toys |
-| Writing · Books · Doctrine | 11 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas |
+| Creative · Audio · Visual | 13 | Synthesizers, deckbuilders, generative art, browser toys, `nest-3-deep` & `the-body` (nested-lattice / encoding viz) |
+| Writing · Books · Doctrine | 12 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas, `cinnamon-enforcer` |
 | OS & Infrastructure | 9 | `symbiot-os`, central hubs, servers, the public index sites |
 | Other · Lab | 1 | Experiments |
 
