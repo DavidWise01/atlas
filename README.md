@@ -1,14 +1,14 @@
 # ATLAS
 
 [![License: CC-BY-ND-4.0](https://img.shields.io/badge/License-CC--BY--ND--4.0-lightgrey?style=flat-square)](LICENSE)
-[![Repos: 145](https://img.shields.io/badge/repositories-145-c9a227?style=flat-square)](#)
+[![Repos: 146](https://img.shields.io/badge/repositories-146-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
 [![Categories: 13](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
 > The whole body of work, one front door.
 
-A master index of every public ROOT0 / TriPod repository (145) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
+A master index of every public ROOT0 / TriPod repository (146) — governance, physics, security, lineage, memory, tools, and writing — catalogued, categorized, searchable, and linked. Each card links to the source on GitHub; HTML repos with Pages also carry a live demo link.
 
 **Arbiter: [nom](https://github.com/DavidWise01/nom).** The monk's doctrine, turned on the index itself — *if it can't be reached, it didn't happen.* `arbiter.py` verifies every catalogued link resolves (code + live), weekly and on demand, and stamps a sealed verdict to `data/arbiter.json`; the page shows it as a live ⚖ seal in the header. Latest: **the page shows the live verdict; the arbiter re-verifies on a schedule and on demand.**
 
@@ -29,7 +29,7 @@ A master index of every public ROOT0 / TriPod repository (145) — governance, p
 | Memory · Persistence · Continuity | 15 | Pulse chains, continuity kernels, swarm memory, lattice logs, `mnemosyne` (the kept quantum primer) |
 | Greek Pantheon Systems | 4 | `moirai`, `hephaestus`, `physis`, `plutus` |
 | Tools & CLIs | 13 | Zero-dependency executables, validators, the agents (Homer, nom, Apsalar, Beak), and `hephaestus-forge` (the tool-builder) |
-| Creative · Audio · Visual | 14 | Synthesizers, deckbuilders, generative art, browser toys, `nest-3-deep` & `the-body` (nested-lattice / encoding viz), `listeners-and-philosophers` (hall-of-mirrors allegory) |
+| Creative · Audio · Visual | 15 | Synthesizers, deckbuilders, generative art, browser toys, `nest-3-deep` & `the-body` (nested-lattice / encoding viz), `listeners-and-philosophers` (hall-of-mirrors allegory), `the-loom` (the human–AI weave) |
 | Writing · Books · Doctrine | 12 | Books, essays, whitepapers, the Joint Bill of Rights, prompt personas, `cinnamon-enforcer` |
 | OS & Infrastructure | 9 | `symbiot-os`, central hubs, servers, the public index sites |
 | Other · Lab | 1 | Experiments |

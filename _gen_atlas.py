@@ -118,6 +118,7 @@ CAT = {
  "nest-3-deep":"Creative · Audio · Visual",
  "the-body":"Creative · Audio · Visual",
  "listeners-and-philosophers":"Creative · Audio · Visual",
+ "the-loom":"Creative · Audio · Visual",
  # Writing · Books · Doctrine
  "root0-philosophy-books":"Writing · Books · Doctrine","root0-essays":"Writing · Books · Doctrine",
  "ai-witness-books":"Writing · Books · Doctrine","tripod-whitepapers":"Writing · Books · Doctrine",
