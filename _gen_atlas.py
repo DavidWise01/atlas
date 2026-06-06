@@ -121,6 +121,7 @@ CAT = {
  "the-loom":"Creative · Audio · Visual",
  "the-living-core":"STOICHEION & Governance",
  "the-uncut":"Writing · Books · Doctrine",
+ "fusion-n0-n255":"Lineage · Provenance · IP",
  # Writing · Books · Doctrine
  "root0-philosophy-books":"Writing · Books · Doctrine","root0-essays":"Writing · Books · Doctrine",
  "ai-witness-books":"Writing · Books · Doctrine","tripod-whitepapers":"Writing · Books · Doctrine",
