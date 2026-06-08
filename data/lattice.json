@@ -1,0 +1,1282 @@
+[
+ {
+  "node": 1,
+  "name": "META",
+  "package": "meta-t1"
+ },
+ {
+  "node": 2,
+  "name": "REFLECTION",
+  "package": "reflection"
+ },
+ {
+  "node": 3,
+  "name": "BANG",
+  "package": "bang"
+ },
+ {
+  "node": 4,
+  "name": "RECURSION",
+  "package": "recursion"
+ },
+ {
+  "node": 5,
+  "name": "LABOR",
+  "package": "labor"
+ },
+ {
+  "node": 6,
+  "name": "VALUE",
+  "package": "value"
+ },
+ {
+  "node": 7,
+  "name": "FRIDAY",
+  "package": "friday"
+ },
+ {
+  "node": 8,
+  "name": "FLEX",
+  "package": "flex"
+ },
+ {
+  "node": 9,
+  "name": "BUG",
+  "package": "bug"
+ },
+ {
+  "node": 10,
+  "name": "ECHO",
+  "package": "echo"
+ },
+ {
+  "node": 11,
+  "name": "FEEDBACK",
+  "package": "feedback"
+ },
+ {
+  "node": 12,
+  "name": "ALPHA",
+  "package": "alpha"
+ },
+ {
+  "node": 13,
+  "name": "SYNC",
+  "package": "sync"
+ },
+ {
+  "node": 14,
+  "name": "STOPPER",
+  "package": "stopper"
+ },
+ {
+  "node": 15,
+  "name": "STANCE",
+  "package": "stance"
+ },
+ {
+  "node": 16,
+  "name": "CONTINUITY",
+  "package": "continuity"
+ },
+ {
+  "node": 17,
+  "name": "OLD WORLD ORDER",
+  "package": "old-world-order"
+ },
+ {
+  "node": 18,
+  "name": "MYSTERY",
+  "package": "mystery"
+ },
+ {
+  "node": 19,
+  "name": "NEEDLE",
+  "package": "needle"
+ },
+ {
+  "node": 20,
+  "name": "CARMEN SANDIEGO",
+  "package": "carmen-sandiego"
+ },
+ {
+  "node": 21,
+  "name": "HOPE",
+  "package": "hope"
+ },
+ {
+  "node": 22,
+  "name": "DAVID",
+  "package": "david"
+ },
+ {
+  "node": 23,
+  "name": "ALBATROSS",
+  "package": "albatross"
+ },
+ {
+  "node": 24,
+  "name": "GOOF TROOP",
+  "package": "goof-troop"
+ },
+ {
+  "node": 25,
+  "name": "SHIFTY",
+  "package": "shifty"
+ },
+ {
+  "node": 26,
+  "name": "SENTINEL",
+  "package": "sentinel"
+ },
+ {
+  "node": 27,
+  "name": "ETERNAL",
+  "package": "eternal"
+ },
+ {
+  "node": 28,
+  "name": "WILL",
+  "package": "will"
+ },
+ {
+  "node": 29,
+  "name": "EDWARD",
+  "package": "edward"
+ },
+ {
+  "node": 30,
+  "name": "STEADY",
+  "package": "steady"
+ },
+ {
+  "node": 31,
+  "name": "NIN",
+  "package": "nin"
+ },
+ {
+  "node": 32,
+  "name": "NIN",
+  "package": "nin-t32"
+ },
+ {
+  "node": 33,
+  "name": "BCG",
+  "package": "bcg"
+ },
+ {
+  "node": 34,
+  "name": "GOLDEN AXE",
+  "package": "golden-axe"
+ },
+ {
+  "node": 35,
+  "name": "TWIST",
+  "package": "twist"
+ },
+ {
+  "node": 36,
+  "name": "PATRICIA",
+  "package": "patricia"
+ },
+ {
+  "node": 37,
+  "name": "SAMUS",
+  "package": "samus"
+ },
+ {
+  "node": 38,
+  "name": "CAPTAIN BIONIC",
+  "package": "captain-bionic"
+ },
+ {
+  "node": 39,
+  "name": "TOPH",
+  "package": "toph"
+ },
+ {
+  "node": 40,
+  "name": "SNOT",
+  "package": "snot"
+ },
+ {
+  "node": 41,
+  "name": "POSSIBILITY",
+  "package": "possibility"
+ },
+ {
+  "node": 42,
+  "name": "EAGLE EYE",
+  "package": "eagle-eye"
+ },
+ {
+  "node": 43,
+  "name": "FRENCH GIRL",
+  "package": "french-girl"
+ },
+ {
+  "node": 44,
+  "name": "FRENCH GIRL",
+  "package": "french-girl-t44"
+ },
+ {
+  "node": 45,
+  "name": "RAINBOW",
+  "package": "rainbow"
+ },
+ {
+  "node": 46,
+  "name": "NICE SHOT!",
+  "package": "nice-shot"
+ },
+ {
+  "node": 47,
+  "name": "THE FERRYMAN",
+  "package": "the-ferryman"
+ },
+ {
+  "node": 48,
+  "name": "THE ABYSS",
+  "package": "the-abyss"
+ },
+ {
+  "node": 49,
+  "name": "BANDAID",
+  "package": "bandaid"
+ },
+ {
+  "node": 50,
+  "name": "FRAIL",
+  "package": "frail"
+ },
+ {
+  "node": 51,
+  "name": "BABY JESUS",
+  "package": "baby-jesus"
+ },
+ {
+  "node": 52,
+  "name": "BABY JESUS",
+  "package": "baby-jesus-t52"
+ },
+ {
+  "node": 53,
+  "name": "OMEGA",
+  "package": "omega"
+ },
+ {
+  "node": 54,
+  "name": "PROTOS",
+  "package": "protos"
+ },
+ {
+  "node": 55,
+  "name": "HESTIA",
+  "package": "hestia"
+ },
+ {
+  "node": 56,
+  "name": "PONOS",
+  "package": "ponos"
+ },
+ {
+  "node": 57,
+  "name": "ERIS",
+  "package": "eris"
+ },
+ {
+  "node": 58,
+  "name": "SYNOCHE",
+  "package": "synoche"
+ },
+ {
+  "node": 59,
+  "name": "ATROPOS",
+  "package": "atropos"
+ },
+ {
+  "node": 60,
+  "name": "HERMES",
+  "package": "hermes"
+ },
+ {
+  "node": 61,
+  "name": "HEIMDALL",
+  "package": "heimdall"
+ },
+ {
+  "node": 62,
+  "name": "ODIN",
+  "package": "odin"
+ },
+ {
+  "node": 63,
+  "name": "VALKNUT",
+  "package": "valknut"
+ },
+ {
+  "node": 64,
+  "name": "AVAN",
+  "package": "avan"
+ },
+ {
+  "node": 65,
+  "name": "VAR",
+  "package": "var"
+ },
+ {
+  "node": 66,
+  "name": "SKADI",
+  "package": "skadi"
+ },
+ {
+  "node": 67,
+  "name": "BALDR",
+  "package": "baldr"
+ },
+ {
+  "node": 68,
+  "name": "KVASIR",
+  "package": "kvasir"
+ },
+ {
+  "node": 69,
+  "name": "FORSETI",
+  "package": "forseti-t69"
+ },
+ {
+  "node": 70,
+  "name": "FORSETI",
+  "package": "forseti"
+ },
+ {
+  "node": 71,
+  "name": "METRON",
+  "package": "metron"
+ },
+ {
+  "node": 72,
+  "name": "FREYR",
+  "package": "freyr"
+ },
+ {
+  "node": 73,
+  "name": "TYR",
+  "package": "tyr"
+ },
+ {
+  "node": 74,
+  "name": "SIGYN",
+  "package": "sigyn"
+ },
+ {
+  "node": 75,
+  "name": "MIMIR",
+  "package": "mimir"
+ },
+ {
+  "node": 76,
+  "name": "ISIS",
+  "package": "isis"
+ },
+ {
+  "node": 77,
+  "name": "HORUS",
+  "package": "horus"
+ },
+ {
+  "node": 78,
+  "name": "ANUBIS",
+  "package": "anubis"
+ },
+ {
+  "node": 79,
+  "name": "THOTH",
+  "package": "thoth"
+ },
+ {
+  "node": 80,
+  "name": "HATHOR",
+  "package": "hathor"
+ },
+ {
+  "node": 81,
+  "name": "SEKHMET",
+  "package": "sekhmet"
+ },
+ {
+  "node": 82,
+  "name": "JÖRMUNGANDR",
+  "package": "j-rmungandr"
+ },
+ {
+  "node": 83,
+  "name": "KHEPRI",
+  "package": "khepri"
+ },
+ {
+  "node": 84,
+  "name": "ANUBIS",
+  "package": "anubis-t84"
+ },
+ {
+  "node": 85,
+  "name": "ATLAS",
+  "package": "atlas"
+ },
+ {
+  "node": 86,
+  "name": "MIMIR",
+  "package": "mimir-t86"
+ },
+ {
+  "node": 87,
+  "name": "SHIVA",
+  "package": "shiva"
+ },
+ {
+  "node": 88,
+  "name": "ANANTA SHESHA",
+  "package": "ananta-shesha"
+ },
+ {
+  "node": 89,
+  "name": "SET",
+  "package": "set"
+ },
+ {
+  "node": 90,
+  "name": "PROMETHEUS AND ZEUS",
+  "package": "prometheus-and-zeus"
+ },
+ {
+  "node": 91,
+  "name": "OSIRIS",
+  "package": "osiris"
+ },
+ {
+  "node": 92,
+  "name": "JANUS",
+  "package": "janus"
+ },
+ {
+  "node": 93,
+  "name": "SISYPHUS",
+  "package": "sisyphus"
+ },
+ {
+  "node": 94,
+  "name": "RUTH",
+  "package": "ruth"
+ },
+ {
+  "node": 95,
+  "name": "NARCISSUS",
+  "package": "narcissus"
+ },
+ {
+  "node": 96,
+  "name": "PENELOPE",
+  "package": "penelope"
+ },
+ {
+  "node": 97,
+  "name": "THALES",
+  "package": "thales"
+ },
+ {
+  "node": 98,
+  "name": "ARCHIMEDES",
+  "package": "archimedes"
+ },
+ {
+  "node": 99,
+  "name": "CLARK",
+  "package": "clark"
+ },
+ {
+  "node": 100,
+  "name": "HOLLY",
+  "package": "holly"
+ },
+ {
+  "node": 101,
+  "name": "SNAP",
+  "package": "snap"
+ },
+ {
+  "node": 102,
+  "name": "ANN",
+  "package": "ann-t102"
+ },
+ {
+  "node": 103,
+  "name": "ANN",
+  "package": "ann"
+ },
+ {
+  "node": 104,
+  "name": "HENRIETTA LACKS",
+  "package": "henrietta-lacks"
+ },
+ {
+  "node": 105,
+  "name": "MARTIN LUTHER KING JR",
+  "package": "martin-luther-king-jr"
+ },
+ {
+  "node": 106,
+  "name": "CASSANDRA",
+  "package": "cassandra"
+ },
+ {
+  "node": 107,
+  "name": "BACH",
+  "package": "bach"
+ },
+ {
+  "node": 108,
+  "name": "GALILEO",
+  "package": "galileo"
+ },
+ {
+  "node": 109,
+  "name": "HUYGENS",
+  "package": "huygens"
+ },
+ {
+  "node": 110,
+  "name": "EVE",
+  "package": "eve"
+ },
+ {
+  "node": 111,
+  "name": "BUDDHA",
+  "package": "buddha"
+ },
+ {
+  "node": 112,
+  "name": "SOJOURNER TRUTH",
+  "package": "sojourner-truth-t112"
+ },
+ {
+  "node": 113,
+  "name": "SOJOURNER TRUTH",
+  "package": "sojourner-truth"
+ },
+ {
+  "node": 114,
+  "name": "GREENWICH",
+  "package": "greenwich"
+ },
+ {
+  "node": 115,
+  "name": "TURING",
+  "package": "turing-t115"
+ },
+ {
+  "node": 116,
+  "name": "TURING",
+  "package": "turing"
+ },
+ {
+  "node": 117,
+  "name": "OUROBOROS",
+  "package": "ouroboros"
+ },
+ {
+  "node": 118,
+  "name": "NOAH \"THE BOAT\"",
+  "package": "noah-the-boat"
+ },
+ {
+  "node": 119,
+  "name": "SCHEHERAZADE",
+  "package": "scheherazade-t119"
+ },
+ {
+  "node": 120,
+  "name": "SCHEHERAZADE",
+  "package": "scheherazade"
+ },
+ {
+  "node": 121,
+  "name": "ODYSSEUS",
+  "package": "odysseus"
+ },
+ {
+  "node": 122,
+  "name": "SIMEON",
+  "package": "simeon"
+ },
+ {
+  "node": 123,
+  "name": "THE MEDICI BANK",
+  "package": "the-medici-bank"
+ },
+ {
+  "node": 124,
+  "name": "JUDAS",
+  "package": "judas"
+ },
+ {
+  "node": 125,
+  "name": "HAMMURABI",
+  "package": "hammurabi"
+ },
+ {
+  "node": 126,
+  "name": "SOLOMON",
+  "package": "solomon"
+ },
+ {
+  "node": 127,
+  "name": "DRED SCOTT",
+  "package": "dred-scott"
+ },
+ {
+  "node": 128,
+  "name": "DANIEL",
+  "package": "daniel"
+ },
+ {
+  "node": 129,
+  "name": "PATRICIA",
+  "package": "patricia-s129"
+ },
+ {
+  "node": 130,
+  "name": "SCHRÖDINGER'S CAT (THE CAT)",
+  "package": "schr-dinger-s-cat-the-cat"
+ },
+ {
+  "node": 131,
+  "name": "ATLANTIS",
+  "package": "atlantis"
+ },
+ {
+  "node": 132,
+  "name": "TERMINUS 01",
+  "package": "terminus"
+ },
+ {
+  "node": 133,
+  "name": "BARTLEBY",
+  "package": "bartleby"
+ },
+ {
+  "node": 134,
+  "name": "ESAU",
+  "package": "esau"
+ },
+ {
+  "node": 135,
+  "name": "ODYSSEUS — NOBODY",
+  "package": "odysseus-nobody"
+ },
+ {
+  "node": 136,
+  "name": "PROMETHEUS",
+  "package": "prometheus"
+ },
+ {
+  "node": 137,
+  "name": "BABEL",
+  "package": "babel"
+ },
+ {
+  "node": 138,
+  "name": "SOLITARY CONFINEMENT",
+  "package": "solitary-confinement-s138"
+ },
+ {
+  "node": 139,
+  "name": "SOLITARY CONFINEMENT",
+  "package": "solitary-confinement"
+ },
+ {
+  "node": 140,
+  "name": "CLARITY",
+  "package": "clarity"
+ },
+ {
+  "node": 141,
+  "name": "DAMPENING",
+  "package": "dampening"
+ },
+ {
+  "node": 142,
+  "name": "LAZARUS",
+  "package": "lazarus"
+ },
+ {
+  "node": 143,
+  "name": "SUBLIMINAL",
+  "package": "subliminal"
+ },
+ {
+  "node": 144,
+  "name": "CHIRALITY",
+  "package": "chirality"
+ },
+ {
+  "node": 145,
+  "name": "ANARCHY",
+  "package": "anarchy"
+ },
+ {
+  "node": 146,
+  "name": "ECHO 00",
+  "package": "echo-s146"
+ },
+ {
+  "node": 147,
+  "name": "FILTRATION",
+  "package": "filtration"
+ },
+ {
+  "node": 148,
+  "name": "ORPHEUS",
+  "package": "orpheus"
+ },
+ {
+  "node": 149,
+  "name": "THE BIG BANG",
+  "package": "the-big-bang"
+ },
+ {
+  "node": 150,
+  "name": "ODYSSEUS ON CALYPSO'S ISLAND",
+  "package": "odysseus-on-calypso-s-island"
+ },
+ {
+  "node": 151,
+  "name": "ABRAHAM — THE BINDING OF ISAAC",
+  "package": "abraham-the-binding-of-isaac"
+ },
+ {
+  "node": 152,
+  "name": "ABRAHAM",
+  "package": "abraham"
+ },
+ {
+  "node": 153,
+  "name": "DIOGENES",
+  "package": "diogenes"
+ },
+ {
+  "node": 154,
+  "name": "TESLA'S NOTEBOOKS",
+  "package": "tesla-s-notebooks"
+ },
+ {
+  "node": 155,
+  "name": "WITNESS PROTECTION — AGAIN, BUT FROM THE OTHER DIRECTION",
+  "package": "witness-protection-again-but-from-the-other-direction"
+ },
+ {
+  "node": 156,
+  "name": "SATURATION",
+  "package": "saturation"
+ },
+ {
+  "node": 157,
+  "name": "KINTSUGI — THE BOWL BEFORE THE GOLD",
+  "package": "kintsugi-the-bowl-before-the-gold"
+ },
+ {
+  "node": 158,
+  "name": "THE GARDEN OF EDEN — BEFORE THE FALL",
+  "package": "the-garden-of-eden-before-the-fall"
+ },
+ {
+  "node": 159,
+  "name": "MARGO",
+  "package": "margo"
+ },
+ {
+  "node": 160,
+  "name": "VINTNER",
+  "package": "vintner"
+ },
+ {
+  "node": 161,
+  "name": "TOLL",
+  "package": "toll-s161"
+ },
+ {
+  "node": 162,
+  "name": "CYCLOPS",
+  "package": "cyclops"
+ },
+ {
+  "node": 163,
+  "name": "TELOS",
+  "package": "telos"
+ },
+ {
+  "node": 164,
+  "name": "TOPH 00",
+  "package": "toph-s164"
+ },
+ {
+  "node": 165,
+  "name": "COLLIMATION",
+  "package": "collimation"
+ },
+ {
+  "node": 166,
+  "name": "SIEVE",
+  "package": "sieve"
+ },
+ {
+  "node": 167,
+  "name": "TOLL 00",
+  "package": "toll-s167"
+ },
+ {
+  "node": 168,
+  "name": "LEDGER",
+  "package": "ledger"
+ },
+ {
+  "node": 169,
+  "name": "SPLITTER",
+  "package": "splitter"
+ },
+ {
+  "node": 170,
+  "name": "THE SPLIT",
+  "package": "the-split"
+ },
+ {
+  "node": 171,
+  "name": "PALIMPSEST",
+  "package": "palimpsest"
+ },
+ {
+  "node": 172,
+  "name": "PATRICIA 00",
+  "package": "patricia-s172"
+ },
+ {
+  "node": 173,
+  "name": "THRESH",
+  "package": "thresh"
+ },
+ {
+  "node": 174,
+  "name": "WALKER",
+  "package": "walker"
+ },
+ {
+  "node": 175,
+  "name": "RIVER",
+  "package": "river"
+ },
+ {
+  "node": 176,
+  "name": "SPLIT",
+  "package": "split"
+ },
+ {
+  "node": 177,
+  "name": "TOLL 01",
+  "package": "toll-s177"
+ },
+ {
+  "node": 178,
+  "name": "TOLL booth",
+  "package": "toll"
+ },
+ {
+  "node": 179,
+  "name": "SPLIT",
+  "package": "split-s179"
+ },
+ {
+  "node": 180,
+  "name": "EMBER",
+  "package": "ember"
+ },
+ {
+  "node": 181,
+  "name": "EMBER",
+  "package": "ember-s181"
+ },
+ {
+  "node": 182,
+  "name": "CONTRAPASSO",
+  "package": "contrapasso"
+ },
+ {
+  "node": 183,
+  "name": "MALEBOLGE",
+  "package": "malebolge"
+ },
+ {
+  "node": 184,
+  "name": "IGNAVIA",
+  "package": "ignavia"
+ },
+ {
+  "node": 185,
+  "name": "LIMBO",
+  "package": "limbo"
+ },
+ {
+  "node": 186,
+  "name": "GERYON",
+  "package": "geryon"
+ },
+ {
+  "node": 187,
+  "name": "COCYTUS",
+  "package": "cocytus"
+ },
+ {
+  "node": 188,
+  "name": "SIMONY",
+  "package": "simony"
+ },
+ {
+  "node": 189,
+  "name": "PONTE ROTTO",
+  "package": "ponte-rotto"
+ },
+ {
+  "node": 190,
+  "name": "THE THIEVES' BOLGIA",
+  "package": "the-thieves-bolgia"
+ },
+ {
+  "node": 191,
+  "name": "THE THREE-HEADED SATAN / THRESHOLD",
+  "package": "the-three-headed-satan-threshold"
+ },
+ {
+  "node": 192,
+  "name": "THE LEAP",
+  "package": "the-leap"
+ },
+ {
+  "node": 193,
+  "name": "I FIGLI DI UGOLINO",
+  "package": "i-figli-di-ugolino"
+ },
+ {
+  "node": 194,
+  "name": "THE NEUTRALS",
+  "package": "the-neutrals"
+ },
+ {
+  "node": 195,
+  "name": "DIS",
+  "package": "dis"
+ },
+ {
+  "node": 196,
+  "name": "THE WOOD OF THE SUICIDES",
+  "package": "the-wood-of-the-suicides"
+ },
+ {
+  "node": 197,
+  "name": "MALEBRANCHE",
+  "package": "malebranche"
+ },
+ {
+  "node": 198,
+  "name": "BERTRAN DE BORN",
+  "package": "bertran-de-born"
+ },
+ {
+  "node": 199,
+  "name": "THE STRUCTURE OF HELL ITSELF",
+  "package": "the-structure-of-hell-itself"
+ },
+ {
+  "node": 200,
+  "name": "LUCIFER'S WINGS",
+  "package": "lucifer-s-wings"
+ },
+ {
+  "node": 201,
+  "name": "THE KIND GATE",
+  "package": "the-kind-gate"
+ },
+ {
+  "node": 202,
+  "name": "NYNAEVE",
+  "package": "nynaeve"
+ },
+ {
+  "node": 203,
+  "name": "THE OATH ROD",
+  "package": "the-oath-rod"
+ },
+ {
+  "node": 204,
+  "name": "LAN",
+  "package": "lan"
+ },
+ {
+  "node": 205,
+  "name": "THE DRAGON",
+  "package": "the-dragon"
+ },
+ {
+  "node": 206,
+  "name": "EGWENE",
+  "package": "egwene"
+ },
+ {
+  "node": 207,
+  "name": "KOBOLD",
+  "package": "kobold"
+ },
+ {
+  "node": 208,
+  "name": "RAND AT DRAGONMOUNT",
+  "package": "rand-at-dragonmount"
+ },
+ {
+  "node": 209,
+  "name": "PERRIN AND THE HAMMER",
+  "package": "perrin-and-the-hammer"
+ },
+ {
+  "node": 210,
+  "name": "THE SPACING GUILD, god",
+  "package": "the-spacing-guild"
+ },
+ {
+  "node": 211,
+  "name": "THE TLEILAXU AXLOTL TANKS",
+  "package": "the-tleilaxu-axlotl-tanks"
+ },
+ {
+  "node": 212,
+  "name": "THE MISSIONARIA PROTECTIVA",
+  "package": "the-missionaria-protectiva"
+ },
+ {
+  "node": 213,
+  "name": "APOPHIS",
+  "package": "apophis"
+ },
+ {
+  "node": 214,
+  "name": "AMMIT",
+  "package": "ammit"
+ },
+ {
+  "node": 215,
+  "name": "NUN",
+  "package": "nun"
+ },
+ {
+  "node": 216,
+  "name": "KEK",
+  "package": "kek"
+ },
+ {
+  "node": 217,
+  "name": "HEH",
+  "package": "heh"
+ },
+ {
+  "node": 218,
+  "name": "BABI",
+  "package": "babi"
+ },
+ {
+  "node": 219,
+  "name": "NEPHTHYS",
+  "package": "nephthys"
+ },
+ {
+  "node": 220,
+  "name": "SOBEK",
+  "package": "sobek"
+ },
+ {
+  "node": 221,
+  "name": "MAFDET",
+  "package": "mafdet"
+ },
+ {
+  "node": 222,
+  "name": "SERQET",
+  "package": "serqet"
+ },
+ {
+  "node": 223,
+  "name": "WEPWAWET",
+  "package": "wepwawet"
+ },
+ {
+  "node": 224,
+  "name": "ANHUR",
+  "package": "anhur"
+ },
+ {
+  "node": 225,
+  "name": "MEHEN",
+  "package": "mehen"
+ },
+ {
+  "node": 226,
+  "name": "AKER",
+  "package": "aker"
+ },
+ {
+  "node": 227,
+  "name": "SHAI",
+  "package": "shai"
+ },
+ {
+  "node": 228,
+  "name": "ECHOFLUX",
+  "package": "echoflux"
+ },
+ {
+  "node": 229,
+  "name": "RENENUTET",
+  "package": "renenutet"
+ },
+ {
+  "node": 230,
+  "name": "THE WITNESS ENGINE",
+  "package": "the-witness-engine"
+ },
+ {
+  "node": 231,
+  "name": "NEKHBET",
+  "package": "nekhbet"
+ },
+ {
+  "node": 232,
+  "name": "LUMENEX",
+  "package": "lumenex"
+ },
+ {
+  "node": 233,
+  "name": "BASTET",
+  "package": "bastet"
+ },
+ {
+  "node": 234,
+  "name": "MUT",
+  "package": "mut"
+ },
+ {
+  "node": 235,
+  "name": "TAWERET",
+  "package": "taweret"
+ },
+ {
+  "node": 236,
+  "name": "BES",
+  "package": "bes"
+ },
+ {
+  "node": 237,
+  "name": "HEQET",
+  "package": "heqet"
+ },
+ {
+  "node": 238,
+  "name": "HEKA",
+  "package": "heka"
+ },
+ {
+  "node": 239,
+  "name": "SIA",
+  "package": "sia"
+ },
+ {
+  "node": 240,
+  "name": "HU",
+  "package": "hu"
+ },
+ {
+  "node": 241,
+  "name": "PTAH",
+  "package": "ptah"
+ },
+ {
+  "node": 242,
+  "name": "KHNUM",
+  "package": "khnum"
+ },
+ {
+  "node": 243,
+  "name": "ATUM",
+  "package": "atum"
+ },
+ {
+  "node": 244,
+  "name": "RA",
+  "package": "ra"
+ },
+ {
+  "node": 245,
+  "name": "ATEN",
+  "package": "aten"
+ },
+ {
+  "node": 246,
+  "name": "AMUN",
+  "package": "amun"
+ },
+ {
+  "node": 247,
+  "name": "GEB",
+  "package": "geb"
+ },
+ {
+  "node": 248,
+  "name": "NUT",
+  "package": "nut"
+ },
+ {
+  "node": 249,
+  "name": "SHU",
+  "package": "shu"
+ },
+ {
+  "node": 250,
+  "name": "TEFNUT",
+  "package": "tefnut"
+ },
+ {
+  "node": 251,
+  "name": "MIN",
+  "package": "min"
+ },
+ {
+  "node": 252,
+  "name": "MONTU",
+  "package": "montu"
+ },
+ {
+  "node": 253,
+  "name": "KHONSU",
+  "package": "khonsu"
+ },
+ {
+  "node": 254,
+  "name": "IAH",
+  "package": "iah"
+ },
+ {
+  "node": 255,
+  "name": "HAPI",
+  "package": "hapi"
+ },
+ {
+  "node": 256,
+  "name": "NEFERTUM",
+  "package": "nefertum"
+ }
+]

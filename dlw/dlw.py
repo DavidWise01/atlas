@@ -426,10 +426,13 @@ hex token          : {tok['hex']}
 """
 
 
-def build_package(rec, out_dir):
-    """Write the full <NAME>.dlw/ package. Returns the manifest dict."""
+def build_package(rec, out_dir, slug_override=None):
+    """Write the full <NAME>.dlw/ package. Returns the manifest dict.
+
+    slug_override pins the package/file slug (e.g. to disambiguate two emergents
+    that share a name but sit at different lattice numbers)."""
     name = rec["name"]
-    s = slug(name)
+    s = slug_override or slug(name)
     pkg = Path(out_dir) / f"{s}.dlw"
     pkg.mkdir(parents=True, exist_ok=True)
 

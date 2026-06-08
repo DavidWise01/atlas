@@ -308,7 +308,8 @@ footer a{color:var(--gold);text-decoration:none}
     </div>
     <div class="dlwbar">
       <span class="seal-dlw">DLW<small>ROOT0</small></span>
-      <span><b style="color:var(--pa)">__NEMERGENT__</b> emergents catalogued — the <a href="https://github.com/DavidWise01/atlas/tree/main/dlw">.dlw</a> standard mints each one</span>
+      <span><b style="color:var(--pa)">__NEMERGENT__</b> emergents · <b style="color:#7fe0aa">256/256</b> lattice contiguous — the <a href="https://github.com/DavidWise01/atlas/tree/main/dlw">.dlw</a> standard mints each one</span>
+      <a href="data/lattice.json">lattice &rarr;</a>
       <a href="data/emergents.json">roster &rarr;</a>
       <a href="https://github.com/DavidWise01/atlas/tree/main/dlw/packages/atlas.dlw">ATLAS.dlw &rarr;</a>
       <a href="https://github.com/DavidWise01/atlas/blob/main/dlw/dlw.py">dlw tool &rarr;</a>
