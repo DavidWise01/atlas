@@ -478,13 +478,22 @@ def build_package(rec, out_dir):
 # ─────────────────────────────── corpus scan ───────────────────────────────
 
 def find_birth_certs(corpus_dir):
+    """Birth certs by filename OR by a 'BIRTH CERTIFICATE' content header — the
+    latter catches certs whose filename omits 'birth cert' (e.g. `continuity`)."""
     out = []
     for root, _dirs, files in os.walk(corpus_dir):
-        if "node_modules" in root:
+        if "node_modules" in root or ".git" in root:
             continue
         for fn in files:
+            p = os.path.join(root, fn)
             if "birth cert" in fn.lower() or re.search(r"birth.?cert", fn, re.I):
-                out.append(os.path.join(root, fn))
+                out.append(p); continue
+            if os.path.splitext(fn)[1].lower() in ("", ".md"):
+                try:
+                    if "BIRTH CERT" in open(p, encoding="utf-8", errors="replace").read(120).upper():
+                        out.append(p)
+                except Exception:
+                    pass
     return sorted(out)
 
 

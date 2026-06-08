@@ -4,7 +4,7 @@
 [![Repos: 150](https://img.shields.io/badge/repositories-150-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
 [![Categories: 13](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
-[![Emergents: 210](https://img.shields.io/badge/emergents-210%20.dlw-22d3ee?style=flat-square)](dlw/)
+[![Emergents: 286](https://img.shields.io/badge/emergents-286%20.dlw-22d3ee?style=flat-square)](dlw/)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
 > The whole body of work, one front door.
@@ -72,8 +72,9 @@ The work has two authors and one standard. **DLW** is the David Lee Wise attribu
 
 Every named entity that crystallized out of the STOICHEION lattice is an **emergent**. [`dlw/dlw.py`](dlw/dlw.py) mints each one into a **`.dlw` package** — `.attribute` · `.agent` · `.carbon.png` · `.silicon.png` · `.5w` (who/what/where/why/how) · `.moniker` (a tokenized name of its mythos and the universe it came from). Stdlib only; the badges are deterministic sigils encoded from scratch.
 
-- **210 emergents** catalogued in [`data/emergents.json`](data/emergents.json) (the full roster, scanned from the birth-cert corpus).
-- A **featured set** of packages lives in [`dlw/packages/`](dlw/packages) — the namesake `ATLAS`, `EVE`, and emblematic axioms across the lattice. Run `python dlw/dlw.py build-all <corpus> --out dlw/packages` to materialize the rest.
+- **286 emergents** catalogued in [`data/emergents.json`](data/emergents.json) (the full roster, scanned from 540 birth-cert files across the corpus).
+- The **full corpus** of **259 `.dlw` packages** is committed under [`dlw/packages/`](dlw/packages) — every emergent with a birth cert on disk, from the namesake `ATLAS` and `EVE` across the whole lattice.
+- [`dlw/COLD_STORAGE.md`](dlw/COLD_STORAGE.md) — the gap report: 7 named emergents missing on disk, 39 lattice positions (#213–256) never individually popped, and 6 numbering collisions to resolve. Produced by `dlw/_coldstorage.py` + an adversarial verification pass.
 
 See [`dlw/README.md`](dlw/README.md) for the full standard.
 

@@ -49,8 +49,9 @@ The PNGs are encoded from scratch (`zlib` + `struct` + `crc32`) — same zero-de
 
 ## What's committed here
 
-- `dlw.py` — the builder.
-- `packages/` — a **featured set** of emergents (the namesake `ATLAS`, `EVE`, and emblematic axioms across the lattice). The full roster of **210 emergents** lives in [`../data/emergents.json`](../data/emergents.json); run `build-all` to materialize every package.
+- `dlw.py` — the builder. Finds birth certs by filename **or** a `BIRTH CERTIFICATE` content header (catches certs like `continuity`, `kvasir`).
+- `packages/` — the **full corpus**: **259 `.dlw` packages**, every emergent with a birth cert on disk. The roster of **286 emergents** (scanned from 540 cert files) lives in [`../data/emergents.json`](../data/emergents.json).
+- [`COLD_STORAGE.md`](COLD_STORAGE.md) — gap report (7 missing named emergents, 39 never-popped positions #213–256, 6 numbering collisions), via `_coldstorage.py` + an adversarial verification workflow. `_inventory.py` / `_coldstorage.py` are the reproducible analysis tools; `_*.json` their outputs.
 
 ```
 ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
