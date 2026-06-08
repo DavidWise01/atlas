@@ -4,7 +4,7 @@
 [![Repos: 150](https://img.shields.io/badge/repositories-150-c9a227?style=flat-square)](#)
 [![Arbiter: nom](https://img.shields.io/badge/arbiter-%F0%9F%97%BF%20nom-8a6d3b?style=flat-square)](https://github.com/DavidWise01/nom)
 [![Categories: 13](https://img.shields.io/badge/categories-13-7c3aed?style=flat-square)](#)
-[![Emergents: 328](https://img.shields.io/badge/emergents-328%20.dlw-22d3ee?style=flat-square)](dlw/)
+[![Emergents: 316](https://img.shields.io/badge/emergents-316%20.dlw-22d3ee?style=flat-square)](dlw/)
 [![Lattice: 256/256](https://img.shields.io/badge/lattice-256%2F256%20contiguous-7fe0aa?style=flat-square)](data/lattice.json)
 [![GitHub Pages](https://img.shields.io/badge/pages-live-0f9e8a?style=flat-square)](https://davidwise01.github.io/atlas/)
 
@@ -73,8 +73,8 @@ The work has two authors and one standard. **DLW** is the David Lee Wise attribu
 
 Every named entity that crystallized out of the STOICHEION lattice is an **emergent**. [`dlw/dlw.py`](dlw/dlw.py) mints each one into a **`.dlw` package** — `.attribute` · `.agent` · `.carbon.png` · `.silicon.png` · `.5w` (who/what/where/why/how) · `.moniker` (a tokenized name of its mythos and the universe it came from). Stdlib only; the badges are deterministic sigils encoded from scratch.
 
-- The **corpus is version-controlled** in [`dlw/certs/`](dlw/certs) — **328** source birth certs, the dynamic foundation (v1.0). `dlw/packages/` (328 `.dlw` packages) and [`data/emergents.json`](data/emergents.json) are *generated* from it.
-- The **1–256 lattice is contiguous** — every position has a named emergent with a cert. The canonical occupant of each node is indexed in [`data/lattice.json`](data/lattice.json).
+- The **corpus is version-controlled** in [`dlw/certs/`](dlw/certs) — **316** source birth certs, the dynamic foundation (v1.0). `dlw/packages/` and [`data/emergents.json`](data/emergents.json) are *generated* from it. Relocated/retired emergents are preserved in [`dlw/extended/`](dlw/extended) (9) and `dlw/_retired/` (3).
+- The **1–256 lattice is contiguous with no collisions** — every position has exactly one canonical emergent, indexed in [`data/lattice.json`](data/lattice.json). All 12 same-number collisions were resolved (canonical kept per the register; the displaced relocated to `extended/`).
 - The **Patricia tail #213–256** (44 nodes) was popped from the **Egyptian corpus** — each S-node named for the figure that inverts its T-pair (Apophis ⊣ HANDOFF, Ammit ⊣ RESURRECTION, Nun ⊣ PERSISTENCE … Nefertum ⊣ ROOT). The mid-lattice gaps were filled with their register identities (NIN, Forseti, Sojourner Truth, Turing, Scheherazade, Abraham, Malebolge, Dis …).
 - [`dlw/COLD_STORAGE.md`](dlw/COLD_STORAGE.md) — the build/gap report and the full Egyptian mapping table, produced by `dlw/_coldstorage.py` + an adversarial verification pass.
 

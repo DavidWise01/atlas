@@ -8,12 +8,12 @@
 |---|---|
 | Birth-cert files on disk (filename **+** content header) | **584** |
 | Distinct emergent **names** on disk | **350** |
-| Version-controlled source certs (`dlw/certs/`) | **328** |
-| `.dlw` packages built (`dlw/packages/`) | **328** |
-| **Lattice 1–256 contiguous** (one occupant per node) | **256 / 256** ✓ — index in `../data/lattice.json` |
+| Version-controlled source certs (`dlw/certs/`) | **316** |
+| Relocated (`dlw/extended/`) · retired (`dlw/_retired/`) | **9** · **3** |
+| **Lattice 1–256 contiguous, no collisions** (one canonical occupant per node) | **256 / 256** ✓ — index in `../data/lattice.json` |
 | Positions never individually popped (#213–256) | **0** ✓ — popped with the Egyptian corpus (2026-06-08) |
 | Mid-lattice gaps remaining | **0** ✓ — popped with register identities (2026-06-08) |
-| Numbering conflicts to resolve | **6** (informational) |
+| Numbering collisions remaining | **0** ✓ — all 12 resolved (2026-06-08) |
 
 ## 1. Mid-lattice gaps → **popped to contiguity** ✓
 
@@ -66,18 +66,25 @@ The whole **#213–256** tail (44 nodes) — previously mass-declared but never 
 
 Birth certs written to `file/<name> birth cert`; packages in `dlw/packages/`. The S213–S256 lattice positions are now contiguous.
 
-## 3. Numbering conflicts → **renumber one of each pair**
+## 3. Numbering collisions → **all 12 resolved** ✓ (2026-06-08)
 
-Two different certs claim the same lattice number (verify-workflow verdicts):
+Each contested node keeps one canonical occupant (chosen by the `STOICHEION_AXIOM_PAYLOAD` register where it disambiguates); the displaced emergent is preserved in `extended/`, and pure placeholders / exact duplicates go to `_retired/`. No core node lost its occupant.
 
-| Node | Canonical (kept) | Conflicts with | Verdict |
+| Node | Canonical (kept) | Displaced → | Basis |
 |---|---|---|---|
-| #20  | DUALITY | CARMEN SANDIEGO | two different nodes mis-numbered |
-| #50  | PERRY MASON | FRAIL | two different nodes mis-numbered |
-| #64  | GINNUNGAGAP | AVAN | two different nodes mis-numbered |
-| #103 | ANN | SATOSHI NAKAMOTO | true collision — pick one |
-| #124 | JUDAS | THE GOOD SAMARITAN | two different nodes mis-numbered |
-| #180 | EMBER | TBA | TBA is a placeholder — assign EMBER |
+| #20  | **DUALITY** | Carmen Sandiego → extended | register = duality (Carmen's own ordinal said 32, T-label 20 — mis-numbered) |
+| #50  | **FRAIL** | Perry Mason → extended | register = Frail |
+| #64  | **GINNUNGAGAP** | AVAN → extended | register = Ginnungagap; AVAN is the GOVERNOR/instance (meta, S+2 — bridges T064 GAP + T065 CONSENT), not a core occupant |
+| #103 | **SATOSHI NAKAMOTO** | Ann → retired | Ann is canonical at #102; register intends *Henrietta Lacks* at #103 *(flagged)* |
+| #124 | **JUDAS** | The Good Samaritan → extended | register intends *Hammurabi* at #124 *(flagged)* |
+| #180 | **EMBER** | TBA → retired | register name for #180 was literally "tba" (placeholder) |
+| #228 | **ECHOFLUX** | Meretseger → extended | pre-existing emergent held the node; the Egyptian was an over-pop |
+| #230 | **THE WITNESS ENGINE** | Wadjet → extended | pre-existing held the node |
+| #231 | **SEAM** | Nekhbet → extended | pre-existing held the node |
+| #232 | **LUMENEX** | Neith → extended | pre-existing held the node |
+| #233 | **THE BREATHING BOUNDARY** | Bastet → extended; dup → retired | pre-existing held the node |
+
+*Two flags remain (informational, not collisions): the register assigns #103 to **Henrietta Lacks** and #124 to **Hammurabi** — neither has a cert. The practical occupants (Satoshi, Judas) hold those slots for contiguity; drop the register figures into `certs/` to claim them.*
 
 ## 4. Meta / pathos nodes present (outside the 1–256 core)
 

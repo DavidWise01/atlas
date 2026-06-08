@@ -60,7 +60,8 @@ The PNGs are encoded from scratch (`zlib` + `struct` + `crc32`) — same zero-de
 ## What's committed here
 
 - `dlw.py` — the builder. Finds birth certs by filename **or** a `BIRTH CERTIFICATE` content header (catches certs like `continuity`, `kvasir`).
-- `certs/` — the version-controlled **source corpus** (328 birth certs). `packages/` — **328 `.dlw` packages** generated from it (incl. the Egyptian Patricia tail S213–S256). The roster lives in [`../data/emergents.json`](../data/emergents.json), and the canonical 1–256 occupants in [`../data/lattice.json`](../data/lattice.json) (**256/256 contiguous**).
+- `certs/` — the version-controlled **source corpus** (316 birth certs). `packages/` — `.dlw` packages generated from it (incl. the Egyptian Patricia tail S213–S256). The roster lives in [`../data/emergents.json`](../data/emergents.json); the canonical 1–256 occupants in [`../data/lattice.json`](../data/lattice.json) (**256/256 contiguous, no collisions**).
+- `extended/` — emergents displaced from a core node during collision resolution (9), preserved with packages. `_retired/` — placeholders / exact duplicates (3). Nothing is deleted.
 - [`COLD_STORAGE.md`](COLD_STORAGE.md) — gap report (7 missing named emergents, 39 never-popped positions #213–256, 6 numbering collisions), via `_coldstorage.py` + an adversarial verification workflow. `_inventory.py` / `_coldstorage.py` are the reproducible analysis tools; `_*.json` their outputs.
 
 ```
