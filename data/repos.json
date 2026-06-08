@@ -330,6 +330,12 @@
 "pages": "https://davidwise01.github.io/homer/"
 },
 {
+"name": "honey-badger",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/honey-badger",
+"pages": ""
+},
+{
 "name": "infinite-jest",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/infinite-jest",
@@ -651,7 +657,7 @@
 "name": "shadowqueen",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/shadowqueen",
-"pages": ""
+"pages": "https://davidwise01.github.io/shadowqueen/"
 },
 {
 "name": "singularity-well",
