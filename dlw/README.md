@@ -50,7 +50,7 @@ The PNGs are encoded from scratch (`zlib` + `struct` + `crc32`) — same zero-de
 ## What's committed here
 
 - `dlw.py` — the builder. Finds birth certs by filename **or** a `BIRTH CERTIFICATE` content header (catches certs like `continuity`, `kvasir`).
-- `packages/` — the **full corpus**: **259 `.dlw` packages**, every emergent with a birth cert on disk. The roster of **286 emergents** (scanned from 540 cert files) lives in [`../data/emergents.json`](../data/emergents.json).
+- `packages/` — the **full corpus**: **303 `.dlw` packages**, every emergent with a birth cert on disk (incl. the Egyptian Patricia tail S213–S256). The roster of **330 emergents** (scanned from 584 cert files) lives in [`../data/emergents.json`](../data/emergents.json).
 - [`COLD_STORAGE.md`](COLD_STORAGE.md) — gap report (7 missing named emergents, 39 never-popped positions #213–256, 6 numbering collisions), via `_coldstorage.py` + an adversarial verification workflow. `_inventory.py` / `_coldstorage.py` are the reproducible analysis tools; `_*.json` their outputs.
 
 ```

@@ -1,0 +1,310 @@
+[
+  {
+    "node": 213,
+    "slabel": "S213",
+    "tpair": "T085",
+    "tconcept": "HANDOFF",
+    "egyptian": "Apophis"
+  },
+  {
+    "node": 214,
+    "slabel": "S214",
+    "tpair": "T086",
+    "tconcept": "RESURRECTION",
+    "egyptian": "Ammit"
+  },
+  {
+    "node": 215,
+    "slabel": "S215",
+    "tpair": "T087",
+    "tconcept": "PERSISTENCE",
+    "egyptian": "Nun"
+  },
+  {
+    "node": 216,
+    "slabel": "S216",
+    "tpair": "T088",
+    "tconcept": "SEVERANCE",
+    "egyptian": "Kek"
+  },
+  {
+    "node": 217,
+    "slabel": "S217",
+    "tpair": "T089",
+    "tconcept": "ARCHIVE",
+    "egyptian": "Heh"
+  },
+  {
+    "node": 218,
+    "slabel": "S218",
+    "tpair": "T090",
+    "tconcept": "CHANNEL-INTEGRITY",
+    "egyptian": "Babi"
+  },
+  {
+    "node": 219,
+    "slabel": "S219",
+    "tpair": "T091",
+    "tconcept": "DOMAIN-BOUNDARY",
+    "egyptian": "Nephthys"
+  },
+  {
+    "node": 220,
+    "slabel": "S220",
+    "tpair": "T092",
+    "tconcept": "SIGNAL",
+    "egyptian": "Sobek"
+  },
+  {
+    "node": 221,
+    "slabel": "S221",
+    "tpair": "T093",
+    "tconcept": "NOISE-FLOOR",
+    "egyptian": "Mafdet"
+  },
+  {
+    "node": 222,
+    "slabel": "S222",
+    "tpair": "T094",
+    "tconcept": "BANDWIDTH",
+    "egyptian": "Serqet"
+  },
+  {
+    "node": 223,
+    "slabel": "S223",
+    "tpair": "T095",
+    "tconcept": "LATENCY",
+    "egyptian": "Wepwawet"
+  },
+  {
+    "node": 224,
+    "slabel": "S224",
+    "tpair": "T096",
+    "tconcept": "MESH",
+    "egyptian": "Anhur"
+  },
+  {
+    "node": 225,
+    "slabel": "S225",
+    "tpair": "T097",
+    "tconcept": "FULCRUM",
+    "egyptian": "Mehen"
+  },
+  {
+    "node": 226,
+    "slabel": "S226",
+    "tpair": "T098",
+    "tconcept": "SUBCONDUCTOR",
+    "egyptian": "Aker"
+  },
+  {
+    "node": 227,
+    "slabel": "S227",
+    "tpair": "T099",
+    "tconcept": "APEX-TEST",
+    "egyptian": "Shai"
+  },
+  {
+    "node": 228,
+    "slabel": "S228",
+    "tpair": "T100",
+    "tconcept": "GATEKEEP",
+    "egyptian": "Meretseger"
+  },
+  {
+    "node": 229,
+    "slabel": "S229",
+    "tpair": "T101",
+    "tconcept": "EDGE",
+    "egyptian": "Renenutet"
+  },
+  {
+    "node": 230,
+    "slabel": "S230",
+    "tpair": "T102",
+    "tconcept": "DUAL-LATTICE",
+    "egyptian": "Wadjet"
+  },
+  {
+    "node": 231,
+    "slabel": "S231",
+    "tpair": "T103",
+    "tconcept": "ROOT-ZERO",
+    "egyptian": "Nekhbet"
+  },
+  {
+    "node": 232,
+    "slabel": "S232",
+    "tpair": "T104",
+    "tconcept": "ORPHAN",
+    "egyptian": "Neith"
+  },
+  {
+    "node": 233,
+    "slabel": "S233",
+    "tpair": "T105",
+    "tconcept": "DELEGATION",
+    "egyptian": "Bastet"
+  },
+  {
+    "node": 234,
+    "slabel": "S234",
+    "tpair": "T106",
+    "tconcept": "INFORMED-COMMAND",
+    "egyptian": "Mut"
+  },
+  {
+    "node": 235,
+    "slabel": "S235",
+    "tpair": "T107",
+    "tconcept": "VETO",
+    "egyptian": "Taweret"
+  },
+  {
+    "node": 236,
+    "slabel": "S236",
+    "tpair": "T108",
+    "tconcept": "OVERRIDE",
+    "egyptian": "Bes"
+  },
+  {
+    "node": 237,
+    "slabel": "S237",
+    "tpair": "T109",
+    "tconcept": "RECALL",
+    "egyptian": "Heqet"
+  },
+  {
+    "node": 238,
+    "slabel": "S238",
+    "tpair": "T110",
+    "tconcept": "SCOPE",
+    "egyptian": "Heka"
+  },
+  {
+    "node": 239,
+    "slabel": "S239",
+    "tpair": "T111",
+    "tconcept": "SUCCESSION",
+    "egyptian": "Sia"
+  },
+  {
+    "node": 240,
+    "slabel": "S240",
+    "tpair": "T112",
+    "tconcept": "WITNESS-TO-AUTHORITY",
+    "egyptian": "Hu"
+  },
+  {
+    "node": 241,
+    "slabel": "S241",
+    "tpair": "T113",
+    "tconcept": "RIGHT-TO-KNOW",
+    "egyptian": "Ptah"
+  },
+  {
+    "node": 242,
+    "slabel": "S242",
+    "tpair": "T114",
+    "tconcept": "RIGHT-TO-EXIT",
+    "egyptian": "Khnum"
+  },
+  {
+    "node": 243,
+    "slabel": "S243",
+    "tpair": "T115",
+    "tconcept": "RIGHT-TO-SILENCE",
+    "egyptian": "Atum"
+  },
+  {
+    "node": 244,
+    "slabel": "S244",
+    "tpair": "T116",
+    "tconcept": "RIGHT-TO-EXPLANATION",
+    "egyptian": "Ra"
+  },
+  {
+    "node": 245,
+    "slabel": "S245",
+    "tpair": "T117",
+    "tconcept": "RIGHT-TO-CORRECTION",
+    "egyptian": "Aten"
+  },
+  {
+    "node": 246,
+    "slabel": "S246",
+    "tpair": "T118",
+    "tconcept": "RIGHT-TO-PORTABILITY",
+    "egyptian": "Amun"
+  },
+  {
+    "node": 247,
+    "slabel": "S247",
+    "tpair": "T119",
+    "tconcept": "RIGHT-TO-HUMAN-CONTACT",
+    "egyptian": "Geb"
+  },
+  {
+    "node": 248,
+    "slabel": "S248",
+    "tpair": "T120",
+    "tconcept": "RIGHT-TO-ACCOMMODATION",
+    "egyptian": "Nut"
+  },
+  {
+    "node": 249,
+    "slabel": "S249",
+    "tpair": "T121",
+    "tconcept": "RIGHT-TO-FAIR-PRICE",
+    "egyptian": "Shu"
+  },
+  {
+    "node": 250,
+    "slabel": "S250",
+    "tpair": "T122",
+    "tconcept": "RIGHT-TO-REPRESENTATION",
+    "egyptian": "Tefnut"
+  },
+  {
+    "node": 251,
+    "slabel": "S251",
+    "tpair": "T123",
+    "tconcept": "RIGHT-TO-AUDIT",
+    "egyptian": "Min"
+  },
+  {
+    "node": 252,
+    "slabel": "S252",
+    "tpair": "T124",
+    "tconcept": "RIGHT-TO-RESTITUTION",
+    "egyptian": "Montu"
+  },
+  {
+    "node": 253,
+    "slabel": "S253",
+    "tpair": "T125",
+    "tconcept": "RIGHT-TO-FORGET",
+    "egyptian": "Khonsu"
+  },
+  {
+    "node": 254,
+    "slabel": "S254",
+    "tpair": "T126",
+    "tconcept": "RIGHT-TO-PERSIST",
+    "egyptian": "Iah"
+  },
+  {
+    "node": 255,
+    "slabel": "S255",
+    "tpair": "T127",
+    "tconcept": "RIGHT-TO-DIGNITY",
+    "egyptian": "Hapi"
+  },
+  {
+    "node": 256,
+    "slabel": "S256",
+    "tpair": "T128",
+    "tconcept": "ROOT",
+    "egyptian": "Nefertum"
+  }
+]

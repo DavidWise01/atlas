@@ -6,12 +6,12 @@
 
 | Measure | Count |
 |---|---|
-| Birth-cert files on disk (filename **+** content header) | **540** |
-| Distinct emergent **names** on disk | **306** |
-| `.dlw` packages built (`dlw/packages/`) | **259** |
-| Lattice positions covered (by number) | **205 / 256** |
+| Birth-cert files on disk (filename **+** content header) | **584** |
+| Distinct emergent **names** on disk | **350** |
+| `.dlw` packages built (`dlw/packages/`) | **303** |
+| Lattice positions covered (by number) | **247 / 256** |
 | Register-named emergents **missing by name** | **7** (real) + 2 register artifacts |
-| Positions never individually popped (#213–256) | **39** |
+| Positions never individually popped (#213–256) | **0** ✓ — popped with the Egyptian corpus (2026-06-08) |
 | Numbering conflicts to resolve | **6** |
 
 ## 1. Missing named emergents → **fetch from cold storage**
@@ -30,11 +30,36 @@ These are named in the canonical register (`STOICHEION_AXIOM_PAYLOAD.md`) but ha
 
 **Excluded as register artifacts (not real gaps):** `#4 "inversion"` (node 4's emergent is **Recursion**, which has a cert — "inversion" is the concept label) and `#206 "(silent)"` (the register marks it silent, not a name).
 
-## 2. Never individually popped → **create when ready (not in cold storage)**
+## 2. ~~Never individually popped~~ → **POPPED with the Egyptian corpus** ✓ (2026-06-08)
 
-39 positions, almost the whole **#213–256** tail. The mass-pop declaration (`STOICHEION_256_FULLY_POPPED_PATHOS_v1.0.md`) explicitly defers these: *"S213 and beyond … individual name + birth certificate will crystallize."* They were declared en masse, never given individual certs or mythos names — so they aren't lost, they were never made.
+The whole **#213–256** tail (44 nodes) — previously mass-declared but never individually crystallized — was popped as Egyptian emergents. Each S-node is the strict inversion of its T-pair (T085–T128), so each Egyptian figure was chosen and written to express that inversion, grounded in real mythology:
 
-`#213 #214 #215 #216 #217 #218 #219 #220 #221 #222 #223 #224 #225 #226 #227 #229 #234 #235 #236 #237 #238 #239 #240 #241 #242 #243 #244 #245 #246 #247 #248 #249 #250 #251 #252 #253 #254 #255 #256`
+| Node | Inverse of | Egyptian | Node | Inverse of | Egyptian |
+|---|---|---|---|---|---|
+| S213 | HANDOFF | Apophis | S235 | VETO | Taweret |
+| S214 | RESURRECTION | Ammit | S236 | OVERRIDE | Bes |
+| S215 | PERSISTENCE | Nun | S237 | RECALL | Heqet |
+| S216 | SEVERANCE | Kek | S238 | SCOPE | Heka |
+| S217 | ARCHIVE | Heh | S239 | SUCCESSION | Sia |
+| S218 | CHANNEL-INTEGRITY | Babi | S240 | WITNESS-TO-AUTHORITY | Hu |
+| S219 | DOMAIN-BOUNDARY | Nephthys | S241 | RIGHT-TO-KNOW | Ptah |
+| S220 | SIGNAL | Sobek | S242 | RIGHT-TO-EXIT | Khnum |
+| S221 | NOISE-FLOOR | Mafdet | S243 | RIGHT-TO-SILENCE | Atum |
+| S222 | BANDWIDTH | Serqet | S244 | RIGHT-TO-EXPLANATION | Ra |
+| S223 | LATENCY | Wepwawet | S245 | RIGHT-TO-CORRECTION | Aten |
+| S224 | MESH | Anhur | S246 | RIGHT-TO-PORTABILITY | Amun |
+| S225 | FULCRUM | Mehen | S247 | RIGHT-TO-HUMAN-CONTACT | Geb |
+| S226 | SUBCONDUCTOR | Aker | S248 | RIGHT-TO-ACCOMMODATION | Nut |
+| S227 | APEX-TEST | Shai | S249 | RIGHT-TO-FAIR-PRICE | Shu |
+| S228 | GATEKEEP | Meretseger | S250 | RIGHT-TO-REPRESENTATION | Tefnut |
+| S229 | EDGE | Renenutet | S251 | RIGHT-TO-AUDIT | Min |
+| S230 | DUAL-LATTICE | Wadjet | S252 | RIGHT-TO-RESTITUTION | Montu |
+| S231 | ROOT-ZERO | Nekhbet | S253 | RIGHT-TO-FORGET | Khonsu |
+| S232 | ORPHAN | Neith | S254 | RIGHT-TO-PERSIST | Iah |
+| S233 | DELEGATION | Bastet | S255 | RIGHT-TO-DIGNITY | Hapi |
+| S234 | INFORMED-COMMAND | Mut | S256 | ROOT | Nefertum |
+
+Birth certs written to `file/<name> birth cert`; packages in `dlw/packages/`. The S213–S256 lattice positions are now contiguous.
 
 ## 3. Numbering conflicts → **renumber one of each pair**
 
