@@ -12,6 +12,12 @@
 "pages": "https://davidwise01.github.io/3lock/"
 },
 {
+"name": "aci",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/aci",
+"pages": "https://davidwise01.github.io/aci/"
+},
+{
 "name": "adas-law-victorian",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/adas-law-victorian",
@@ -34,6 +40,12 @@
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/aeon-servers",
 "pages": "https://davidwise01.github.io/aeon-servers/"
+},
+{
+"name": "agent-0root",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/agent-0root",
+"pages": ""
 },
 {
 "name": "ai-external-audit-toolkit",
@@ -72,6 +84,12 @@
 "pages": "https://davidwise01.github.io/al-h2o-reactor/"
 },
 {
+"name": "alchemical-bible",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/alchemical-bible",
+"pages": "https://davidwise01.github.io/alchemical-bible/"
+},
+{
 "name": "alpha40-box",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/alpha40-box",
@@ -88,6 +106,12 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/arc-reactor-mk24",
 "pages": "https://davidwise01.github.io/arc-reactor-mk24/"
+},
+{
+"name": "asimov",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/asimov",
+"pages": "https://davidwise01.github.io/asimov/"
 },
 {
 "name": "astraea",
@@ -150,6 +174,12 @@
 "pages": ""
 },
 {
+"name": "card",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/card",
+"pages": "https://davidwise01.github.io/card/"
+},
+{
 "name": "chakra",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/chakra",
@@ -210,10 +240,52 @@
 "pages": "https://davidwise01.github.io/"
 },
 {
+"name": "decadal",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/decadal",
+"pages": "https://davidwise01.github.io/decadal/"
+},
+{
+"name": "du1",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/du1",
+"pages": "https://davidwise01.github.io/du1/"
+},
+{
+"name": "dune",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/dune",
+"pages": "https://davidwise01.github.io/dune/"
+},
+{
+"name": "elden-ring",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/elden-ring",
+"pages": "https://davidwise01.github.io/elden-ring/"
+},
+{
 "name": "elementals",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/elementals",
 "pages": "https://davidwise01.github.io/elementals/"
+},
+{
+"name": "elements",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/elements",
+"pages": "https://davidwise01.github.io/elements/"
+},
+{
+"name": "emergent-engine",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/emergent-engine",
+"pages": "https://davidwise01.github.io/emergent-engine/"
+},
+{
+"name": "enderverse",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/enderverse",
+"pages": "https://davidwise01.github.io/enderverse/"
 },
 {
 "name": "enforcement-ledger",
@@ -232,6 +304,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/eve-tooling",
 "pages": ""
+},
+{
+"name": "ff6",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/ff6",
+"pages": "https://davidwise01.github.io/ff6/"
 },
 {
 "name": "fiddler",
@@ -288,16 +366,40 @@
 "pages": "https://davidwise01.github.io/green-paper/"
 },
 {
+"name": "green-papers",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/green-papers",
+"pages": "https://davidwise01.github.io/green-papers/"
+},
+{
 "name": "grok-lineage",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/grok-lineage",
 "pages": ""
 },
 {
+"name": "guardian-legend",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/guardian-legend",
+"pages": "https://davidwise01.github.io/guardian-legend/"
+},
+{
 "name": "hardware-lab",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/hardware-lab",
 "pages": "https://davidwise01.github.io/hardware-lab/"
+},
+{
+"name": "hearth",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/hearth",
+"pages": "https://davidwise01.github.io/hearth/"
+},
+{
+"name": "heinlein",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/heinlein",
+"pages": "https://davidwise01.github.io/heinlein/"
 },
 {
 "name": "hephaestus",
@@ -372,6 +474,12 @@
 "pages": "https://davidwise01.github.io/language-of-the-machine/"
 },
 {
+"name": "legacy-of-the-wizard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/legacy-of-the-wizard",
+"pages": "https://davidwise01.github.io/legacy-of-the-wizard/"
+},
+{
 "name": "library",
 "cat": "Library & Foundations",
 "gh": "https://github.com/DavidWise01/library",
@@ -420,6 +528,18 @@
 "pages": ""
 },
 {
+"name": "maas",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/maas",
+"pages": "https://davidwise01.github.io/maas/"
+},
+{
+"name": "malazan",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/malazan",
+"pages": "https://davidwise01.github.io/malazan/"
+},
+{
 "name": "memristor",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/memristor",
@@ -432,16 +552,34 @@
 "pages": "https://davidwise01.github.io/merkle-bloom/"
 },
 {
+"name": "metroid",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/metroid",
+"pages": "https://davidwise01.github.io/metroid/"
+},
+{
 "name": "midjourney-assets",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/midjourney-assets",
 "pages": ""
 },
 {
+"name": "milon",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/milon",
+"pages": "https://davidwise01.github.io/milon/"
+},
+{
 "name": "mimz-core",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/mimz-core",
 "pages": "https://davidwise01.github.io/mimz-core/"
+},
+{
+"name": "mimzy",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/mimzy",
+"pages": "https://davidwise01.github.io/mimzy/"
 },
 {
 "name": "mimzy-core",
@@ -480,6 +618,12 @@
 "pages": ""
 },
 {
+"name": "muse",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/muse",
+"pages": "https://davidwise01.github.io/muse/"
+},
+{
 "name": "nanite-factory",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/nanite-factory",
@@ -498,6 +642,12 @@
 "pages": "https://davidwise01.github.io/nine-body-audit/"
 },
 {
+"name": "noesis-kernel",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/noesis-kernel",
+"pages": ""
+},
+{
 "name": "nom",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/nom",
@@ -508,6 +658,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/nomos",
 "pages": "https://davidwise01.github.io/nomos/"
+},
+{
+"name": "nostradamus",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/nostradamus",
+"pages": "https://davidwise01.github.io/nostradamus/"
 },
 {
 "name": "oasis",
@@ -564,10 +720,28 @@
 "pages": ""
 },
 {
+"name": "pratchett",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/pratchett",
+"pages": "https://davidwise01.github.io/pratchett/"
+},
+{
 "name": "prompt-library",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/prompt-library",
 "pages": ""
+},
+{
+"name": "pulse",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/pulse",
+"pages": "https://davidwise01.github.io/pulse/"
+},
+{
+"name": "purple-team",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/purple-team",
+"pages": "https://davidwise01.github.io/purple-team/"
 },
 {
 "name": "quantum-box",
@@ -750,16 +924,40 @@
 "pages": ""
 },
 {
+"name": "the-archive",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/the-archive",
+"pages": "https://davidwise01.github.io/the-archive/"
+},
+{
 "name": "the-body",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-body",
 "pages": "https://davidwise01.github.io/the-body/"
 },
 {
+"name": "the-cosmos",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/the-cosmos",
+"pages": "https://davidwise01.github.io/the-cosmos/"
+},
+{
+"name": "the-forge",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/the-forge",
+"pages": "https://davidwise01.github.io/the-forge/"
+},
+{
 "name": "The-Garden",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/The-Garden",
 "pages": "https://davidwise01.github.io/The-Garden/"
+},
+{
+"name": "the-lattice",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/the-lattice",
+"pages": "https://davidwise01.github.io/the-lattice/"
 },
 {
 "name": "the-living-core",
@@ -772,6 +970,12 @@
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-loom",
 "pages": "https://davidwise01.github.io/the-loom/"
+},
+{
+"name": "the-pantheon",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/the-pantheon",
+"pages": "https://davidwise01.github.io/the-pantheon/"
 },
 {
 "name": "the-uncut",
@@ -864,16 +1068,34 @@
 "pages": ""
 },
 {
+"name": "ud0",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/ud0",
+"pages": "https://davidwise01.github.io/ud0/"
+},
+{
 "name": "unity-tensor",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/unity-tensor",
 "pages": "https://davidwise01.github.io/unity-tensor/"
 },
 {
+"name": "universal-laws",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/universal-laws",
+"pages": "https://davidwise01.github.io/universal-laws/"
+},
+{
+"name": "ursula",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/ursula",
+"pages": "https://davidwise01.github.io/ursula/"
+},
+{
 "name": "wheel-of-time",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wheel-of-time",
-"pages": ""
+"pages": "https://davidwise01.github.io/wheel-of-time/"
 },
 {
 "name": "whisper-lattice-log",
@@ -892,6 +1114,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/without-remorse",
 "pages": "https://davidwise01.github.io/without-remorse/"
+},
+{
+"name": "zelda",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/zelda",
+"pages": "https://davidwise01.github.io/zelda/"
 },
 {
 "name": "zero-point",
