@@ -158,6 +158,7 @@ CAT = {
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
+ "the-core":"Codices · Rosters",
  "milon":"Codices · Rosters",
  "mimzy":"Physics · Energy · Hardware",
  "muse":"Codices · Rosters",
