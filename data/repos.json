@@ -405,7 +405,7 @@
 "name": "hephaestus",
 "cat": "Greek Pantheon Systems",
 "gh": "https://github.com/DavidWise01/hephaestus",
-"pages": "https://davidwise01.github.io/hephaestus/"
+"pages": ""
 },
 {
 "name": "hephaestus-forge",
@@ -814,6 +814,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/root0-validator",
 "pages": ""
+},
+{
+"name": "scott-pilgrim",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/scott-pilgrim",
+"pages": "https://davidwise01.github.io/scott-pilgrim/"
 },
 {
 "name": "seed",

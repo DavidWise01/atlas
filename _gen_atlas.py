@@ -156,6 +156,7 @@ CAT = {
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "metroid":"Codices · Rosters",
+ "scott-pilgrim":"Codices · Rosters",
  "milon":"Codices · Rosters",
  "mimzy":"Physics · Energy · Hardware",
  "muse":"Codices · Rosters",
