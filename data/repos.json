@@ -18,6 +18,12 @@
 "pages": "https://davidwise01.github.io/aci/"
 },
 {
+"name": "adas-law",
+"cat": "Lineage · Provenance · IP",
+"gh": "https://github.com/DavidWise01/adas-law",
+"pages": "https://davidwise01.github.io/adas-law/"
+},
+{
 "name": "adas-law-victorian",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/adas-law-victorian",
@@ -45,7 +51,7 @@
 "name": "agent-0root",
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/agent-0root",
-"pages": ""
+"pages": "https://davidwise01.github.io/agent-0root/"
 },
 {
 "name": "ai-external-audit-toolkit",

@@ -78,6 +78,7 @@ CAT = {
  "root0-validator":"Lineage · Provenance · IP","cannon":"Lineage · Provenance · IP",
  "unity-tensor":"Lineage · Provenance · IP","ternary-spec":"Lineage · Provenance · IP",
  "attribution-standard":"Lineage · Provenance · IP","ai-ip-audit":"Lineage · Provenance · IP",
+ "adas-law":"Lineage · Provenance · IP",
  "The-Garden":"Lineage · Provenance · IP","ai-external-audit-toolkit":"Lineage · Provenance · IP",
  "honey-badger":"Lineage · Provenance · IP",
  # Memory · Persistence · Continuity
