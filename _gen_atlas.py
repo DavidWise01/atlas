@@ -161,6 +161,7 @@ CAT = {
  "legacy-of-the-wizard":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
+ "the-dark-tower":"Codices · Rosters",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
