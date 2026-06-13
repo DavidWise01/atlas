@@ -170,6 +170,7 @@ CAT = {
  "crime-and-punishment-in-suburbia":"Codices · Rosters",
  "nouthesia":"Writing · Books · Doctrine","nineteen-eighty-four":"Writing · Books · Doctrine","animal-farm":"Writing · Books · Doctrine","brave-new-world":"Writing · Books · Doctrine","fahrenheit-451":"Writing · Books · Doctrine",
  "we":"Writing · Books · Doctrine","the-handmaids-tale":"Writing · Books · Doctrine","a-clockwork-orange":"Writing · Books · Doctrine",
+ "egyptian-pantheon":"Codices · Rosters",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
