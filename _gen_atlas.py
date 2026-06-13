@@ -165,6 +165,7 @@ CAT = {
  "the-dark-tower":"Codices · Rosters",
  "crime-and-punishment":"Writing · Books · Doctrine",
  "brothers-karamazov":"Writing · Books · Doctrine",
+ "crime-and-punishment-in-suburbia":"Codices · Rosters",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
