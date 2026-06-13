@@ -164,6 +164,7 @@ CAT = {
  "the-fifth-element":"Codices · Rosters",
  "milon":"Codices · Rosters",
  "mimzy":"Physics · Energy · Hardware",
+ "propulsion-lab":"Physics · Energy · Hardware",
  "muse":"Codices · Rosters",
  "noesis-kernel":"STOICHEION & Governance",
  "nostradamus":"Codices · Rosters",

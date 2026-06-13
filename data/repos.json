@@ -750,6 +750,12 @@
 "pages": ""
 },
 {
+"name": "propulsion-lab",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/propulsion-lab",
+"pages": "https://davidwise01.github.io/propulsion-lab/"
+},
+{
 "name": "pulse",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/pulse",
