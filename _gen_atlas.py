@@ -157,6 +157,7 @@ CAT = {
  "phonetikos":"Writing · Books · Doctrine",
  "alchemy":"Codices · Rosters",
  "hermeneus":"Tools & CLIs",
+ "tron":"Codices · Rosters",
  "heinlein":"Codices · Rosters",
  "legacy-of-the-wizard":"Codices · Rosters",
  "maas":"Codices · Rosters",
