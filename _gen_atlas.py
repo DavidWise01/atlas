@@ -164,6 +164,7 @@ CAT = {
  "the-core":"Codices · Rosters",
  "interstellar":"Codices · Rosters",
  "the-fifth-element":"Codices · Rosters",
+ "waterworld":"Codices · Rosters",
  "milon":"Codices · Rosters",
  "mimzy":"Physics · Energy · Hardware",
  "propulsion-lab":"Physics · Energy · Hardware",
