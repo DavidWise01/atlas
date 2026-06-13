@@ -163,6 +163,7 @@ CAT = {
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
+ "mtg-arena":"Codices · Rosters",
  "crime-and-punishment":"Writing · Books · Doctrine",
  "brothers-karamazov":"Writing · Books · Doctrine",
  "crime-and-punishment-in-suburbia":"Codices · Rosters",
