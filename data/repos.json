@@ -12,6 +12,12 @@
 "pages": "https://davidwise01.github.io/3lock/"
 },
 {
+"name": "a-clockwork-orange",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/a-clockwork-orange",
+"pages": "https://davidwise01.github.io/a-clockwork-orange/"
+},
+{
 "name": "aci",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/aci",
@@ -939,7 +945,7 @@
 "name": "shadowqueen",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/shadowqueen",
-"pages": "https://davidwise01.github.io/shadowqueen/"
+"pages": ""
 },
 {
 "name": "singularity-well",
@@ -1084,6 +1090,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/The-Garden",
 "pages": "https://davidwise01.github.io/The-Garden/"
+},
+{
+"name": "the-handmaids-tale",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/the-handmaids-tale",
+"pages": "https://davidwise01.github.io/the-handmaids-tale/"
 },
 {
 "name": "the-hegemon",
@@ -1240,6 +1252,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/waterworld",
 "pages": "https://davidwise01.github.io/waterworld/"
+},
+{
+"name": "we",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/we",
+"pages": "https://davidwise01.github.io/we/"
 },
 {
 "name": "wheel-of-time",
