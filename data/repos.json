@@ -180,6 +180,12 @@
 "pages": ""
 },
 {
+"name": "brothers-karamazov",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/brothers-karamazov",
+"pages": "https://davidwise01.github.io/brothers-karamazov/"
+},
+{
 "name": "cameron-howe",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/cameron-howe",
@@ -244,6 +250,12 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/confabulation-spiral",
 "pages": "https://davidwise01.github.io/confabulation-spiral/"
+},
+{
+"name": "crime-and-punishment",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/crime-and-punishment",
+"pages": "https://davidwise01.github.io/crime-and-punishment/"
 },
 {
 "name": "dantes-inferno",

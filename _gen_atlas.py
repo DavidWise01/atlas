@@ -163,6 +163,8 @@ CAT = {
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
+ "crime-and-punishment":"Writing · Books · Doctrine",
+ "brothers-karamazov":"Writing · Books · Doctrine",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
