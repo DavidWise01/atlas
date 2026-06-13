@@ -696,6 +696,12 @@
 "pages": ""
 },
 {
+"name": "phonetikos",
+"cat": "Writing · Books · Doctrine",
+"gh": "https://github.com/DavidWise01/phonetikos",
+"pages": "https://davidwise01.github.io/phonetikos/"
+},
+{
 "name": "photonic",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/photonic",
