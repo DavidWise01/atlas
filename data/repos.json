@@ -432,6 +432,12 @@
 "pages": ""
 },
 {
+"name": "hermeneus",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/hermeneus",
+"pages": "https://davidwise01.github.io/hermeneus/"
+},
+{
 "name": "higgs-suite",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/higgs-suite",
