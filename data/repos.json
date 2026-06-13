@@ -1146,6 +1146,12 @@
 "pages": "https://davidwise01.github.io/the-uncut/"
 },
 {
+"name": "the-wizard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-wizard",
+"pages": "https://davidwise01.github.io/the-wizard/"
+},
+{
 "name": "the.source",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/the.source",

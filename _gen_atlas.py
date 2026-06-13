@@ -172,6 +172,7 @@ CAT = {
  "we":"Writing · Books · Doctrine","the-handmaids-tale":"Writing · Books · Doctrine","a-clockwork-orange":"Writing · Books · Doctrine",
  "egyptian-pantheon":"Codices · Rosters",
  "caste-system":"Writing · Books · Doctrine",
+ "the-wizard":"Codices · Rosters",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
