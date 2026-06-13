@@ -155,6 +155,7 @@ CAT = {
  "ff6":"Codices · Rosters",
  "green-papers":"Writing · Books · Doctrine",
  "phonetikos":"Writing · Books · Doctrine",
+ "alchemy":"Codices · Rosters",
  "heinlein":"Codices · Rosters",
  "legacy-of-the-wizard":"Codices · Rosters",
  "maas":"Codices · Rosters",
