@@ -151,6 +151,7 @@ CAT = {
  "elements":"Physics · Energy · Hardware",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
+ "the-ansible":"Codices · Rosters",
  "ff6":"Codices · Rosters",
  "green-papers":"Writing · Books · Doctrine",
  "heinlein":"Codices · Rosters",
