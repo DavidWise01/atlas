@@ -486,6 +486,12 @@
 "pages": "https://davidwise01.github.io/guardian-legend/"
 },
 {
+"name": "hackers",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hackers",
+"pages": "https://davidwise01.github.io/hackers/"
+},
+{
 "name": "hardware-lab",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/hardware-lab",

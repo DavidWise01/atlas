@@ -183,6 +183,7 @@ CAT = {
  "the-last-mimzy":"Codices · Rosters",
  "hot-rod":"Codices · Rosters",
  "the-goods":"Codices · Rosters",
+ "hackers":"Codices · Rosters",
  "mighty-bomb-jack":"Codices · Rosters",
  "bomb-jack":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
