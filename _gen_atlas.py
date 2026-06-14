@@ -184,6 +184,7 @@ CAT = {
  "hot-rod":"Codices · Rosters",
  "the-goods":"Codices · Rosters",
  "hackers":"Codices · Rosters",
+ "lawnmower-man":"Codices · Rosters",
  "mighty-bomb-jack":"Codices · Rosters",
  "bomb-jack":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
