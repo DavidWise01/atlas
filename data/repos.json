@@ -1236,6 +1236,12 @@
 "pages": ""
 },
 {
+"name": "three-body-problem",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/three-body-problem",
+"pages": "https://davidwise01.github.io/three-body-problem/"
+},
+{
 "name": "tools",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/tools",
