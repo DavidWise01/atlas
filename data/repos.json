@@ -306,6 +306,12 @@
 "pages": "https://davidwise01.github.io/crime-and-punishment-in-suburbia/"
 },
 {
+"name": "curvature-drive",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/curvature-drive",
+"pages": "https://davidwise01.github.io/curvature-drive/"
+},
+{
 "name": "dantes-inferno",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/dantes-inferno",
@@ -334,6 +340,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/du1",
 "pages": "https://davidwise01.github.io/du1/"
+},
+{
+"name": "dual-vector-foil",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/dual-vector-foil",
+"pages": "https://davidwise01.github.io/dual-vector-foil/"
 },
 {
 "name": "dune",
@@ -786,6 +798,12 @@
 "pages": "https://davidwise01.github.io/nanite-factory/"
 },
 {
+"name": "nanofilament",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/nanofilament",
+"pages": "https://davidwise01.github.io/nanofilament/"
+},
+{
 "name": "nest-3-deep",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/nest-3-deep",
@@ -942,6 +960,12 @@
 "pages": ""
 },
 {
+"name": "red-coast",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/red-coast",
+"pages": "https://davidwise01.github.io/red-coast/"
+},
+{
 "name": "red-hat",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/red-hat",
@@ -1036,6 +1060,12 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/solar-jetman",
 "pages": "https://davidwise01.github.io/solar-jetman/"
+},
+{
+"name": "sophon",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sophon",
+"pages": "https://davidwise01.github.io/sophon/"
 },
 {
 "name": "stargate",
@@ -1150,6 +1180,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-dark-tower",
 "pages": "https://davidwise01.github.io/the-dark-tower/"
+},
+{
+"name": "the-droplet",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-droplet",
+"pages": "https://davidwise01.github.io/the-droplet/"
 },
 {
 "name": "the-fifth-element",
@@ -1317,6 +1353,12 @@
 "name": "tripod-whitepapers",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/tripod-whitepapers",
+"pages": ""
+},
+{
+"name": "trisolaris-tech",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/trisolaris-tech",
 "pages": ""
 },
 {
