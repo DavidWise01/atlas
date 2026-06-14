@@ -870,6 +870,12 @@
 "pages": ""
 },
 {
+"name": "population-dynamics",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/population-dynamics",
+"pages": "https://davidwise01.github.io/population-dynamics/"
+},
+{
 "name": "positronic-law",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/positronic-law",
