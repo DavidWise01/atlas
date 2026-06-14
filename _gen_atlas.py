@@ -178,6 +178,7 @@ CAT = {
  "mallrats":"Codices · Rosters",
  "american-history-x":"Codices · Rosters",
  "galaxy-quest":"Codices · Rosters",
+ "the-last-mimzy":"Codices · Rosters",
  "mighty-bomb-jack":"Codices · Rosters",
  "bomb-jack":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
