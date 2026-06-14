@@ -636,6 +636,12 @@
 "pages": "https://davidwise01.github.io/malazan/"
 },
 {
+"name": "mallrats",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/mallrats",
+"pages": "https://davidwise01.github.io/mallrats/"
+},
+{
 "name": "memristor",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/memristor",
