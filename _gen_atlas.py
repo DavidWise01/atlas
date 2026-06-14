@@ -173,6 +173,7 @@ CAT = {
  "egyptian-pantheon":"Codices · Rosters",
  "caste-system":"Writing · Books · Doctrine",
  "the-wizard":"Codices · Rosters",
+ "varsity-blues":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
