@@ -114,6 +114,12 @@
 "pages": "https://davidwise01.github.io/alpha40-box/"
 },
 {
+"name": "american-history-x",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/american-history-x",
+"pages": "https://davidwise01.github.io/american-history-x/"
+},
+{
 "name": "american-psycho",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/american-psycho",
@@ -430,6 +436,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/fusion-n0-n255",
 "pages": ""
+},
+{
+"name": "galaxy-quest",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/galaxy-quest",
+"pages": "https://davidwise01.github.io/galaxy-quest/"
 },
 {
 "name": "gap-cycle",

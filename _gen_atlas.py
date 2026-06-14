@@ -176,6 +176,8 @@ CAT = {
  "varsity-blues":"Codices · Rosters",
  "dogma":"Codices · Rosters",
  "mallrats":"Codices · Rosters",
+ "american-history-x":"Codices · Rosters",
+ "galaxy-quest":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
