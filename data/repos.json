@@ -546,6 +546,12 @@
 "pages": ""
 },
 {
+"name": "hot-rod",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hot-rod",
+"pages": "https://davidwise01.github.io/hot-rod/"
+},
+{
 "name": "infinite-jest",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/infinite-jest",
@@ -1138,6 +1144,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/The-Garden",
 "pages": "https://davidwise01.github.io/The-Garden/"
+},
+{
+"name": "the-goods",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-goods",
+"pages": "https://davidwise01.github.io/the-goods/"
 },
 {
 "name": "the-handmaids-tale",
