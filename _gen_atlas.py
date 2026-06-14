@@ -174,6 +174,7 @@ CAT = {
  "caste-system":"Writing · Books · Doctrine",
  "the-wizard":"Codices · Rosters",
  "varsity-blues":"Codices · Rosters",
+ "dogma":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
  "metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
