@@ -152,6 +152,7 @@ CAT = {
  "the-ordinary-farm":"Codices · Rosters", "tad-williams-shorter-works":"Codices · Rosters",
  "card":"Codices · Rosters",
  "decadal":"Codices · Rosters",
+ "the-amphitheater":"Codices · Rosters",
  "du1":"STOICHEION & Governance",
  "dune":"Codices · Rosters",
  "elden-ring":"Codices · Rosters",
