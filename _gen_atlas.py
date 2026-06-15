@@ -145,6 +145,7 @@ CAT = {
  # — session build-out (2026-06-11) —
  "aci":"STOICHEION & Governance",
  "asimov":"Codices · Rosters",
+ "joe-abercrombie":"Codices · Rosters",
  "card":"Codices · Rosters",
  "decadal":"Codices · Rosters",
  "du1":"STOICHEION & Governance",
