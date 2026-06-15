@@ -60,6 +60,7 @@ CAT = {
  "quantum-box":"Physics · Energy · Hardware",
  "memristor":"Physics · Energy · Hardware",
  "transmon":"Physics · Energy · Hardware",
+ "quantum-gravity":"Physics · Energy · Hardware",
  "zero-point":"Physics · Energy · Hardware",
  "plasmonic":"Physics · Energy · Hardware",
  "tetraktys":"Physics · Energy · Hardware",

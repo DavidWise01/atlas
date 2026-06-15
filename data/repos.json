@@ -960,6 +960,12 @@
 "pages": "https://davidwise01.github.io/quantum-box/"
 },
 {
+"name": "quantum-gravity",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/quantum-gravity",
+"pages": "https://davidwise01.github.io/quantum-gravity/"
+},
+{
 "name": "recluce",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/recluce",
