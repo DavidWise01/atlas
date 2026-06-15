@@ -330,6 +330,12 @@
 "pages": ""
 },
 {
+"name": "claude-lineage",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/claude-lineage",
+"pages": "https://davidwise01.github.io/claude-lineage/"
+},
+{
 "name": "closure-loop-engine",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/closure-loop-engine",
@@ -363,7 +369,7 @@
 "name": "crippled-god",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/crippled-god",
-"pages": ""
+"pages": "https://davidwise01.github.io/crippled-god/"
 },
 {
 "name": "cryptonomicon",
