@@ -360,6 +360,12 @@
 "pages": "https://davidwise01.github.io/crime-and-punishment-in-suburbia/"
 },
 {
+"name": "crippled-god",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/crippled-god",
+"pages": ""
+},
+{
 "name": "cryptonomicon",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/cryptonomicon",
@@ -549,7 +555,7 @@
 "name": "god-bless-you-dr-kevorkian",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/god-bless-you-dr-kevorkian",
-"pages": ""
+"pages": "https://davidwise01.github.io/god-bless-you-dr-kevorkian/"
 },
 {
 "name": "god-bless-you-mr-rosewater",
@@ -603,7 +609,7 @@
 "name": "happy-birthday-wanda-june",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/happy-birthday-wanda-june",
-"pages": ""
+"pages": "https://davidwise01.github.io/happy-birthday-wanda-june/"
 },
 {
 "name": "hardware-lab",
@@ -651,7 +657,7 @@
 "name": "hocus-pocus",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/hocus-pocus",
-"pages": ""
+"pages": "https://davidwise01.github.io/hocus-pocus/"
 },
 {
 "name": "holograms",
@@ -1587,7 +1593,7 @@
 "name": "timequake",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/timequake",
-"pages": ""
+"pages": "https://davidwise01.github.io/timequake/"
 },
 {
 "name": "tools",
@@ -1719,7 +1725,7 @@
 "name": "wampeters-foma-and-granfalloons",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wampeters-foma-and-granfalloons",
-"pages": ""
+"pages": "https://davidwise01.github.io/wampeters-foma-and-granfalloons/"
 },
 {
 "name": "waterworld",
