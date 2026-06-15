@@ -61,6 +61,7 @@ CAT = {
  "memristor":"Physics · Energy · Hardware",
  "transmon":"Physics · Energy · Hardware",
  "quantum-gravity":"Physics · Energy · Hardware",
+ "the-library":"STOICHEION & Governance",
  "zero-point":"Physics · Energy · Hardware",
  "plasmonic":"Physics · Energy · Hardware",
  "tetraktys":"Physics · Energy · Hardware",
