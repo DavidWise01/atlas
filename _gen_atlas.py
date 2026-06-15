@@ -157,6 +157,7 @@ CAT = {
  "the-ansible":"Codices · Rosters",
  "ff6":"Codices · Rosters",
  "green-papers":"Writing · Books · Doctrine",
+ "authorship":"Writing · Books · Doctrine",
  "phonetikos":"Writing · Books · Doctrine",
  "alchemy":"Codices · Rosters",
  "hermeneus":"Tools & CLIs",
