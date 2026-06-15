@@ -126,6 +126,12 @@
 "pages": "https://davidwise01.github.io/american-psycho/"
 },
 {
+"name": "anathem",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/anathem",
+"pages": "https://davidwise01.github.io/anathem/"
+},
+{
 "name": "animal-farm",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/animal-farm",
@@ -330,6 +336,12 @@
 "pages": "https://davidwise01.github.io/crime-and-punishment-in-suburbia/"
 },
 {
+"name": "cryptonomicon",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/cryptonomicon",
+"pages": "https://davidwise01.github.io/cryptonomicon/"
+},
+{
 "name": "curvature-drive",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/curvature-drive",
@@ -436,6 +448,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/fahrenheit-451",
 "pages": "https://davidwise01.github.io/fahrenheit-451/"
+},
+{
+"name": "fall-dodge-in-hell",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/fall-dodge-in-hell",
+"pages": "https://davidwise01.github.io/fall-dodge-in-hell/"
 },
 {
 "name": "ff6",
@@ -954,6 +972,12 @@
 "pages": ""
 },
 {
+"name": "polostan",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/polostan",
+"pages": "https://davidwise01.github.io/polostan/"
+},
+{
 "name": "pop-kit",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/pop-kit",
@@ -1012,6 +1036,12 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/quantum-gravity",
 "pages": "https://davidwise01.github.io/quantum-gravity/"
+},
+{
+"name": "reamde",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/reamde",
+"pages": "https://davidwise01.github.io/reamde/"
 },
 {
 "name": "recluce",
@@ -1104,6 +1134,12 @@
 "pages": ""
 },
 {
+"name": "seveneves",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/seveneves",
+"pages": "https://davidwise01.github.io/seveneves/"
+},
+{
 "name": "shadowmarch",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/shadowmarch",
@@ -1122,6 +1158,12 @@
 "pages": "https://davidwise01.github.io/singularity-well/"
 },
 {
+"name": "snow-crash",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/snow-crash",
+"pages": "https://davidwise01.github.io/snow-crash/"
+},
+{
 "name": "solar-jetman",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/solar-jetman",
@@ -1138,6 +1180,18 @@
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/stargate",
 "pages": "https://davidwise01.github.io/stargate/"
+},
+{
+"name": "stephen-bury",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/stephen-bury",
+"pages": "https://davidwise01.github.io/stephen-bury/"
+},
+{
+"name": "stephenson-nonfiction",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/stephenson-nonfiction",
+"pages": "https://davidwise01.github.io/stephenson-nonfiction/"
 },
 {
 "name": "stoicheion",
@@ -1194,6 +1248,12 @@
 "pages": "https://davidwise01.github.io/tailchasers-song/"
 },
 {
+"name": "termination-shock",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/termination-shock",
+"pages": "https://davidwise01.github.io/termination-shock/"
+},
+{
 "name": "terminus-doctrine",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/terminus-doctrine",
@@ -1242,6 +1302,18 @@
 "pages": "https://davidwise01.github.io/the-atom/"
 },
 {
+"name": "the-baroque-cycle",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-baroque-cycle",
+"pages": "https://davidwise01.github.io/the-baroque-cycle/"
+},
+{
+"name": "the-big-u",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-big-u",
+"pages": "https://davidwise01.github.io/the-big-u/"
+},
+{
 "name": "the-body",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-body",
@@ -1264,6 +1336,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-dark-tower",
 "pages": "https://davidwise01.github.io/the-dark-tower/"
+},
+{
+"name": "the-diamond-age",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-diamond-age",
+"pages": "https://davidwise01.github.io/the-diamond-age/"
 },
 {
 "name": "the-droplet",
@@ -1350,6 +1428,12 @@
 "pages": "https://davidwise01.github.io/the-loom/"
 },
 {
+"name": "the-mongoliad",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-mongoliad",
+"pages": "https://davidwise01.github.io/the-mongoliad/"
+},
+{
 "name": "the-ordinary-farm",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-ordinary-farm",
@@ -1360,6 +1444,12 @@
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/the-pantheon",
 "pages": "https://davidwise01.github.io/the-pantheon/"
+},
+{
+"name": "the-rise-and-fall-of-dodo",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-rise-and-fall-of-dodo",
+"pages": "https://davidwise01.github.io/the-rise-and-fall-of-dodo/"
 },
 {
 "name": "the-uncut",
@@ -1570,5 +1660,11 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/zero-point",
 "pages": "https://davidwise01.github.io/zero-point/"
+},
+{
+"name": "zodiac",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/zodiac",
+"pages": "https://davidwise01.github.io/zodiac/"
 }
 ]
