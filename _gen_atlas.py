@@ -172,6 +172,7 @@ CAT = {
  "tron":"Codices · Rosters",
  "heinlein":"Codices · Rosters",
  "legacy-of-the-wizard":"Codices · Rosters",
+ "double-dragon":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
