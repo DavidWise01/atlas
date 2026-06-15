@@ -2,10 +2,17 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-06-08T18:46:44.414857+00:00",
-  "repos": 150,
-  "links_checked": 232,
-  "dead": [],
-  "verdict": "CLEAN",
-  "seal": "05d2cfec67e7"
+  "at": "2026-06-15T13:01:11.662014+00:00",
+  "repos": 278,
+  "links_checked": 485,
+  "dead": [
+    {
+      "name": "agent-0root",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/agent-0root/",
+      "status": 404
+    }
+  ],
+  "verdict": "DEAD_LINKS",
+  "seal": "e15f82436bab"
 }
