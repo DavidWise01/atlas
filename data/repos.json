@@ -474,6 +474,12 @@
 "pages": ""
 },
 {
+"name": "gravity-bracket",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/gravity-bracket",
+"pages": "https://davidwise01.github.io/gravity-bracket/"
+},
+{
 "name": "gravity-processor",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/gravity-processor",

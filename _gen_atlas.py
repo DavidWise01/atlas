@@ -152,6 +152,7 @@ CAT = {
  "elden-ring":"Codices · Rosters",
  "elements":"Physics · Energy · Hardware",
  "the-atom":"Physics · Energy · Hardware",
+ "gravity-bracket":"Physics · Energy · Hardware",
  "population-dynamics":"Codices · Rosters",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
