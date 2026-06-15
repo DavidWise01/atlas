@@ -336,6 +336,12 @@
 "pages": "https://davidwise01.github.io/claude-lineage/"
 },
 {
+"name": "cliffhanger",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/cliffhanger",
+"pages": "https://davidwise01.github.io/cliffhanger/"
+},
+{
 "name": "closure-loop-engine",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/closure-loop-engine",
@@ -1018,6 +1024,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/otherland",
 "pages": "https://davidwise01.github.io/otherland/"
+},
+{
+"name": "over-the-top",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/over-the-top",
+"pages": "https://davidwise01.github.io/over-the-top/"
 },
 {
 "name": "palm-sunday",
