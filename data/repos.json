@@ -642,6 +642,12 @@
 "pages": "https://davidwise01.github.io/knowledge-gates/"
 },
 {
+"name": "l-ron-hubbard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/l-ron-hubbard",
+"pages": "https://davidwise01.github.io/l-ron-hubbard/"
+},
+{
 "name": "language-of-the-machine",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/language-of-the-machine",
@@ -1288,6 +1294,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-goods",
 "pages": "https://davidwise01.github.io/the-goods/"
+},
+{
+"name": "the-graveyard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-graveyard",
+"pages": "https://davidwise01.github.io/the-graveyard/"
 },
 {
 "name": "the-handmaids-tale",
