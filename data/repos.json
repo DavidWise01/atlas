@@ -18,6 +18,12 @@
 "pages": "https://davidwise01.github.io/a-clockwork-orange/"
 },
 {
+"name": "a-man-without-a-country",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/a-man-without-a-country",
+"pages": "https://davidwise01.github.io/a-man-without-a-country/"
+},
+{
 "name": "aci",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/aci",
@@ -198,6 +204,12 @@
 "pages": ""
 },
 {
+"name": "bluebeard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/bluebeard",
+"pages": "https://davidwise01.github.io/bluebeard/"
+},
+{
 "name": "bobby-dollar",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/bobby-dollar",
@@ -220,6 +232,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/brave-new-world",
 "pages": "https://davidwise01.github.io/brave-new-world/"
+},
+{
+"name": "breakfast-of-champions",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/breakfast-of-champions",
+"pages": "https://davidwise01.github.io/breakfast-of-champions/"
 },
 {
 "name": "bridge-burner",
@@ -268,6 +286,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/caste-system",
 "pages": "https://davidwise01.github.io/caste-system/"
+},
+{
+"name": "cats-cradle",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/cats-cradle",
+"pages": "https://davidwise01.github.io/cats-cradle/"
 },
 {
 "name": "chakra",
@@ -358,6 +382,12 @@
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/DavidWise01.github.io",
 "pages": "https://davidwise01.github.io/"
+},
+{
+"name": "deadeye-dick",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/deadeye-dick",
+"pages": "https://davidwise01.github.io/deadeye-dick/"
 },
 {
 "name": "decadal",
@@ -498,6 +528,12 @@
 "pages": ""
 },
 {
+"name": "galapagos",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/galapagos",
+"pages": "https://davidwise01.github.io/galapagos/"
+},
+{
 "name": "galaxy-quest",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/galaxy-quest",
@@ -508,6 +544,18 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/gap-cycle",
 "pages": ""
+},
+{
+"name": "god-bless-you-dr-kevorkian",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/god-bless-you-dr-kevorkian",
+"pages": ""
+},
+{
+"name": "god-bless-you-mr-rosewater",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/god-bless-you-mr-rosewater",
+"pages": "https://davidwise01.github.io/god-bless-you-mr-rosewater/"
 },
 {
 "name": "gravity-bracket",
@@ -552,6 +600,12 @@
 "pages": "https://davidwise01.github.io/hackers/"
 },
 {
+"name": "happy-birthday-wanda-june",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/happy-birthday-wanda-june",
+"pages": ""
+},
+{
 "name": "hardware-lab",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/hardware-lab",
@@ -594,6 +648,12 @@
 "pages": "https://davidwise01.github.io/higgs-suite/"
 },
 {
+"name": "hocus-pocus",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hocus-pocus",
+"pages": ""
+},
+{
 "name": "holograms",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/holograms",
@@ -628,6 +688,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/interstellar",
 "pages": "https://davidwise01.github.io/interstellar/"
+},
+{
+"name": "jailbird",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/jailbird",
+"pages": "https://davidwise01.github.io/jailbird/"
 },
 {
 "name": "joe-abercrombie",
@@ -846,6 +912,12 @@
 "pages": ""
 },
 {
+"name": "mother-night",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/mother-night",
+"pages": "https://davidwise01.github.io/mother-night/"
+},
+{
 "name": "mtg-arena",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/mtg-arena",
@@ -930,6 +1002,12 @@
 "pages": "https://davidwise01.github.io/otherland/"
 },
 {
+"name": "palm-sunday",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/palm-sunday",
+"pages": "https://davidwise01.github.io/palm-sunday/"
+},
+{
 "name": "persistence-protocol",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/persistence-protocol",
@@ -958,6 +1036,12 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/plasmonic",
 "pages": ""
+},
+{
+"name": "player-piano",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/player-piano",
+"pages": "https://davidwise01.github.io/player-piano/"
 },
 {
 "name": "plutus",
@@ -1156,6 +1240,18 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/singularity-well",
 "pages": "https://davidwise01.github.io/singularity-well/"
+},
+{
+"name": "slapstick",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/slapstick",
+"pages": "https://davidwise01.github.io/slapstick/"
+},
+{
+"name": "slaughterhouse-five",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/slaughterhouse-five",
+"pages": "https://davidwise01.github.io/slaughterhouse-five/"
 },
 {
 "name": "snow-crash",
@@ -1452,6 +1548,12 @@
 "pages": "https://davidwise01.github.io/the-rise-and-fall-of-dodo/"
 },
 {
+"name": "the-sirens-of-titan",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-sirens-of-titan",
+"pages": "https://davidwise01.github.io/the-sirens-of-titan/"
+},
+{
 "name": "the-uncut",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/the-uncut",
@@ -1480,6 +1582,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/three-body-problem",
 "pages": "https://davidwise01.github.io/three-body-problem/"
+},
+{
+"name": "timequake",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/timequake",
+"pages": ""
 },
 {
 "name": "tools",
@@ -1608,6 +1716,12 @@
 "pages": "https://davidwise01.github.io/varsity-blues/"
 },
 {
+"name": "wampeters-foma-and-granfalloons",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/wampeters-foma-and-granfalloons",
+"pages": ""
+},
+{
 "name": "waterworld",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/waterworld",
@@ -1618,6 +1732,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/we",
 "pages": "https://davidwise01.github.io/we/"
+},
+{
+"name": "welcome-to-the-monkey-house",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/welcome-to-the-monkey-house",
+"pages": "https://davidwise01.github.io/welcome-to-the-monkey-house/"
 },
 {
 "name": "wheel-of-time",
