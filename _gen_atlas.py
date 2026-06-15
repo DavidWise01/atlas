@@ -214,7 +214,7 @@ CAT = {
  "propulsion-lab":"Physics · Energy · Hardware",
  "muse":"Codices · Rosters",
  "noesis-kernel":"STOICHEION & Governance",
- "nostradamus":"Codices · Rosters",
+ "nostradamus":"Codices · Rosters", "zecharia-sitchin":"Codices · Rosters",
  "pratchett":"Codices · Rosters",
  "pulse":"Tools & CLIs",
  "purple-team":"Codices · Rosters",

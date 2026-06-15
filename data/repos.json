@@ -1107,7 +1107,7 @@
 "name": "shadowqueen",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/shadowqueen",
-"pages": ""
+"pages": "https://davidwise01.github.io/shadowqueen/"
 },
 {
 "name": "singularity-well",
@@ -1540,6 +1540,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/without-remorse",
 "pages": "https://davidwise01.github.io/without-remorse/"
+},
+{
+"name": "zecharia-sitchin",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/zecharia-sitchin",
+"pages": "https://davidwise01.github.io/zecharia-sitchin/"
 },
 {
 "name": "zelda",
