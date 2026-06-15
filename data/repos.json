@@ -192,6 +192,12 @@
 "pages": ""
 },
 {
+"name": "bobby-dollar",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/bobby-dollar",
+"pages": "https://davidwise01.github.io/bobby-dollar/"
+},
+{
 "name": "bomb-jack",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/bomb-jack",
@@ -228,6 +234,12 @@
 "pages": "https://davidwise01.github.io/brothers-karamazov/"
 },
 {
+"name": "calibans-hour",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/calibans-hour",
+"pages": "https://davidwise01.github.io/calibans-hour/"
+},
+{
 "name": "cameron-howe",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/cameron-howe",
@@ -262,6 +274,12 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/charlottes-web",
 "pages": "https://davidwise01.github.io/charlottes-web/"
+},
+{
+"name": "child-of-an-ancient-city",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/child-of-an-ancient-city",
+"pages": "https://davidwise01.github.io/child-of-an-ancient-city/"
 },
 {
 "name": "chromatic-laser",
@@ -708,6 +726,12 @@
 "pages": "https://davidwise01.github.io/mallrats/"
 },
 {
+"name": "memory-sorrow-and-thorn",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/memory-sorrow-and-thorn",
+"pages": "https://davidwise01.github.io/memory-sorrow-and-thorn/"
+},
+{
 "name": "memristor",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/memristor",
@@ -874,6 +898,12 @@
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/oasis",
 "pages": "https://davidwise01.github.io/oasis/"
+},
+{
+"name": "otherland",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/otherland",
+"pages": "https://davidwise01.github.io/otherland/"
 },
 {
 "name": "persistence-protocol",
@@ -1068,6 +1098,12 @@
 "pages": ""
 },
 {
+"name": "shadowmarch",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/shadowmarch",
+"pages": "https://davidwise01.github.io/shadowmarch/"
+},
+{
 "name": "shadowqueen",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/shadowqueen",
@@ -1138,6 +1174,18 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/t133",
 "pages": ""
+},
+{
+"name": "tad-williams-shorter-works",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/tad-williams-shorter-works",
+"pages": "https://davidwise01.github.io/tad-williams-shorter-works/"
+},
+{
+"name": "tailchasers-song",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/tailchasers-song",
+"pages": "https://davidwise01.github.io/tailchasers-song/"
 },
 {
 "name": "terminus-doctrine",
@@ -1254,6 +1302,12 @@
 "pages": "https://davidwise01.github.io/the-hegemon/"
 },
 {
+"name": "the-last-king-of-osten-ard",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-last-king-of-osten-ard",
+"pages": "https://davidwise01.github.io/the-last-king-of-osten-ard/"
+},
+{
 "name": "the-last-mimzy",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-last-mimzy",
@@ -1284,6 +1338,12 @@
 "pages": "https://davidwise01.github.io/the-loom/"
 },
 {
+"name": "the-ordinary-farm",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ordinary-farm",
+"pages": "https://davidwise01.github.io/the-ordinary-farm/"
+},
+{
 "name": "the-pantheon",
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/the-pantheon",
@@ -1294,6 +1354,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/the-uncut",
 "pages": "https://davidwise01.github.io/the-uncut/"
+},
+{
+"name": "the-war-of-the-flowers",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-war-of-the-flowers",
+"pages": "https://davidwise01.github.io/the-war-of-the-flowers/"
 },
 {
 "name": "the-wizard",
