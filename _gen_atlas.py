@@ -180,6 +180,7 @@ CAT = {
  "blaster-master":"Codices · Rosters",
  "faxanadu":"Codices · Rosters",
  "punch-out":"Codices · Rosters",
+ "crystalis":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
