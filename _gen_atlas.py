@@ -183,6 +183,7 @@ CAT = {
  "crystalis":"Codices · Rosters",
  "the-mind":"STOICHEION & Governance",
  "alignment":"STOICHEION & Governance",
+ "ai-governance":"STOICHEION & Governance",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",

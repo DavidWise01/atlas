@@ -72,6 +72,12 @@
 "pages": ""
 },
 {
+"name": "ai-governance",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/ai-governance",
+"pages": "https://davidwise01.github.io/ai-governance/"
+},
+{
 "name": "ai-ip-audit",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/ai-ip-audit",
