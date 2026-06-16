@@ -176,6 +176,7 @@ CAT = {
  "double-dragon":"Codices · Rosters",
  "wrath-of-the-black-manta":"Codices · Rosters",
  "karnov":"Codices · Rosters",
+ "super-mario-bros-2":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",

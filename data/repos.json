@@ -1356,6 +1356,12 @@
 "pages": ""
 },
 {
+"name": "super-mario-bros-2",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/super-mario-bros-2",
+"pages": "https://davidwise01.github.io/super-mario-bros-2/"
+},
+{
 "name": "swarm-os",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/swarm-os",
