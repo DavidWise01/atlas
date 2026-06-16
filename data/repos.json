@@ -354,6 +354,12 @@
 "pages": "https://davidwise01.github.io/cinnamon-enforcer/"
 },
 {
+"name": "circuits",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/circuits",
+"pages": "https://davidwise01.github.io/circuits/"
+},
+{
 "name": "claude-design-akasha",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/claude-design-akasha",
@@ -382,6 +388,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/closure-loop-methodology",
 "pages": ""
+},
+{
+"name": "compression",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/compression",
+"pages": "https://davidwise01.github.io/compression/"
 },
 {
 "name": "confabulation-spiral",
@@ -672,6 +684,12 @@
 "pages": ""
 },
 {
+"name": "grokking",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/grokking",
+"pages": "https://davidwise01.github.io/grokking/"
+},
+{
 "name": "guardian-legend",
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/guardian-legend",
@@ -894,6 +912,12 @@
 "pages": "https://davidwise01.github.io/listeners-and-philosophers/"
 },
 {
+"name": "lottery-ticket",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/lottery-ticket",
+"pages": "https://davidwise01.github.io/lottery-ticket/"
+},
+{
 "name": "lumen",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/lumen",
@@ -916,6 +940,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/mallrats",
 "pages": "https://davidwise01.github.io/mallrats/"
+},
+{
+"name": "manifold-hypothesis",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/manifold-hypothesis",
+"pages": "https://davidwise01.github.io/manifold-hypothesis/"
 },
 {
 "name": "memory-sorrow-and-thorn",
@@ -1050,6 +1080,12 @@
 "pages": "https://davidwise01.github.io/nest-3-deep/"
 },
 {
+"name": "neural-tangent-kernel",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/neural-tangent-kernel",
+"pages": "https://davidwise01.github.io/neural-tangent-kernel/"
+},
+{
 "name": "nine-body-audit",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/nine-body-audit",
@@ -1135,7 +1171,7 @@
 },
 {
 "name": "physis",
-"cat": "Greek Pantheon Systems",
+"cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/physis",
 "pages": "https://davidwise01.github.io/physis/"
 },
@@ -1318,6 +1354,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/root0-validator",
 "pages": ""
+},
+{
+"name": "scaling-laws",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/scaling-laws",
+"pages": "https://davidwise01.github.io/scaling-laws/"
 },
 {
 "name": "scott-pilgrim",
