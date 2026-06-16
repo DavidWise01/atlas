@@ -738,6 +738,12 @@
 "pages": ""
 },
 {
+"name": "karnov",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/karnov",
+"pages": "https://davidwise01.github.io/karnov/"
+},
+{
 "name": "karsa",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/karsa",
