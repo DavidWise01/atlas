@@ -189,6 +189,7 @@ CAT = {
  "governed-instances":"STOICHEION & Governance",
  "dark-enlightenment":"Tin-Foil · The Fringe",
  "the-illuminati":"Tin-Foil · The Fringe",
+ "aliens":"Tin-Foil · The Fringe",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
