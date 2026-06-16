@@ -179,6 +179,7 @@ CAT = {
  "super-mario-bros-2":"Codices · Rosters",
  "blaster-master":"Codices · Rosters",
  "faxanadu":"Codices · Rosters",
+ "punch-out":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
