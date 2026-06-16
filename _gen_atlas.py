@@ -188,6 +188,7 @@ CAT = {
  "stoicheion-register":"STOICHEION & Governance",
  "governed-instances":"STOICHEION & Governance",
  "the-language-of-the-machine":"STOICHEION & Governance",
+ "idit":"Security & Defense",
  "dark-enlightenment":"Tin-Foil · The Fringe",
  "the-illuminati":"Tin-Foil · The Fringe",
  "aliens":"Tin-Foil · The Fringe",
