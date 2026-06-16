@@ -612,6 +612,12 @@
 "pages": "https://davidwise01.github.io/god-bless-you-mr-rosewater/"
 },
 {
+"name": "governed-instances",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/governed-instances",
+"pages": "https://davidwise01.github.io/governed-instances/"
+},
+{
 "name": "gravity-bracket",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/gravity-bracket",
@@ -1390,6 +1396,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/stoicheion-qif",
 "pages": ""
+},
+{
+"name": "stoicheion-register",
+"cat": "STOICHEION & Governance",
+"gh": "https://github.com/DavidWise01/stoicheion-register",
+"pages": "https://davidwise01.github.io/stoicheion-register/"
 },
 {
 "name": "super-mario-bros-2",
