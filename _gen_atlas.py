@@ -182,6 +182,7 @@ CAT = {
  "punch-out":"Codices · Rosters",
  "crystalis":"Codices · Rosters",
  "the-mind":"STOICHEION & Governance",
+ "alignment":"STOICHEION & Governance",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
