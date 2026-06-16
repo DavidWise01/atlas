@@ -174,6 +174,7 @@ CAT = {
  "heinlein":"Codices · Rosters",
  "legacy-of-the-wizard":"Codices · Rosters",
  "double-dragon":"Codices · Rosters",
+ "wrath-of-the-black-manta":"Codices · Rosters",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
