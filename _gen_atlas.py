@@ -190,6 +190,7 @@ CAT = {
  "the-language-of-the-machine":"STOICHEION & Governance",
  "constitutional-ai":"STOICHEION & Governance",
  "the-seed":"STOICHEION & Governance",
+ "0xdeadbeef":"STOICHEION & Governance",
  "idit":"Security & Defense",
  "dark-enlightenment":"Tin-Foil · The Fringe",
  "the-illuminati":"Tin-Foil · The Fringe",
