@@ -22,6 +22,7 @@ HAS_PAGES = {"mnemosyne", "tetraktys"}
 CATS = [
     ("Library & Foundations",            "#c9a227"),
     ("Codices · Rosters",                "#9a6a3a"),
+    ("Tin-Foil · The Fringe",            "#b9c4d6"),
     ("STOICHEION & Governance",          "#7c3aed"),
     ("Physics · Energy · Hardware",      "#1763d6"),
     ("Security & Defense",               "#cc2233"),
@@ -186,6 +187,8 @@ CAT = {
  "ai-governance":"STOICHEION & Governance",
  "stoicheion-register":"STOICHEION & Governance",
  "governed-instances":"STOICHEION & Governance",
+ "dark-enlightenment":"Tin-Foil · The Fringe",
+ "the-illuminati":"Tin-Foil · The Fringe",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",

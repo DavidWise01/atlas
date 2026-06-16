@@ -420,6 +420,12 @@
 "pages": "https://davidwise01.github.io/dantes-inferno/"
 },
 {
+"name": "dark-enlightenment",
+"cat": "Tin-Foil · The Fringe",
+"gh": "https://github.com/DavidWise01/dark-enlightenment",
+"pages": "https://davidwise01.github.io/dark-enlightenment/"
+},
+{
 "name": "DavidWise01.github.io",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/DavidWise01.github.io",
@@ -1594,6 +1600,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/the-hegemon",
 "pages": "https://davidwise01.github.io/the-hegemon/"
+},
+{
+"name": "the-illuminati",
+"cat": "Tin-Foil · The Fringe",
+"gh": "https://github.com/DavidWise01/the-illuminati",
+"pages": "https://davidwise01.github.io/the-illuminati/"
 },
 {
 "name": "the-last-king-of-osten-ard",
