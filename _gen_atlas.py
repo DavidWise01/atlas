@@ -181,6 +181,7 @@ CAT = {
  "faxanadu":"Codices · Rosters",
  "punch-out":"Codices · Rosters",
  "crystalis":"Codices · Rosters",
+ "the-mind":"STOICHEION & Governance",
  "maas":"Codices · Rosters",
  "malazan":"Codices · Rosters",
  "the-dark-tower":"Codices · Rosters",
