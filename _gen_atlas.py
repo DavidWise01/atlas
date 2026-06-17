@@ -156,6 +156,7 @@ CAT = {
  "the-amphitheater":"Codices · Rosters",
  "du1":"STOICHEION & Governance",
  "dune":"Codices · Rosters",
+ "dayworld":"Codices · Rosters",
  "elden-ring":"Codices · Rosters",
  "elements":"Physics · Energy · Hardware",
  "the-atom":"Physics · Energy · Hardware",
