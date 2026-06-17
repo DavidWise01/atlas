@@ -1059,7 +1059,7 @@
 "name": "mitochondria",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/mitochondria",
-"pages": ""
+"pages": "https://davidwise01.github.io/mitochondria/"
 },
 {
 "name": "mnemosyne",
@@ -1816,6 +1816,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-sirens-of-titan",
 "pages": "https://davidwise01.github.io/the-sirens-of-titan/"
+},
+{
+"name": "the-terminal",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/the-terminal",
+"pages": ""
 },
 {
 "name": "the-uncut",

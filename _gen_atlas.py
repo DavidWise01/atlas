@@ -165,6 +165,7 @@ CAT = {
  "octopus":"Codices · Rosters",
  "mitochondria":"Codices · Rosters",
  "cron":"Tools & CLIs",
+ "the-terminal":"Tools & CLIs",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
