@@ -36,6 +36,12 @@
 "pages": "https://davidwise01.github.io/aci/"
 },
 {
+"name": "ada-lovelace",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/ada-lovelace",
+"pages": "https://davidwise01.github.io/ada-lovelace/"
+},
+{
 "name": "adas-law",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/adas-law",
@@ -372,6 +378,12 @@
 "pages": "https://davidwise01.github.io/child-of-an-ancient-city/"
 },
 {
+"name": "christine-de-pizan",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/christine-de-pizan",
+"pages": "https://davidwise01.github.io/christine-de-pizan/"
+},
+{
 "name": "chromatic-laser",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/chromatic-laser",
@@ -400,6 +412,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/claude-lineage",
 "pages": "https://davidwise01.github.io/claude-lineage/"
+},
+{
+"name": "cleopatra",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/cleopatra",
+"pages": "https://davidwise01.github.io/cleopatra/"
 },
 {
 "name": "cliffhanger",
@@ -594,6 +612,12 @@
 "pages": "https://davidwise01.github.io/eliza/"
 },
 {
+"name": "elizabeth-i",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/elizabeth-i",
+"pages": "https://davidwise01.github.io/elizabeth-i/"
+},
+{
 "name": "emacs",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/emacs",
@@ -606,6 +630,18 @@
 "pages": "https://davidwise01.github.io/emergent-engine/"
 },
 {
+"name": "emilie-du-chatelet",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/emilie-du-chatelet",
+"pages": "https://davidwise01.github.io/emilie-du-chatelet/"
+},
+{
+"name": "emmy-noether",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/emmy-noether",
+"pages": "https://davidwise01.github.io/emmy-noether/"
+},
+{
 "name": "enderverse",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/enderverse",
@@ -616,6 +652,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/enforcement-ledger",
 "pages": ""
+},
+{
+"name": "enheduanna",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/enheduanna",
+"pages": "https://davidwise01.github.io/enheduanna/"
 },
 {
 "name": "entelecheia",
@@ -798,6 +840,12 @@
 "pages": "https://davidwise01.github.io/hackers/"
 },
 {
+"name": "hannah-arendt",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hannah-arendt",
+"pages": "https://davidwise01.github.io/hannah-arendt/"
+},
+{
 "name": "happy-birthday-wanda-june",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/happy-birthday-wanda-june",
@@ -808,6 +856,12 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/hardware-lab",
 "pages": "https://davidwise01.github.io/hardware-lab/"
+},
+{
+"name": "hatshepsut",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hatshepsut",
+"pages": "https://davidwise01.github.io/hatshepsut/"
 },
 {
 "name": "hearth",
@@ -846,6 +900,12 @@
 "pages": "https://davidwise01.github.io/higgs-suite/"
 },
 {
+"name": "hildegard-of-bingen",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hildegard-of-bingen",
+"pages": "https://davidwise01.github.io/hildegard-of-bingen/"
+},
+{
 "name": "hocus-pocus",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/hocus-pocus",
@@ -874,6 +934,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/hot-rod",
 "pages": "https://davidwise01.github.io/hot-rod/"
+},
+{
+"name": "hypatia",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/hypatia",
+"pages": "https://davidwise01.github.io/hypatia/"
 },
 {
 "name": "id",
@@ -1066,6 +1132,18 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/manifold-hypothesis",
 "pages": "https://davidwise01.github.io/manifold-hypothesis/"
+},
+{
+"name": "marie-curie",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/marie-curie",
+"pages": "https://davidwise01.github.io/marie-curie/"
+},
+{
+"name": "mary-wollstonecraft",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/mary-wollstonecraft",
+"pages": "https://davidwise01.github.io/mary-wollstonecraft/"
 },
 {
 "name": "memory-sorrow-and-thorn",
@@ -1494,6 +1572,18 @@
 "pages": ""
 },
 {
+"name": "rosalind-franklin",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/rosalind-franklin",
+"pages": "https://davidwise01.github.io/rosalind-franklin/"
+},
+{
+"name": "sappho",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sappho",
+"pages": "https://davidwise01.github.io/sappho/"
+},
+{
 "name": "scaling-laws",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/scaling-laws",
@@ -1548,6 +1638,12 @@
 "pages": "https://davidwise01.github.io/shadowqueen/"
 },
 {
+"name": "simone-de-beauvoir",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/simone-de-beauvoir",
+"pages": "https://davidwise01.github.io/simone-de-beauvoir/"
+},
+{
 "name": "singularity-well",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/singularity-well",
@@ -1582,6 +1678,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/sophon",
 "pages": "https://davidwise01.github.io/sophon/"
+},
+{
+"name": "sor-juana",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sor-juana",
+"pages": "https://davidwise01.github.io/sor-juana/"
 },
 {
 "name": "stargate",
@@ -1974,6 +2076,12 @@
 "pages": ""
 },
 {
+"name": "theodora",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/theodora",
+"pages": "https://davidwise01.github.io/theodora/"
+},
+{
 "name": "three-body-problem",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/three-body-problem",
@@ -2124,6 +2232,12 @@
 "pages": "https://davidwise01.github.io/vi/"
 },
 {
+"name": "virginia-woolf",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/virginia-woolf",
+"pages": "https://davidwise01.github.io/virginia-woolf/"
+},
+{
 "name": "wampeters-foma-and-granfalloons",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wampeters-foma-and-granfalloons",
@@ -2176,6 +2290,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wrath-of-the-black-manta",
 "pages": "https://davidwise01.github.io/wrath-of-the-black-manta/"
+},
+{
+"name": "wu-zetian",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/wu-zetian",
+"pages": "https://davidwise01.github.io/wu-zetian/"
 },
 {
 "name": "zecharia-sitchin",
