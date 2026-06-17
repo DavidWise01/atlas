@@ -163,6 +163,8 @@ CAT = {
  "gravity-bracket":"Physics · Energy · Hardware",
  "population-dynamics":"Codices · Rosters",
  "octopus":"Codices · Rosters",
+ "mitochondria":"Codices · Rosters",
+ "cron":"Tools & CLIs",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",

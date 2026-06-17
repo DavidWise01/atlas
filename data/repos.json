@@ -432,6 +432,12 @@
 "pages": "https://davidwise01.github.io/crippled-god/"
 },
 {
+"name": "cron",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/cron",
+"pages": "https://davidwise01.github.io/cron/"
+},
+{
 "name": "cryptonomicon",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/cryptonomicon",
@@ -1047,6 +1053,12 @@
 "name": "mirror-solve",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/mirror-solve",
+"pages": ""
+},
+{
+"name": "mitochondria",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/mitochondria",
 "pages": ""
 },
 {
