@@ -162,6 +162,7 @@ CAT = {
  "the-atom":"Physics · Energy · Hardware",
  "gravity-bracket":"Physics · Energy · Hardware",
  "population-dynamics":"Codices · Rosters",
+ "octopus":"Codices · Rosters",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
