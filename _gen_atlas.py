@@ -185,6 +185,7 @@ CAT = {
  "self":"Codices · Rosters",
  "id":"Codices · Rosters",
  "super-id":"Codices · Rosters",
+ "syzygy":"Codices · Rosters",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",

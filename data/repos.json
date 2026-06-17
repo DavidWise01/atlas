@@ -1650,6 +1650,12 @@
 "pages": ""
 },
 {
+"name": "syzygy",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/syzygy",
+"pages": "https://davidwise01.github.io/syzygy/"
+},
+{
 "name": "t133",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/t133",
