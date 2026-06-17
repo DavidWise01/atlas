@@ -48,6 +48,12 @@
 "pages": "https://davidwise01.github.io/adas-law-victorian/"
 },
 {
+"name": "adventure",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/adventure",
+"pages": ""
+},
+{
 "name": "aeon-entangled",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/aeon-entangled",
@@ -222,6 +228,18 @@
 "pages": "https://davidwise01.github.io/authorship/"
 },
 {
+"name": "awk",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/awk",
+"pages": ""
+},
+{
+"name": "basic",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/basic",
+"pages": ""
+},
+{
 "name": "beak",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/beak",
@@ -292,6 +310,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/brothers-karamazov",
 "pages": "https://davidwise01.github.io/brothers-karamazov/"
+},
+{
+"name": "c-compiler",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/c-compiler",
+"pages": ""
 },
 {
 "name": "calibans-hour",
@@ -414,6 +438,12 @@
 "pages": "https://davidwise01.github.io/constitutional-ai/"
 },
 {
+"name": "coreutils",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/coreutils",
+"pages": ""
+},
+{
 "name": "crime-and-punishment",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/crime-and-punishment",
@@ -528,6 +558,12 @@
 "pages": "https://davidwise01.github.io/dune/"
 },
 {
+"name": "ed",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/ed",
+"pages": ""
+},
+{
 "name": "egyptian-pantheon",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/egyptian-pantheon",
@@ -550,6 +586,18 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/elements",
 "pages": "https://davidwise01.github.io/elements/"
+},
+{
+"name": "eliza",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/eliza",
+"pages": ""
+},
+{
+"name": "emacs",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/emacs",
+"pages": ""
 },
 {
 "name": "emergent-engine",
@@ -712,6 +760,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/green-papers",
 "pages": "https://davidwise01.github.io/green-papers/"
+},
+{
+"name": "grep",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/grep",
+"pages": ""
 },
 {
 "name": "grok-lineage",
@@ -942,6 +996,12 @@
 "pages": ""
 },
 {
+"name": "lisp-repl",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/lisp-repl",
+"pages": ""
+},
+{
 "name": "listeners-and-philosophers",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/listeners-and-philosophers",
@@ -964,6 +1024,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/maas",
 "pages": "https://davidwise01.github.io/maas/"
+},
+{
+"name": "make",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/make",
+"pages": ""
 },
 {
 "name": "malazan",
@@ -1368,6 +1434,12 @@
 "pages": ""
 },
 {
+"name": "rogue",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/rogue",
+"pages": ""
+},
+{
 "name": "root0-essays",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/root0-essays",
@@ -1414,6 +1486,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/scott-pilgrim",
 "pages": "https://davidwise01.github.io/scott-pilgrim/"
+},
+{
+"name": "sed",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/sed",
+"pages": ""
 },
 {
 "name": "seed",
@@ -1812,6 +1890,12 @@
 "pages": "https://davidwise01.github.io/the-seed/"
 },
 {
+"name": "the-shell",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/the-shell",
+"pages": ""
+},
+{
 "name": "the-sirens-of-titan",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-sirens-of-titan",
@@ -1821,7 +1905,7 @@
 "name": "the-terminal",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/the-terminal",
-"pages": ""
+"pages": "https://davidwise01.github.io/the-terminal/"
 },
 {
 "name": "the-uncut",
@@ -1944,6 +2028,12 @@
 "pages": ""
 },
 {
+"name": "troff",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/troff",
+"pages": ""
+},
+{
 "name": "tron",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/tron",
@@ -1984,6 +2074,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/varsity-blues",
 "pages": "https://davidwise01.github.io/varsity-blues/"
+},
+{
+"name": "vi",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/vi",
+"pages": ""
 },
 {
 "name": "wampeters-foma-and-granfalloons",
