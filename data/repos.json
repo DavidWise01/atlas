@@ -51,7 +51,7 @@
 "name": "adventure",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/adventure",
-"pages": ""
+"pages": "https://davidwise01.github.io/adventure/"
 },
 {
 "name": "aeon-entangled",
@@ -231,13 +231,13 @@
 "name": "awk",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/awk",
-"pages": ""
+"pages": "https://davidwise01.github.io/awk/"
 },
 {
 "name": "basic",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/basic",
-"pages": ""
+"pages": "https://davidwise01.github.io/basic/"
 },
 {
 "name": "beak",
@@ -315,7 +315,7 @@
 "name": "c-compiler",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/c-compiler",
-"pages": ""
+"pages": "https://davidwise01.github.io/c-compiler/"
 },
 {
 "name": "calibans-hour",
@@ -441,7 +441,7 @@
 "name": "coreutils",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/coreutils",
-"pages": ""
+"pages": "https://davidwise01.github.io/coreutils/"
 },
 {
 "name": "crime-and-punishment",
@@ -561,7 +561,7 @@
 "name": "ed",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/ed",
-"pages": ""
+"pages": "https://davidwise01.github.io/ed/"
 },
 {
 "name": "egyptian-pantheon",
@@ -591,13 +591,13 @@
 "name": "eliza",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/eliza",
-"pages": ""
+"pages": "https://davidwise01.github.io/eliza/"
 },
 {
 "name": "emacs",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/emacs",
-"pages": ""
+"pages": "https://davidwise01.github.io/emacs/"
 },
 {
 "name": "emergent-engine",
@@ -765,7 +765,7 @@
 "name": "grep",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/grep",
-"pages": ""
+"pages": "https://davidwise01.github.io/grep/"
 },
 {
 "name": "grok-lineage",
@@ -868,6 +868,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/hot-rod",
 "pages": "https://davidwise01.github.io/hot-rod/"
+},
+{
+"name": "id",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/id",
+"pages": "https://davidwise01.github.io/id/"
 },
 {
 "name": "idit",
@@ -999,7 +1005,7 @@
 "name": "lisp-repl",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/lisp-repl",
-"pages": ""
+"pages": "https://davidwise01.github.io/lisp-repl/"
 },
 {
 "name": "listeners-and-philosophers",
@@ -1029,7 +1035,7 @@
 "name": "make",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/make",
-"pages": ""
+"pages": "https://davidwise01.github.io/make/"
 },
 {
 "name": "malazan",
@@ -1437,7 +1443,7 @@
 "name": "rogue",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/rogue",
-"pages": ""
+"pages": "https://davidwise01.github.io/rogue/"
 },
 {
 "name": "root0-essays",
@@ -1491,7 +1497,7 @@
 "name": "sed",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/sed",
-"pages": ""
+"pages": "https://davidwise01.github.io/sed/"
 },
 {
 "name": "seed",
@@ -1504,6 +1510,12 @@
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/seed-kernel",
 "pages": ""
+},
+{
+"name": "self",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/self",
+"pages": "https://davidwise01.github.io/self/"
 },
 {
 "name": "seveneves",
@@ -1600,6 +1612,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/stoicheion-register",
 "pages": "https://davidwise01.github.io/stoicheion-register/"
+},
+{
+"name": "super-id",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/super-id",
+"pages": "https://davidwise01.github.io/super-id/"
 },
 {
 "name": "super-mario-bros-2",
@@ -1893,7 +1911,7 @@
 "name": "the-shell",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/the-shell",
-"pages": ""
+"pages": "https://davidwise01.github.io/the-shell/"
 },
 {
 "name": "the-sirens-of-titan",
@@ -2031,7 +2049,7 @@
 "name": "troff",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/troff",
-"pages": ""
+"pages": "https://davidwise01.github.io/troff/"
 },
 {
 "name": "tron",
@@ -2079,7 +2097,7 @@
 "name": "vi",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/vi",
-"pages": ""
+"pages": "https://davidwise01.github.io/vi/"
 },
 {
 "name": "wampeters-foma-and-granfalloons",
