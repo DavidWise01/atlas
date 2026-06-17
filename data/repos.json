@@ -594,6 +594,12 @@
 "pages": ""
 },
 {
+"name": "final-fantasy",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/final-fantasy",
+"pages": "https://davidwise01.github.io/final-fantasy/"
+},
+{
 "name": "fission-compression-core",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/fission-compression-core",

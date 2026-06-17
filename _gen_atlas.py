@@ -165,6 +165,7 @@ CAT = {
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
  "the-ansible":"Codices · Rosters",
+ "final-fantasy":"Codices · Rosters",
  "ff6":"Codices · Rosters",
  "green-papers":"Writing · Books · Doctrine",
  "authorship":"Writing · Books · Doctrine",
