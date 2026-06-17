@@ -209,6 +209,7 @@ CAT = {
  "rosalind-franklin":"Codices · Rosters",
  "hannah-arendt":"Codices · Rosters",
  "simone-de-beauvoir":"Codices · Rosters",
+ "aletheia":"Codices · Rosters",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
