@@ -231,6 +231,7 @@ CAT = {
  "bomb-jack":"Codices · Rosters",
  "ttu1":"Tools & CLIs",
  "metroid":"Codices · Rosters",
+ "super-metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
  "the-core":"Codices · Rosters",
