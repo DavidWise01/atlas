@@ -97,7 +97,7 @@ CAT = {
  "tripod-cardinal":"Memory · Persistence · Continuity","fission-compression-core":"Memory · Persistence · Continuity",
  # Greek Pantheon Systems
  "moirai":"Greek Pantheon Systems","hephaestus":"Greek Pantheon Systems",
- "physis":"Greek Pantheon Systems","plutus":"Greek Pantheon Systems",
+ "entelecheia":"Greek Pantheon Systems","plutus":"Greek Pantheon Systems",
  # Tools & CLIs
  "hephaestus-forge":"Tools & CLIs",
  "tools":"Tools & CLIs","pop-kit":"Tools & CLIs","lumen":"Tools & CLIs",
@@ -191,7 +191,7 @@ CAT = {
  "constitutional-ai":"STOICHEION & Governance",
  "the-seed":"STOICHEION & Governance",
  "0xdeadbeef":"STOICHEION & Governance",
- "physis":"STOICHEION & Governance","compression":"STOICHEION & Governance",
+ "compression":"STOICHEION & Governance",
  "circuits":"STOICHEION & Governance","scaling-laws":"STOICHEION & Governance",
  "lottery-ticket":"STOICHEION & Governance","neural-tangent-kernel":"STOICHEION & Governance",
  "manifold-hypothesis":"STOICHEION & Governance","grokking":"STOICHEION & Governance",

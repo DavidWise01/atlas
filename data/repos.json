@@ -546,6 +546,12 @@
 "pages": ""
 },
 {
+"name": "entelecheia",
+"cat": "Greek Pantheon Systems",
+"gh": "https://github.com/DavidWise01/entelecheia",
+"pages": "https://davidwise01.github.io/entelecheia/"
+},
+{
 "name": "eve-constitution",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/eve-constitution",
@@ -1171,7 +1177,7 @@
 },
 {
 "name": "physis",
-"cat": "STOICHEION & Governance",
+"cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/physis",
 "pages": "https://davidwise01.github.io/physis/"
 },
