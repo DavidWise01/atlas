@@ -666,6 +666,12 @@
 "pages": "https://davidwise01.github.io/enheduanna/"
 },
 {
+"name": "entanglement",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/entanglement",
+"pages": "https://davidwise01.github.io/entanglement/"
+},
+{
 "name": "entelecheia",
 "cat": "Greek Pantheon Systems",
 "gh": "https://github.com/DavidWise01/entelecheia",
@@ -1272,6 +1278,12 @@
 "pages": "https://davidwise01.github.io/muse/"
 },
 {
+"name": "mycelium",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/mycelium",
+"pages": "https://davidwise01.github.io/mycelium/"
+},
+{
 "name": "nanite-factory",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/nanite-factory",
@@ -1480,6 +1492,12 @@
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/quantum-box",
 "pages": "https://davidwise01.github.io/quantum-box/"
+},
+{
+"name": "quantum-error-correction",
+"cat": "Physics · Energy · Hardware",
+"gh": "https://github.com/DavidWise01/quantum-error-correction",
+"pages": "https://davidwise01.github.io/quantum-error-correction/"
 },
 {
 "name": "quantum-gravity",
@@ -1732,6 +1750,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/stoicheion-register",
 "pages": "https://davidwise01.github.io/stoicheion-register/"
+},
+{
+"name": "store",
+"cat": "Other · Lab",
+"gh": "https://github.com/DavidWise01/store",
+"pages": ""
 },
 {
 "name": "super-id",
