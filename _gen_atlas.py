@@ -236,6 +236,7 @@ CAT = {
  "metroid":"Codices · Rosters",
  "super-metroid":"Codices · Rosters",
  "scott-pilgrim":"Codices · Rosters",
+ "dodgeball":"Codices · Rosters",
  "american-psycho":"Codices · Rosters",
  "the-core":"Codices · Rosters",
  "interstellar":"Codices · Rosters",
