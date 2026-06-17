@@ -195,6 +195,7 @@ CAT = {
  "circuits":"STOICHEION & Governance","scaling-laws":"STOICHEION & Governance",
  "lottery-ticket":"STOICHEION & Governance","neural-tangent-kernel":"STOICHEION & Governance",
  "manifold-hypothesis":"STOICHEION & Governance","grokking":"STOICHEION & Governance",
+ "the-ghost-in-the-machine":"STOICHEION & Governance",
  "idit":"Security & Defense",
  "dark-enlightenment":"Tin-Foil · The Fringe",
  "the-illuminati":"Tin-Foil · The Fringe",
