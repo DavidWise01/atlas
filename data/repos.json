@@ -654,6 +654,12 @@
 "pages": "https://davidwise01.github.io/faxanadu/"
 },
 {
+"name": "female",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/female",
+"pages": "https://davidwise01.github.io/female/"
+},
+{
 "name": "ff6",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/ff6",
@@ -1042,6 +1048,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/malazan",
 "pages": "https://davidwise01.github.io/malazan/"
+},
+{
+"name": "male",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/male",
+"pages": "https://davidwise01.github.io/male/"
 },
 {
 "name": "mallrats",
@@ -1762,6 +1774,12 @@
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/the-cosmos",
 "pages": "https://davidwise01.github.io/the-cosmos/"
+},
+{
+"name": "the-cost",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-cost",
+"pages": "https://davidwise01.github.io/the-cost/"
 },
 {
 "name": "the-dark-tower",
