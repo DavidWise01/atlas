@@ -180,6 +180,12 @@
 "pages": "https://davidwise01.github.io/american-psycho/"
 },
 {
+"name": "anabasis",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/anabasis",
+"pages": "https://davidwise01.github.io/anabasis/"
+},
+{
 "name": "anathem",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/anathem",
@@ -261,7 +267,7 @@
 "name": "black-company",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/black-company",
-"pages": ""
+"pages": "https://davidwise01.github.io/black-company/"
 },
 {
 "name": "blaster-master",
@@ -315,7 +321,7 @@
 "name": "bridge-burners",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/bridge-burners",
-"pages": ""
+"pages": "https://davidwise01.github.io/bridge-burners/"
 },
 {
 "name": "brothers-karamazov",
@@ -777,7 +783,7 @@
 "name": "gap-cycle",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/gap-cycle",
-"pages": ""
+"pages": "https://davidwise01.github.io/gap-cycle/"
 },
 {
 "name": "god-bless-you-dr-kevorkian",
@@ -891,13 +897,13 @@
 "name": "hephaestus",
 "cat": "Greek Pantheon Systems",
 "gh": "https://github.com/DavidWise01/hephaestus",
-"pages": ""
+"pages": "https://davidwise01.github.io/hephaestus/"
 },
 {
 "name": "hephaestus-forge",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/hephaestus-forge",
-"pages": ""
+"pages": "https://davidwise01.github.io/hephaestus-forge/"
 },
 {
 "name": "hermeneus",
@@ -1083,7 +1089,7 @@
 "name": "liquid",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/liquid",
-"pages": ""
+"pages": "https://davidwise01.github.io/liquid/"
 },
 {
 "name": "lisp-repl",
@@ -1167,7 +1173,7 @@
 "name": "memristor",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/memristor",
-"pages": ""
+"pages": "https://davidwise01.github.io/memristor/"
 },
 {
 "name": "merkle-bloom",
@@ -1323,7 +1329,7 @@
 "name": "noesis-kernel",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/noesis-kernel",
-"pages": ""
+"pages": "https://davidwise01.github.io/noesis-kernel/"
 },
 {
 "name": "nom",
@@ -1347,7 +1353,7 @@
 "name": "nouthesia",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/nouthesia",
-"pages": ""
+"pages": "https://davidwise01.github.io/nouthesia/"
 },
 {
 "name": "oasis",
@@ -1383,7 +1389,7 @@
 "name": "persistence-protocol",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/persistence-protocol",
-"pages": ""
+"pages": "https://davidwise01.github.io/persistence-protocol/"
 },
 {
 "name": "phonetikos",
@@ -1407,7 +1413,7 @@
 "name": "plasmonic",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/plasmonic",
-"pages": ""
+"pages": "https://davidwise01.github.io/plasmonic/"
 },
 {
 "name": "player-piano",
@@ -1521,7 +1527,7 @@
 "name": "recluce",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/recluce",
-"pages": ""
+"pages": "https://davidwise01.github.io/recluce/"
 },
 {
 "name": "red-coast",
@@ -1545,13 +1551,13 @@
 "name": "ringworld",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/ringworld",
-"pages": ""
+"pages": "https://davidwise01.github.io/ringworld/"
 },
 {
 "name": "riverworld",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/riverworld",
-"pages": ""
+"pages": "https://davidwise01.github.io/riverworld/"
 },
 {
 "name": "rogue",
@@ -1737,7 +1743,7 @@
 "name": "stoicheion-api",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/stoicheion-api",
-"pages": ""
+"pages": "https://davidwise01.github.io/stoicheion-api/"
 },
 {
 "name": "stoicheion-qif",
@@ -1755,7 +1761,7 @@
 "name": "store",
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/store",
-"pages": ""
+"pages": "https://davidwise01.github.io/store/"
 },
 {
 "name": "super-id",
@@ -1827,7 +1833,7 @@
 "name": "terminus-doctrine",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/terminus-doctrine",
-"pages": ""
+"pages": "https://davidwise01.github.io/terminus-doctrine/"
 },
 {
 "name": "ternary-spec",
@@ -1863,7 +1869,7 @@
 "name": "the-arch",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/the-arch",
-"pages": ""
+"pages": "https://davidwise01.github.io/the-arch/"
 },
 {
 "name": "the-archive",
@@ -2211,7 +2217,7 @@
 "name": "trisolaris-tech",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/trisolaris-tech",
-"pages": ""
+"pages": "https://davidwise01.github.io/trisolaris-tech/"
 },
 {
 "name": "troff",
@@ -2313,7 +2319,7 @@
 "name": "white-gold-wielder",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/white-gold-wielder",
-"pages": ""
+"pages": "https://davidwise01.github.io/white-gold-wielder/"
 },
 {
 "name": "without-remorse",
