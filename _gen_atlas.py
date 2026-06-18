@@ -172,6 +172,7 @@ CAT = {
  "neuromorphic":"Codices · Rosters", "xenobots":"Codices · Rosters", "thermodynamics-of-computation":"Codices · Rosters",
  "cron":"Tools & CLIs",
  "the-terminal":"Tools & CLIs",
+ "whisper-lattice":"Tools & CLIs",
  "ed":"Tools & CLIs",
  "vi":"Tools & CLIs",
  "emacs":"Tools & CLIs",

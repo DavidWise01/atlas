@@ -2352,6 +2352,12 @@
 "pages": "https://davidwise01.github.io/wheel-of-time/"
 },
 {
+"name": "whisper-lattice",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/whisper-lattice",
+"pages": "https://davidwise01.github.io/whisper-lattice/"
+},
+{
 "name": "whisper-lattice-log",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/whisper-lattice-log",
