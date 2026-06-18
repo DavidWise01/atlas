@@ -1536,6 +1536,12 @@
 "pages": "https://davidwise01.github.io/quantum-box/"
 },
 {
+"name": "quantum-cellular-automata",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/quantum-cellular-automata",
+"pages": "https://davidwise01.github.io/quantum-cellular-automata/"
+},
+{
 "name": "quantum-error-correction",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/quantum-error-correction",
