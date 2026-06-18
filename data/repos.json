@@ -252,6 +252,12 @@
 "pages": "https://davidwise01.github.io/awk/"
 },
 {
+"name": "band-camp",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/band-camp",
+"pages": "https://davidwise01.github.io/band-camp/"
+},
+{
 "name": "basic",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/basic",
@@ -550,6 +556,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/decadal",
 "pages": "https://davidwise01.github.io/decadal/"
+},
+{
+"name": "depeche-mode",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/depeche-mode",
+"pages": "https://davidwise01.github.io/depeche-mode/"
 },
 {
 "name": "dodgeball",
@@ -1764,6 +1776,12 @@
 "pages": "https://davidwise01.github.io/store/"
 },
 {
+"name": "sublime",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sublime",
+"pages": "https://davidwise01.github.io/sublime/"
+},
+{
 "name": "super-id",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/super-id",
@@ -2338,6 +2356,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wu-zetian",
 "pages": "https://davidwise01.github.io/wu-zetian/"
+},
+{
+"name": "xzibit",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/xzibit",
+"pages": "https://davidwise01.github.io/xzibit/"
 },
 {
 "name": "zecharia-sitchin",

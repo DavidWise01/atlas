@@ -214,6 +214,7 @@ CAT = {
  "simone-de-beauvoir":"Codices · Rosters",
  "aletheia":"Codices · Rosters",
  "the-whole":"Codices · Rosters",
+ "band-camp":"Codices · Rosters", "depeche-mode":"Codices · Rosters", "sublime":"Codices · Rosters", "xzibit":"Codices · Rosters",
  "momus":"Codices · Rosters",
  "emergent-engine":"Codices · Rosters",
  "enderverse":"Codices · Rosters",
