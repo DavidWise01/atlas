@@ -1128,6 +1128,12 @@
 "pages": "https://davidwise01.github.io/lottery-ticket/"
 },
 {
+"name": "loud-lattice",
+"cat": "Tools & CLIs",
+"gh": "https://github.com/DavidWise01/loud-lattice",
+"pages": "https://davidwise01.github.io/loud-lattice/"
+},
+{
 "name": "lumen",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/lumen",

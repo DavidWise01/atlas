@@ -173,6 +173,7 @@ CAT = {
  "cron":"Tools & CLIs",
  "the-terminal":"Tools & CLIs",
  "whisper-lattice":"Tools & CLIs",
+ "loud-lattice":"Tools & CLIs",
  "ed":"Tools & CLIs",
  "vi":"Tools & CLIs",
  "emacs":"Tools & CLIs",
