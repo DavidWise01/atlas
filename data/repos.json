@@ -1332,6 +1332,12 @@
 "pages": "https://davidwise01.github.io/neural-tangent-kernel/"
 },
 {
+"name": "neuromorphic",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/neuromorphic",
+"pages": "https://davidwise01.github.io/neuromorphic/"
+},
+{
 "name": "nine-body-audit",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/nine-body-audit",
@@ -2154,6 +2160,12 @@
 "pages": "https://davidwise01.github.io/theodora/"
 },
 {
+"name": "thermodynamics-of-computation",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/thermodynamics-of-computation",
+"pages": "https://davidwise01.github.io/thermodynamics-of-computation/"
+},
+{
 "name": "three-body-problem",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/three-body-problem",
@@ -2368,6 +2380,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/wu-zetian",
 "pages": "https://davidwise01.github.io/wu-zetian/"
+},
+{
+"name": "xenobots",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/xenobots",
+"pages": "https://davidwise01.github.io/xenobots/"
 },
 {
 "name": "xzibit",

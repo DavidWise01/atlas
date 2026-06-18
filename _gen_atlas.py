@@ -169,6 +169,7 @@ CAT = {
  "mycelium":"Codices · Rosters",
  "cellular-automata":"Codices · Rosters",
  "organoid-intelligence":"Codices · Rosters",
+ "neuromorphic":"Codices · Rosters", "xenobots":"Codices · Rosters", "thermodynamics-of-computation":"Codices · Rosters",
  "cron":"Tools & CLIs",
  "the-terminal":"Tools & CLIs",
  "ed":"Tools & CLIs",
