@@ -168,6 +168,7 @@ CAT = {
  "mitochondria":"Codices · Rosters",
  "mycelium":"Codices · Rosters",
  "cellular-automata":"Codices · Rosters",
+ "organoid-intelligence":"Codices · Rosters",
  "cron":"Tools & CLIs",
  "the-terminal":"Tools & CLIs",
  "ed":"Tools & CLIs",
