@@ -576,6 +576,12 @@
 "pages": "https://davidwise01.github.io/depeche-mode/"
 },
 {
+"name": "dictyostelium",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/dictyostelium",
+"pages": "https://davidwise01.github.io/dictyostelium/"
+},
+{
 "name": "dodgeball",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/dodgeball",
@@ -976,6 +982,12 @@
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/honey-badger",
 "pages": ""
+},
+{
+"name": "honeybee-swarm",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/honeybee-swarm",
+"pages": "https://davidwise01.github.io/honeybee-swarm/"
 },
 {
 "name": "hot-rod",
@@ -1738,6 +1750,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/simone-de-beauvoir",
 "pages": "https://davidwise01.github.io/simone-de-beauvoir/"
+},
+{
+"name": "single-cell-learning",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/single-cell-learning",
+"pages": "https://davidwise01.github.io/single-cell-learning/"
 },
 {
 "name": "singularity-well",
