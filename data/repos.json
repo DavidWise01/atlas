@@ -990,6 +990,12 @@
 "pages": "https://davidwise01.github.io/idit/"
 },
 {
+"name": "immune-system",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/immune-system",
+"pages": "https://davidwise01.github.io/immune-system/"
+},
+{
 "name": "infinite-jest",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/infinite-jest",
@@ -1554,6 +1560,12 @@
 "pages": "https://davidwise01.github.io/quantum-gravity/"
 },
 {
+"name": "quorum-sensing",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/quorum-sensing",
+"pages": "https://davidwise01.github.io/quorum-sensing/"
+},
+{
 "name": "rainbow-book",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/rainbow-book",
@@ -1732,6 +1744,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/slaughterhouse-five",
 "pages": "https://davidwise01.github.io/slaughterhouse-five/"
+},
+{
+"name": "slime-mold",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/slime-mold",
+"pages": "https://davidwise01.github.io/slime-mold/"
 },
 {
 "name": "snow-crash",
