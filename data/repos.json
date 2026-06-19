@@ -198,6 +198,12 @@
 "pages": "https://davidwise01.github.io/animal-farm/"
 },
 {
+"name": "ant-colony",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/ant-colony",
+"pages": "https://davidwise01.github.io/ant-colony/"
+},
+{
 "name": "apsalar",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/apsalar",
@@ -868,6 +874,12 @@
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/guardian-legend",
 "pages": "https://davidwise01.github.io/guardian-legend/"
+},
+{
+"name": "gut-brain-axis",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/gut-brain-axis",
+"pages": "https://davidwise01.github.io/gut-brain-axis/"
 },
 {
 "name": "hackers",
@@ -2242,6 +2254,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/triados",
 "pages": ""
+},
+{
+"name": "trichoplax",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/trichoplax",
+"pages": "https://davidwise01.github.io/trichoplax/"
 },
 {
 "name": "tripod",
