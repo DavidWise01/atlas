@@ -498,6 +498,12 @@
 "pages": "https://davidwise01.github.io/constitutional-ai/"
 },
 {
+"name": "coral",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/coral",
+"pages": "https://davidwise01.github.io/coral/"
+},
+{
 "name": "coreutils",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/coreutils",
@@ -1180,6 +1186,12 @@
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/loud-lattice",
 "pages": "https://davidwise01.github.io/loud-lattice/"
+},
+{
+"name": "luca",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/luca",
+"pages": "https://davidwise01.github.io/luca/"
 },
 {
 "name": "lumen",
@@ -2170,6 +2182,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/the-living-core",
 "pages": "https://davidwise01.github.io/the-living-core/"
+},
+{
+"name": "the-living-question",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-living-question",
+"pages": "https://davidwise01.github.io/the-living-question/"
 },
 {
 "name": "the-loom",
