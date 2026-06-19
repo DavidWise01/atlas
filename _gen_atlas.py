@@ -189,6 +189,8 @@ CAT = {
  "coral":"Codices · Rosters",
  "luca":"Codices · Rosters",
  "the-living-question":"Codices · Rosters",
+ "the-inference-layer":"Codices · Rosters",
+ "the-next-prediction":"Codices · Rosters",
  "cellular-automata":"Codices · Rosters",
  "organoid-intelligence":"Codices · Rosters",
  "quantum-cellular-automata":"Codices · Rosters",
