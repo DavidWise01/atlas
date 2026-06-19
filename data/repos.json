@@ -1476,6 +1476,12 @@
 "pages": "https://davidwise01.github.io/physis/"
 },
 {
+"name": "plant-intelligence",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/plant-intelligence",
+"pages": "https://davidwise01.github.io/plant-intelligence/"
+},
+{
 "name": "plasmonic",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/plasmonic",
@@ -2178,6 +2184,12 @@
 "pages": "https://davidwise01.github.io/the-sirens-of-titan/"
 },
 {
+"name": "the-sponge",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-sponge",
+"pages": "https://davidwise01.github.io/the-sponge/"
+},
+{
 "name": "the-terminal",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/the-terminal",
@@ -2386,6 +2398,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/virginia-woolf",
 "pages": "https://davidwise01.github.io/virginia-woolf/"
+},
+{
+"name": "viruses",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/viruses",
+"pages": "https://davidwise01.github.io/viruses/"
 },
 {
 "name": "wampeters-foma-and-granfalloons",
