@@ -414,6 +414,12 @@
 "pages": "https://davidwise01.github.io/child-of-an-ancient-city/"
 },
 {
+"name": "choanoflagellates",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/choanoflagellates",
+"pages": "https://davidwise01.github.io/choanoflagellates/"
+},
+{
 "name": "christine-de-pizan",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/christine-de-pizan",
@@ -1668,6 +1674,12 @@
 "pages": "https://davidwise01.github.io/riverworld/"
 },
 {
+"name": "rna-world",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/rna-world",
+"pages": "https://davidwise01.github.io/rna-world/"
+},
+{
 "name": "rogue",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/rogue",
@@ -1948,6 +1960,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/tailchasers-song",
 "pages": "https://davidwise01.github.io/tailchasers-song/"
+},
+{
+"name": "tardigrade",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/tardigrade",
+"pages": "https://davidwise01.github.io/tardigrade/"
 },
 {
 "name": "termination-shock",
