@@ -222,6 +222,12 @@
 "pages": "https://davidwise01.github.io/arena/"
 },
 {
+"name": "artificial-life",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/artificial-life",
+"pages": "https://davidwise01.github.io/artificial-life/"
+},
+{
 "name": "asimov",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/asimov",
@@ -1110,6 +1116,12 @@
 "pages": "https://davidwise01.github.io/library/"
 },
 {
+"name": "lichen",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/lichen",
+"pages": "https://davidwise01.github.io/lichen/"
+},
+{
 "name": "lineage",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/lineage",
@@ -1524,6 +1536,12 @@
 "pages": "https://davidwise01.github.io/population-dynamics/"
 },
 {
+"name": "portuguese-man-o-war",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/portuguese-man-o-war",
+"pages": "https://davidwise01.github.io/portuguese-man-o-war/"
+},
+{
 "name": "positronic-law",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/positronic-law",
@@ -1534,6 +1552,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/pratchett",
 "pages": "https://davidwise01.github.io/pratchett/"
+},
+{
+"name": "prions",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/prions",
+"pages": "https://davidwise01.github.io/prions/"
 },
 {
 "name": "prompt-library",
