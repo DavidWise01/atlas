@@ -240,6 +240,12 @@
 "pages": ""
 },
 {
+"name": "astrobiology",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/astrobiology",
+"pages": "https://davidwise01.github.io/astrobiology/"
+},
+{
 "name": "atlas",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/atlas",
@@ -2143,7 +2149,7 @@
 },
 {
 "name": "the-cosmos",
-"cat": "Other · Lab",
+"cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-cosmos",
 "pages": "https://davidwise01.github.io/the-cosmos/"
 },
