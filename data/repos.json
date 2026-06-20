@@ -912,6 +912,12 @@
 "pages": "https://davidwise01.github.io/gap-cycle/"
 },
 {
+"name": "gilgamesh",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/gilgamesh",
+"pages": "https://davidwise01.github.io/gilgamesh/"
+},
+{
 "name": "god-bless-you-dr-kevorkian",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/god-bless-you-dr-kevorkian",
@@ -2094,6 +2100,12 @@
 "pages": "https://davidwise01.github.io/store/"
 },
 {
+"name": "strife",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/strife",
+"pages": "https://davidwise01.github.io/strife/"
+},
+{
 "name": "sublime",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/sublime",
@@ -2520,6 +2532,12 @@
 "pages": "https://davidwise01.github.io/the-loom/"
 },
 {
+"name": "the-loss-of-ideas",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-loss-of-ideas",
+"pages": "https://davidwise01.github.io/the-loss-of-ideas/"
+},
+{
 "name": "the-market",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-market",
@@ -2670,6 +2688,12 @@
 "pages": "https://davidwise01.github.io/the-terminal/"
 },
 {
+"name": "the-theft-of-ideas",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-theft-of-ideas",
+"pages": "https://davidwise01.github.io/the-theft-of-ideas/"
+},
+{
 "name": "the-tokenizer",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-tokenizer",
@@ -2722,6 +2746,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-wizard",
 "pages": "https://davidwise01.github.io/the-wizard/"
+},
+{
+"name": "the-word-and-the-sword",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-word-and-the-sword",
+"pages": "https://davidwise01.github.io/the-word-and-the-sword/"
 },
 {
 "name": "the-xbox",
