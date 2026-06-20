@@ -1872,6 +1872,12 @@
 "pages": ""
 },
 {
+"name": "sega-master-system",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sega-master-system",
+"pages": "https://davidwise01.github.io/sega-master-system/"
+},
+{
 "name": "self",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/self",
@@ -1930,6 +1936,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/slime-mold",
 "pages": "https://davidwise01.github.io/slime-mold/"
+},
+{
+"name": "snes",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/snes",
+"pages": "https://davidwise01.github.io/snes/"
 },
 {
 "name": "snow-crash",
@@ -2118,6 +2130,12 @@
 "pages": "https://davidwise01.github.io/tetraktys/"
 },
 {
+"name": "the-3ds",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-3ds",
+"pages": "https://davidwise01.github.io/the-3ds/"
+},
+{
 "name": "the-amphitheater",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-amphitheater",
@@ -2214,10 +2232,22 @@
 "pages": "https://davidwise01.github.io/the-diamond-age/"
 },
 {
+"name": "the-dreamcast",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-dreamcast",
+"pages": "https://davidwise01.github.io/the-dreamcast/"
+},
+{
 "name": "the-droplet",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-droplet",
 "pages": "https://davidwise01.github.io/the-droplet/"
+},
+{
+"name": "the-ds",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ds",
+"pages": "https://davidwise01.github.io/the-ds/"
 },
 {
 "name": "the-edge-of-chaos",
@@ -2244,10 +2274,34 @@
 "pages": "https://davidwise01.github.io/the-forge/"
 },
 {
+"name": "the-game-boy",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-game-boy",
+"pages": "https://davidwise01.github.io/the-game-boy/"
+},
+{
+"name": "the-gamecube",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-gamecube",
+"pages": "https://davidwise01.github.io/the-gamecube/"
+},
+{
 "name": "The-Garden",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/The-Garden",
 "pages": "https://davidwise01.github.io/The-Garden/"
+},
+{
+"name": "the-gba",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-gba",
+"pages": "https://davidwise01.github.io/the-gba/"
+},
+{
+"name": "the-genesis",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-genesis",
+"pages": "https://davidwise01.github.io/the-genesis/"
 },
 {
 "name": "the-ghost-in-the-machine",
@@ -2370,6 +2424,12 @@
 "pages": "https://davidwise01.github.io/the-mongoliad/"
 },
 {
+"name": "the-n64",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-n64",
+"pages": "https://davidwise01.github.io/the-n64/"
+},
+{
 "name": "the-nes",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-nes",
@@ -2394,6 +2454,42 @@
 "pages": "https://davidwise01.github.io/the-pantheon/"
 },
 {
+"name": "the-playstation",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-playstation",
+"pages": "https://davidwise01.github.io/the-playstation/"
+},
+{
+"name": "the-ps2",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ps2",
+"pages": "https://davidwise01.github.io/the-ps2/"
+},
+{
+"name": "the-ps3",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ps3",
+"pages": "https://davidwise01.github.io/the-ps3/"
+},
+{
+"name": "the-ps4",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ps4",
+"pages": "https://davidwise01.github.io/the-ps4/"
+},
+{
+"name": "the-ps5",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-ps5",
+"pages": "https://davidwise01.github.io/the-ps5/"
+},
+{
+"name": "the-psp",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-psp",
+"pages": "https://davidwise01.github.io/the-psp/"
+},
+{
 "name": "the-quorum-engine",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-quorum-engine",
@@ -2404,6 +2500,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-rise-and-fall-of-dodo",
 "pages": "https://davidwise01.github.io/the-rise-and-fall-of-dodo/"
+},
+{
+"name": "the-saturn",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-saturn",
+"pages": "https://davidwise01.github.io/the-saturn/"
 },
 {
 "name": "the-seed",
@@ -2430,6 +2532,18 @@
 "pages": "https://davidwise01.github.io/the-sponge/"
 },
 {
+"name": "the-steam-deck",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-steam-deck",
+"pages": "https://davidwise01.github.io/the-steam-deck/"
+},
+{
+"name": "the-switch",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-switch",
+"pages": "https://davidwise01.github.io/the-switch/"
+},
+{
 "name": "the-terminal",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/the-terminal",
@@ -2454,6 +2568,12 @@
 "pages": "https://davidwise01.github.io/the-uncut/"
 },
 {
+"name": "the-vita",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-vita",
+"pages": "https://davidwise01.github.io/the-vita/"
+},
+{
 "name": "the-war-of-the-flowers",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-war-of-the-flowers",
@@ -2466,10 +2586,40 @@
 "pages": "https://davidwise01.github.io/the-whole/"
 },
 {
+"name": "the-wii",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-wii",
+"pages": "https://davidwise01.github.io/the-wii/"
+},
+{
 "name": "the-wizard",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-wizard",
 "pages": "https://davidwise01.github.io/the-wizard/"
+},
+{
+"name": "the-xbox",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-xbox",
+"pages": "https://davidwise01.github.io/the-xbox/"
+},
+{
+"name": "the-xbox-360",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-xbox-360",
+"pages": "https://davidwise01.github.io/the-xbox-360/"
+},
+{
+"name": "the-xbox-one",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-xbox-one",
+"pages": "https://davidwise01.github.io/the-xbox-one/"
+},
+{
+"name": "the-xbox-series-x",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-xbox-series-x",
+"pages": "https://davidwise01.github.io/the-xbox-series-x/"
 },
 {
 "name": "the.source",
@@ -2608,6 +2758,12 @@
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/ttu1",
 "pages": "https://davidwise01.github.io/ttu1/"
+},
+{
+"name": "turbografx-16",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/turbografx-16",
+"pages": "https://davidwise01.github.io/turbografx-16/"
 },
 {
 "name": "ud0",
