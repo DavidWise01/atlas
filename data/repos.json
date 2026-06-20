@@ -522,6 +522,12 @@
 "pages": "https://davidwise01.github.io/coreutils/"
 },
 {
+"name": "cosmology",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/cosmology",
+"pages": "https://davidwise01.github.io/cosmology/"
+},
+{
 "name": "crime-and-punishment",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/crime-and-punishment",
@@ -2149,7 +2155,7 @@
 },
 {
 "name": "the-cosmos",
-"cat": "Codices · Rosters",
+"cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/the-cosmos",
 "pages": "https://davidwise01.github.io/the-cosmos/"
 },
