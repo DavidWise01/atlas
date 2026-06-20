@@ -246,6 +246,36 @@
 "pages": "https://davidwise01.github.io/astrobiology/"
 },
 {
+"name": "atari-2600",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/atari-2600",
+"pages": "https://davidwise01.github.io/atari-2600/"
+},
+{
+"name": "atari-5200",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/atari-5200",
+"pages": "https://davidwise01.github.io/atari-5200/"
+},
+{
+"name": "atari-7800",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/atari-7800",
+"pages": "https://davidwise01.github.io/atari-7800/"
+},
+{
+"name": "atari-jaguar",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/atari-jaguar",
+"pages": "https://davidwise01.github.io/atari-jaguar/"
+},
+{
+"name": "atari-lynx",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/atari-lynx",
+"pages": "https://davidwise01.github.io/atari-lynx/"
+},
+{
 "name": "atlas",
 "cat": "OS & Infrastructure",
 "gh": "https://github.com/DavidWise01/atlas",
@@ -1290,6 +1320,12 @@
 "pages": "https://davidwise01.github.io/maas/"
 },
 {
+"name": "magnavox-odyssey",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/magnavox-odyssey",
+"pages": "https://davidwise01.github.io/magnavox-odyssey/"
+},
+{
 "name": "make",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/make",
@@ -1476,6 +1512,12 @@
 "pages": "https://davidwise01.github.io/nanofilament/"
 },
 {
+"name": "neo-geo-pocket",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/neo-geo-pocket",
+"pages": "https://davidwise01.github.io/neo-geo-pocket/"
+},
+{
 "name": "nest-3-deep",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/nest-3-deep",
@@ -1504,6 +1546,12 @@
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/nineteen-eighty-four",
 "pages": "https://davidwise01.github.io/nineteen-eighty-four/"
+},
+{
+"name": "nintendo-virtual-boy",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/nintendo-virtual-boy",
+"pages": "https://davidwise01.github.io/nintendo-virtual-boy/"
 },
 {
 "name": "noesis-kernel",
@@ -1872,6 +1920,24 @@
 "pages": ""
 },
 {
+"name": "sega-32x",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sega-32x",
+"pages": "https://davidwise01.github.io/sega-32x/"
+},
+{
+"name": "sega-cd",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sega-cd",
+"pages": "https://davidwise01.github.io/sega-cd/"
+},
+{
+"name": "sega-game-gear",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/sega-game-gear",
+"pages": "https://davidwise01.github.io/sega-game-gear/"
+},
+{
 "name": "sega-master-system",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/sega-master-system",
@@ -2130,10 +2196,28 @@
 "pages": "https://davidwise01.github.io/tetraktys/"
 },
 {
+"name": "the-3do",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-3do",
+"pages": "https://davidwise01.github.io/the-3do/"
+},
+{
 "name": "the-3ds",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-3ds",
 "pages": "https://davidwise01.github.io/the-3ds/"
+},
+{
+"name": "the-6502",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-6502",
+"pages": "https://davidwise01.github.io/the-6502/"
+},
+{
+"name": "the-68000",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-68000",
+"pages": "https://davidwise01.github.io/the-68000/"
 },
 {
 "name": "the-amphitheater",
@@ -2190,10 +2274,28 @@
 "pages": "https://davidwise01.github.io/the-body/"
 },
 {
+"name": "the-c64",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-c64",
+"pages": "https://davidwise01.github.io/the-c64/"
+},
+{
+"name": "the-cd-i",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-cd-i",
+"pages": "https://davidwise01.github.io/the-cd-i/"
+},
+{
 "name": "the-chain-of-thought",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-chain-of-thought",
 "pages": "https://davidwise01.github.io/the-chain-of-thought/"
+},
+{
+"name": "the-colecovision",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-colecovision",
+"pages": "https://davidwise01.github.io/the-colecovision/"
 },
 {
 "name": "the-core",
@@ -2274,6 +2376,12 @@
 "pages": "https://davidwise01.github.io/the-forge/"
 },
 {
+"name": "the-game-and-watch",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-game-and-watch",
+"pages": "https://davidwise01.github.io/the-game-and-watch/"
+},
+{
 "name": "the-game-boy",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-game-boy",
@@ -2344,6 +2452,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-inference-layer",
 "pages": "https://davidwise01.github.io/the-inference-layer/"
+},
+{
+"name": "the-intellivision",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-intellivision",
+"pages": "https://davidwise01.github.io/the-intellivision/"
 },
 {
 "name": "the-interface",
@@ -2428,6 +2542,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-n64",
 "pages": "https://davidwise01.github.io/the-n64/"
+},
+{
+"name": "the-neo-geo",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-neo-geo",
+"pages": "https://davidwise01.github.io/the-neo-geo/"
 },
 {
 "name": "the-nes",
@@ -2568,6 +2688,12 @@
 "pages": "https://davidwise01.github.io/the-uncut/"
 },
 {
+"name": "the-vectrex",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-vectrex",
+"pages": "https://davidwise01.github.io/the-vectrex/"
+},
+{
 "name": "the-vita",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-vita",
@@ -2620,6 +2746,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-xbox-series-x",
 "pages": "https://davidwise01.github.io/the-xbox-series-x/"
+},
+{
+"name": "the-z80",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-z80",
+"pages": "https://davidwise01.github.io/the-z80/"
 },
 {
 "name": "the.source",
@@ -2862,10 +2994,22 @@
 "pages": "https://davidwise01.github.io/white-gold-wielder/"
 },
 {
+"name": "wii-u",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/wii-u",
+"pages": "https://davidwise01.github.io/wii-u/"
+},
+{
 "name": "without-remorse",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/without-remorse",
 "pages": "https://davidwise01.github.io/without-remorse/"
+},
+{
+"name": "wonderswan",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/wonderswan",
+"pages": "https://davidwise01.github.io/wonderswan/"
 },
 {
 "name": "wrath-of-the-black-manta",
