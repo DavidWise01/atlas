@@ -2094,6 +2094,12 @@
 "pages": "https://davidwise01.github.io/the-droplet/"
 },
 {
+"name": "the-embedding",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-embedding",
+"pages": "https://davidwise01.github.io/the-embedding/"
+},
+{
 "name": "the-fifth-element",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-fifth-element",
@@ -2272,6 +2278,18 @@
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/the-terminal",
 "pages": "https://davidwise01.github.io/the-terminal/"
+},
+{
+"name": "the-tokenizer",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-tokenizer",
+"pages": "https://davidwise01.github.io/the-tokenizer/"
+},
+{
+"name": "the-transformer-stack",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-transformer-stack",
+"pages": "https://davidwise01.github.io/the-transformer-stack/"
 },
 {
 "name": "the-uncut",
