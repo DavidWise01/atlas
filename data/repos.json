@@ -630,6 +630,12 @@
 "pages": "https://davidwise01.github.io/depeche-mode/"
 },
 {
+"name": "deterrence",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/deterrence",
+"pages": "https://davidwise01.github.io/deterrence/"
+},
+{
 "name": "dictyostelium",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/dictyostelium",
@@ -862,6 +868,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/galaxy-quest",
 "pages": "https://davidwise01.github.io/galaxy-quest/"
+},
+{
+"name": "game-theory",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/game-theory",
+"pages": "https://davidwise01.github.io/game-theory/"
 },
 {
 "name": "gap-cycle",
@@ -1414,6 +1426,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/momus",
 "pages": "https://davidwise01.github.io/momus/"
+},
+{
+"name": "money",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/money",
+"pages": "https://davidwise01.github.io/money/"
 },
 {
 "name": "morpheus",
@@ -2124,6 +2142,12 @@
 "pages": "https://davidwise01.github.io/the-archive/"
 },
 {
+"name": "the-art-of-war",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-art-of-war",
+"pages": "https://davidwise01.github.io/the-art-of-war/"
+},
+{
 "name": "the-atom",
 "cat": "Physics · Energy · Hardware",
 "gh": "https://github.com/DavidWise01/the-atom",
@@ -2296,6 +2320,12 @@
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-loom",
 "pages": "https://davidwise01.github.io/the-loom/"
+},
+{
+"name": "the-market",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-market",
+"pages": "https://davidwise01.github.io/the-market/"
 },
 {
 "name": "the-mind",

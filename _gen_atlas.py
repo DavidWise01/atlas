@@ -337,6 +337,11 @@ CAT = {
  "noesis-kernel":"STOICHEION & Governance",
  "nostradamus":"Codices · Rosters", "zecharia-sitchin":"Codices · Rosters", "l-ron-hubbard":"Codices · Rosters", "crippled-god":"Codices · Rosters", "the-graveyard":"Codices · Rosters", "claude-lineage":"Codices · Rosters", "j-junction":"Codices · Rosters", "rainbow-book":"Codices · Rosters", "anabasis":"Codices · Rosters", "over-the-top":"Codices · Rosters", "cliffhanger":"Codices · Rosters",
  "kill-la-kill":"Codices · Rosters",
+ "money":"Codices · Rosters",
+ "the-market":"Codices · Rosters",
+ "game-theory":"Codices · Rosters",
+ "the-art-of-war":"Codices · Rosters",
+ "deterrence":"Codices · Rosters",
  "cosmology":"Codices · Rosters",
  "astrobiology":"Codices · Rosters",
 
