@@ -338,6 +338,7 @@ CAT = {
  "nostradamus":"Codices · Rosters", "zecharia-sitchin":"Codices · Rosters", "l-ron-hubbard":"Codices · Rosters", "crippled-god":"Codices · Rosters", "the-graveyard":"Codices · Rosters", "claude-lineage":"Codices · Rosters", "j-junction":"Codices · Rosters", "rainbow-book":"Codices · Rosters", "anabasis":"Codices · Rosters", "over-the-top":"Codices · Rosters", "cliffhanger":"Codices · Rosters",
  "kill-la-kill":"Codices · Rosters",
  "the-nes":"Codices · Rosters",
+ "the-internet-1984":"Codices · Rosters",
  "gilgamesh":"Codices · Rosters",
  "strife":"Codices · Rosters",
  "the-word-and-the-sword":"Codices · Rosters",
