@@ -481,7 +481,7 @@
 },
 {
 "name": "chromatic-laser",
-"cat": "Physics · Energy · Hardware",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/chromatic-laser",
 "pages": "https://davidwise01.github.io/chromatic-laser/"
 },
@@ -955,7 +955,7 @@
 },
 {
 "name": "gravity-processor",
-"cat": "Physics · Energy · Hardware",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/gravity-processor",
 "pages": "https://davidwise01.github.io/gravity-processor/"
 },
@@ -1027,7 +1027,7 @@
 },
 {
 "name": "hardware-lab",
-"cat": "Physics · Energy · Hardware",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/hardware-lab",
 "pages": "https://davidwise01.github.io/hardware-lab/"
 },
@@ -1066,6 +1066,12 @@
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/hermeneus",
 "pages": "https://davidwise01.github.io/hermeneus/"
+},
+{
+"name": "heurema",
+"cat": "Hardware · Inventions",
+"gh": "https://github.com/DavidWise01/heurema",
+"pages": "https://davidwise01.github.io/heurema/"
 },
 {
 "name": "higgs-suite",
@@ -1945,7 +1951,7 @@
 },
 {
 "name": "seed-kernel",
-"cat": "Memory · Persistence · Continuity",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/seed-kernel",
 "pages": ""
 },
@@ -2227,7 +2233,7 @@
 },
 {
 "name": "terra-prime-kernel",
-"cat": "Memory · Persistence · Continuity",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/terra-prime-kernel",
 "pages": "https://davidwise01.github.io/terra-prime-kernel/"
 },
@@ -3061,7 +3067,7 @@
 },
 {
 "name": "unity-tensor",
-"cat": "Lineage · Provenance · IP",
+"cat": "Hardware · Inventions",
 "gh": "https://github.com/DavidWise01/unity-tensor",
 "pages": "https://davidwise01.github.io/unity-tensor/"
 },
