@@ -318,6 +318,12 @@
 "pages": "https://davidwise01.github.io/beak/"
 },
 {
+"name": "below-planck",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/below-planck",
+"pages": "https://davidwise01.github.io/below-planck/"
+},
+{
 "name": "black-company",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/black-company",
@@ -2280,6 +2286,12 @@
 "pages": "https://davidwise01.github.io/the-atom/"
 },
 {
+"name": "the-atom-view",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-atom-view",
+"pages": "https://davidwise01.github.io/the-atom-view/"
+},
+{
 "name": "the-baroque-cycle",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-baroque-cycle",
@@ -2344,6 +2356,12 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-cyborg",
 "pages": "https://davidwise01.github.io/the-cyborg/"
+},
+{
+"name": "the-d20",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-d20",
+"pages": "https://davidwise01.github.io/the-d20/"
 },
 {
 "name": "the-dark-tower",
@@ -2568,6 +2586,12 @@
 "pages": "https://davidwise01.github.io/the-mind/"
 },
 {
+"name": "the-molecule",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-molecule",
+"pages": "https://davidwise01.github.io/the-molecule/"
+},
+{
 "name": "the-mongoliad",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-mongoliad",
@@ -2598,6 +2622,12 @@
 "pages": "https://davidwise01.github.io/the-next-prediction/"
 },
 {
+"name": "the-nucleus",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-nucleus",
+"pages": "https://davidwise01.github.io/the-nucleus/"
+},
+{
 "name": "the-ordinary-farm",
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-ordinary-farm",
@@ -2608,6 +2638,12 @@
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/the-pantheon",
 "pages": "https://davidwise01.github.io/the-pantheon/"
+},
+{
+"name": "the-planck-grain",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-planck-grain",
+"pages": "https://davidwise01.github.io/the-planck-grain/"
 },
 {
 "name": "the-playstation",
@@ -2644,6 +2680,18 @@
 "cat": "Codices · Rosters",
 "gh": "https://github.com/DavidWise01/the-psp",
 "pages": "https://davidwise01.github.io/the-psp/"
+},
+{
+"name": "the-quantum-foam",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-quantum-foam",
+"pages": "https://davidwise01.github.io/the-quantum-foam/"
+},
+{
+"name": "the-quark",
+"cat": "Codices · Rosters",
+"gh": "https://github.com/DavidWise01/the-quark",
+"pages": "https://davidwise01.github.io/the-quark/"
 },
 {
 "name": "the-quorum-engine",
