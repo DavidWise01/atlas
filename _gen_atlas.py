@@ -221,6 +221,7 @@ CAT = {
  "coreutils":"Tools & CLIs",
  "self":"Codices · Rosters",
  "id":"Codices · Rosters",
+ "the-super-id":"Codices · Rosters",
  "super-id":"Codices · Rosters",
  "syzygy":"Codices · Rosters",
  "male":"Codices · Rosters",
