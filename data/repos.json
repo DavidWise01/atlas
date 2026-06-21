@@ -949,7 +949,7 @@
 },
 {
 "name": "gravity-bracket",
-"cat": "SCIENTIFIC",
+"cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/gravity-bracket",
 "pages": "https://davidwise01.github.io/gravity-bracket/"
 },
@@ -1000,6 +1000,12 @@
 "cat": "ENTERTAINMENT",
 "gh": "https://github.com/DavidWise01/gurren-lagann",
 "pages": "https://davidwise01.github.io/gurren-lagann/"
+},
+{
+"name": "gurutva",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/gurutva",
+"pages": "https://davidwise01.github.io/gurutva/"
 },
 {
 "name": "gut-brain-axis",
