@@ -459,6 +459,26 @@ CAT = {
  "pocket-universe":"Other · Lab",
 }
 
+# ── align with UD0: pull the 26 domains + DOMAIN_OF as the PRIMARY grouping ──
+import ast as _ast
+_ud0 = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "ud0", "build.py")
+try:
+    _src = open(_ud0, encoding="utf-8").read()
+    _db = _src[_src.index("DOMAINS = ["):]; _db = _db[_db.index("["): _db.index("\n]")+2]
+    _DOMAINS = _ast.literal_eval(_db)
+    _of = _src[_src.index("DOMAIN_OF = {"):]; _of = _of[_of.index("{"): _of.index("\n}")+2]
+    _DOMAIN_OF = _ast.literal_eval(_of)
+    UD0_CATS = [(lbl, acc) for (k, lbl, acc, bl) in _DOMAINS]
+    _k2l = {k: lbl for (k, lbl, acc, bl) in _DOMAINS}
+    UD0_LABEL = {slug: _k2l[d] for slug, d in _DOMAIN_OF.items() if d in _k2l}
+    # the heurema invention repos aren't UD0 spheres but belong under the HEÚREMA domain in the index
+    for _r in ("chromatic-laser","gravity-processor","hardware-lab","seed-kernel","terra-prime-kernel","unity-tensor"):
+        if "heurema" in _k2l: UD0_LABEL[_r] = _k2l["heurema"]
+    print(f"UD0 align: {len(UD0_CATS)} domains, {len(UD0_LABEL)} curated repos mapped")
+except Exception as _e:
+    print("UD0 align FAILED (falling back to atlas CATS):", _e); UD0_CATS = []; UD0_LABEL = {}
+ALL_CATS = UD0_CATS + CATS   # UD0 domains first (curated), atlas buckets after (the archive)
+
 entries = []
 for r in REPOS:
     if r["isPrivate"] or r["isFork"]:
@@ -467,7 +487,7 @@ for r in REPOS:
     if name in EXCLUDE:
         continue
     lang = r["primaryLanguage"]["name"] if r["primaryLanguage"] else ""
-    cat  = CAT.get(name, "Other · Lab")
+    cat  = UD0_LABEL.get(name) or CAT.get(name, "Other · Lab")   # UD0 domain wins; else atlas archive bucket
     desc = (r["description"] or "").strip()
     # live link — surface every repo's real Pages site, not just HTML-classified ones.
     # priority: explicit override → forced-off → profile root → HTML/known-Pages (computed)
@@ -496,14 +516,16 @@ try:
 except Exception:
     n_emergent = 0
 
+_orphans = sorted(set(e["cat"] for e in entries) - set(c for c,_ in ALL_CATS))
+if _orphans: print("⚠ ORPHAN categories (repos in no group):", _orphans)
 data_js = json.dumps(entries, ensure_ascii=False, indent=0)
-cats_js = json.dumps([{"name":c,"color":col} for c,col in CATS], ensure_ascii=False)
+cats_js = json.dumps([{"name":c,"color":col} for c,col in ALL_CATS], ensure_ascii=False)
 
 # counts per category for the report
 from collections import Counter
 cc = Counter(e["cat"] for e in entries)
-for c,_ in CATS:
-    print(f"{cc.get(c,0):3}  {c}")
+for c,_ in ALL_CATS:
+    if cc.get(c,0): print(f"{cc.get(c,0):3}  {c}")
 print(f"\nTOTAL  {len(entries)} repos")
 
 os.makedirs(OUT, exist_ok=True)
@@ -513,8 +535,8 @@ HTML = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="description" content="ATLAS — master index of every ROOT0 / TriPod repository. The whole body of work, one front door.">
-<title>ATLAS · ROOT0 · The Whole Body of Work</title>
+<meta name="description" content="ATLAS v0.1 (archival) — the full machine index of every ROOT0 / TriPod repository, grouped to match the 26 UD0 domains. The curated front door is UD0.">
+<title>ATLAS · v0.1 archival · ROOT0 · grouped by UD0 domain</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;1,6..72,300&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
@@ -597,8 +619,8 @@ footer a{color:var(--gold);text-decoration:none}
 <div class="wrap">
   <header>
     <div class="eye">ROOT0 · David Lee Wise · TriPod LLC</div>
-    <h1>ATLAS</h1>
-    <p class="sub">The whole body of work, one front door. Every public repository — governance, physics, security, lineage, tools, writing — catalogued and linked.</p>
+    <h1>ATLAS <span style="font-family:'Space Mono',monospace;font-size:.34em;letter-spacing:2px;opacity:.6;vertical-align:middle;white-space:nowrap">v0.1 · archival</span></h1>
+    <p class="sub">The full machine index of <b>every</b> public repository — the <b>archival v0.1</b> layer, now grouped to match the <b>26 UD0 domains</b>. The curated, living front door is <a href="https://davidwise01.github.io/ud0/" style="color:var(--pa)">UD0 &rarr;</a>. Tooling, drafts, and alternates live below the domains as the archive.</p>
     <div id="count">indexing…</div>
     <a id="arbiter" href="https://github.com/DavidWise01/nom" title="nom — arbiter of the atlas. If it can't be reached, it didn't happen.">⚖ ARBITER · 🗿 nom · <span id="arb-state">awaiting verdict</span></a>
   </header>
