@@ -630,10 +630,22 @@
 "pages": "https://davidwise01.github.io/dantes-inferno/"
 },
 {
+"name": "dark-energy",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/dark-energy",
+"pages": "https://davidwise01.github.io/dark-energy/"
+},
+{
 "name": "dark-enlightenment",
 "cat": "TIN-FOIL",
 "gh": "https://github.com/DavidWise01/dark-enlightenment",
 "pages": "https://davidwise01.github.io/dark-enlightenment/"
+},
+{
+"name": "dark-matter",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/dark-matter",
+"pages": "https://davidwise01.github.io/dark-matter/"
 },
 {
 "name": "darling-in-the-franxx",
@@ -894,6 +906,12 @@
 "pages": "https://davidwise01.github.io/FractalKernel/"
 },
 {
+"name": "frame-dragging",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/frame-dragging",
+"pages": "https://davidwise01.github.io/frame-dragging/"
+},
+{
 "name": "fusion",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/fusion",
@@ -930,6 +948,12 @@
 "pages": "https://davidwise01.github.io/gap-cycle/"
 },
 {
+"name": "general-relativity",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/general-relativity",
+"pages": "https://davidwise01.github.io/general-relativity/"
+},
+{
 "name": "gilgamesh",
 "cat": "POLEMOS",
 "gh": "https://github.com/DavidWise01/gilgamesh",
@@ -958,6 +982,12 @@
 "cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/gravitational-lensing",
 "pages": "https://davidwise01.github.io/gravitational-lensing/"
+},
+{
+"name": "gravitational-time-dilation",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/gravitational-time-dilation",
+"pages": "https://davidwise01.github.io/gravitational-time-dilation/"
 },
 {
 "name": "gravitational-waves",
@@ -1264,6 +1294,12 @@
 "cat": "MYTHOS",
 "gh": "https://github.com/DavidWise01/l-ron-hubbard",
 "pages": "https://davidwise01.github.io/l-ron-hubbard/"
+},
+{
+"name": "lagrange-points",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/lagrange-points",
+"pages": "https://davidwise01.github.io/lagrange-points/"
 },
 {
 "name": "language-of-the-machine",
@@ -1654,6 +1690,12 @@
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/octopus",
 "pages": "https://davidwise01.github.io/octopus/"
+},
+{
+"name": "orbital-mechanics",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/orbital-mechanics",
+"pages": "https://davidwise01.github.io/orbital-mechanics/"
 },
 {
 "name": "organoid-intelligence",
@@ -2538,6 +2580,12 @@
 "pages": "https://davidwise01.github.io/the-graveyard/"
 },
 {
+"name": "the-gravitational-constant",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-gravitational-constant",
+"pages": "https://davidwise01.github.io/the-gravitational-constant/"
+},
+{
 "name": "the-graviton",
 "cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/the-graviton",
@@ -3000,6 +3048,12 @@
 "pages": "https://davidwise01.github.io/three-body-problem/"
 },
 {
+"name": "tidal-forces",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/tidal-forces",
+"pages": "https://davidwise01.github.io/tidal-forces/"
+},
+{
 "name": "timequake",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/timequake",
@@ -3130,6 +3184,12 @@
 "cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/unity-tensor",
 "pages": "https://davidwise01.github.io/unity-tensor/"
+},
+{
+"name": "universal-gravitation",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/universal-gravitation",
+"pages": "https://davidwise01.github.io/universal-gravitation/"
 },
 {
 "name": "universal-laws",
