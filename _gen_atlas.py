@@ -340,6 +340,7 @@ CAT = {
  "the-nes":"Codices · Rosters",
  "monster-hunter":"Codices · Rosters",
  "the-d20":"Codices · Rosters",
+ "chaos-engine":"Codices · Rosters",
  "below-planck":"Codices · Rosters",
  "the-planck-grain":"Codices · Rosters",
  "the-quantum-foam":"Codices · Rosters",
