@@ -204,6 +204,12 @@
 "pages": "https://davidwise01.github.io/ant-colony/"
 },
 {
+"name": "anti-gravity",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/anti-gravity",
+"pages": "https://davidwise01.github.io/anti-gravity/"
+},
+{
 "name": "apsalar",
 "cat": "Tools & CLIs",
 "gh": "https://github.com/DavidWise01/apsalar",
@@ -946,6 +952,18 @@
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/governed-instances",
 "pages": "https://davidwise01.github.io/governed-instances/"
+},
+{
+"name": "gravitational-lensing",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/gravitational-lensing",
+"pages": "https://davidwise01.github.io/gravitational-lensing/"
+},
+{
+"name": "gravitational-waves",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/gravitational-waves",
+"pages": "https://davidwise01.github.io/gravitational-waves/"
 },
 {
 "name": "gravity-bracket",
@@ -2328,6 +2346,12 @@
 "pages": "https://davidwise01.github.io/the-big-u/"
 },
 {
+"name": "the-black-hole",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-black-hole",
+"pages": "https://davidwise01.github.io/the-black-hole/"
+},
+{
 "name": "the-body",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-body",
@@ -2512,6 +2536,18 @@
 "cat": "AGORA",
 "gh": "https://github.com/DavidWise01/the-graveyard",
 "pages": "https://davidwise01.github.io/the-graveyard/"
+},
+{
+"name": "the-graviton",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-graviton",
+"pages": "https://davidwise01.github.io/the-graviton/"
+},
+{
+"name": "the-gravity-well",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-gravity-well",
+"pages": "https://davidwise01.github.io/the-gravity-well/"
 },
 {
 "name": "the-handmaids-tale",
@@ -2706,6 +2742,12 @@
 "pages": "https://davidwise01.github.io/the-planet/"
 },
 {
+"name": "the-planetary-core",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-planetary-core",
+"pages": "https://davidwise01.github.io/the-planetary-core/"
+},
+{
 "name": "the-playstation",
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/the-playstation",
@@ -2740,6 +2782,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/the-psp",
 "pages": "https://davidwise01.github.io/the-psp/"
+},
+{
+"name": "the-pulsar",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-pulsar",
+"pages": "https://davidwise01.github.io/the-pulsar/"
 },
 {
 "name": "the-quantum-foam",
@@ -2890,6 +2938,12 @@
 "cat": "POLEMOS",
 "gh": "https://github.com/DavidWise01/the-word-and-the-sword",
 "pages": "https://davidwise01.github.io/the-word-and-the-sword/"
+},
+{
+"name": "the-wormhole",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/the-wormhole",
+"pages": "https://davidwise01.github.io/the-wormhole/"
 },
 {
 "name": "the-xbox",
