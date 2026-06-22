@@ -918,12 +918,6 @@
 "pages": "https://davidwise01.github.io/frame-dragging/"
 },
 {
-"name": "fusion",
-"cat": "STOICHEION & Governance",
-"gh": "https://github.com/DavidWise01/fusion",
-"pages": "https://davidwise01.github.io/fusion/"
-},
-{
 "name": "fusion-n0-n255",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/fusion-n0-n255",
@@ -1336,12 +1330,6 @@
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/lichen",
 "pages": "https://davidwise01.github.io/lichen/"
-},
-{
-"name": "lineage",
-"cat": "Lineage · Provenance · IP",
-"gh": "https://github.com/DavidWise01/lineage",
-"pages": "https://davidwise01.github.io/lineage/"
 },
 {
 "name": "lineage-engine",
