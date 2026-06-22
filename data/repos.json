@@ -288,6 +288,12 @@
 "pages": "https://davidwise01.github.io/atlas/"
 },
 {
+"name": "atomic-structure",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/atomic-structure",
+"pages": "https://davidwise01.github.io/atomic-structure/"
+},
+{
 "name": "attribution-standard",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/attribution-standard",
