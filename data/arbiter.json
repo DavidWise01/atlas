@@ -2,17 +2,77 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-06-15T13:01:11.662014+00:00",
-  "repos": 278,
-  "links_checked": 485,
+  "at": "2026-06-22T12:49:07.754458+00:00",
+  "repos": 564,
+  "links_checked": 1127,
   "dead": [
     {
-      "name": "agent-0root",
+      "name": "astraea",
       "kind": "live",
-      "url": "https://davidwise01.github.io/agent-0root/",
+      "url": "https://davidwise01.github.io/astraea/",
+      "status": 404
+    },
+    {
+      "name": "bridge-burner",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/bridge-burner/",
+      "status": 404
+    },
+    {
+      "name": "cannon",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/cannon/",
+      "status": 404
+    },
+    {
+      "name": "FractalKernel",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/FractalKernel/",
+      "status": 404
+    },
+    {
+      "name": "lineage-engine",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/lineage-engine/",
+      "status": 404
+    },
+    {
+      "name": "lumen",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/lumen/",
+      "status": 404
+    },
+    {
+      "name": "triados",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/triados/",
+      "status": 404
+    },
+    {
+      "name": "tripod",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/tripod/",
+      "status": 404
+    },
+    {
+      "name": "tripod-cardinal",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/tripod-cardinal/",
+      "status": 404
+    },
+    {
+      "name": "tripod-pck",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/tripod-pck/",
+      "status": 404
+    },
+    {
+      "name": "whisper-lattice-log",
+      "kind": "live",
+      "url": "https://davidwise01.github.io/whisper-lattice-log/",
       "status": 404
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "e15f82436bab"
+  "seal": "cb4c15569467"
 }
