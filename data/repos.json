@@ -121,7 +121,7 @@
 },
 {
 "name": "al-h2o-reactor",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/al-h2o-reactor",
 "pages": "https://davidwise01.github.io/al-h2o-reactor/"
 },
@@ -217,7 +217,7 @@
 },
 {
 "name": "arc-reactor-mk24",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/arc-reactor-mk24",
 "pages": "https://davidwise01.github.io/arc-reactor-mk24/"
 },
@@ -337,7 +337,7 @@
 },
 {
 "name": "black-company",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/black-company",
 "pages": "https://davidwise01.github.io/black-company/"
 },
@@ -373,7 +373,7 @@
 },
 {
 "name": "boronic",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/boronic",
 "pages": "https://davidwise01.github.io/boronic/"
 },
@@ -397,7 +397,7 @@
 },
 {
 "name": "bridge-burners",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/bridge-burners",
 "pages": "https://davidwise01.github.io/bridge-burners/"
 },
@@ -631,7 +631,7 @@
 },
 {
 "name": "dantes-inferno",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/dantes-inferno",
 "pages": "https://davidwise01.github.io/dantes-inferno/"
 },
@@ -949,7 +949,7 @@
 },
 {
 "name": "gap-cycle",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/gap-cycle",
 "pages": "https://davidwise01.github.io/gap-cycle/"
 },
@@ -1363,7 +1363,7 @@
 },
 {
 "name": "liquid",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/liquid",
 "pages": "https://davidwise01.github.io/liquid/"
 },
@@ -1471,7 +1471,7 @@
 },
 {
 "name": "memristor",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/memristor",
 "pages": "https://davidwise01.github.io/memristor/"
 },
@@ -1741,7 +1741,7 @@
 },
 {
 "name": "photonic",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/photonic",
 "pages": "https://davidwise01.github.io/photonic/"
 },
@@ -1759,7 +1759,7 @@
 },
 {
 "name": "plasmonic",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/plasmonic",
 "pages": "https://davidwise01.github.io/plasmonic/"
 },
@@ -1861,7 +1861,7 @@
 },
 {
 "name": "quantum-box",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/quantum-box",
 "pages": "https://davidwise01.github.io/quantum-box/"
 },
@@ -1903,7 +1903,7 @@
 },
 {
 "name": "recluce",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/recluce",
 "pages": "https://davidwise01.github.io/recluce/"
 },
@@ -1927,13 +1927,13 @@
 },
 {
 "name": "ringworld",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/ringworld",
 "pages": "https://davidwise01.github.io/ringworld/"
 },
 {
 "name": "riverworld",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/riverworld",
 "pages": "https://davidwise01.github.io/riverworld/"
 },
@@ -2245,7 +2245,7 @@
 },
 {
 "name": "sword-of-truth",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/sword-of-truth",
 "pages": "https://davidwise01.github.io/sword-of-truth/"
 },
@@ -3307,7 +3307,7 @@
 },
 {
 "name": "white-gold-wielder",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/white-gold-wielder",
 "pages": "https://davidwise01.github.io/white-gold-wielder/"
 },
@@ -3319,7 +3319,7 @@
 },
 {
 "name": "without-remorse",
-"cat": "Codices · Rosters",
+"cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/without-remorse",
 "pages": "https://davidwise01.github.io/without-remorse/"
 },
@@ -3367,7 +3367,7 @@
 },
 {
 "name": "zero-point",
-"cat": "Physics · Energy · Hardware",
+"cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/zero-point",
 "pages": "https://davidwise01.github.io/zero-point/"
 },
