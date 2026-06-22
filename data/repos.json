@@ -373,7 +373,7 @@
 },
 {
 "name": "boronic",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/boronic",
 "pages": "https://davidwise01.github.io/boronic/"
 },
@@ -1351,7 +1351,7 @@
 },
 {
 "name": "liquid",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/liquid",
 "pages": "https://davidwise01.github.io/liquid/"
 },
@@ -1459,7 +1459,7 @@
 },
 {
 "name": "memristor",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/memristor",
 "pages": "https://davidwise01.github.io/memristor/"
 },
@@ -1729,7 +1729,7 @@
 },
 {
 "name": "photonic",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/photonic",
 "pages": "https://davidwise01.github.io/photonic/"
 },
@@ -1747,7 +1747,7 @@
 },
 {
 "name": "plasmonic",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/plasmonic",
 "pages": "https://davidwise01.github.io/plasmonic/"
 },
@@ -1830,6 +1830,12 @@
 "pages": "https://davidwise01.github.io/propulsion-lab/"
 },
 {
+"name": "psephos",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/psephos",
+"pages": "https://davidwise01.github.io/psephos/"
+},
+{
 "name": "pulse",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/pulse",
@@ -1849,7 +1855,7 @@
 },
 {
 "name": "quantum-box",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/quantum-box",
 "pages": "https://davidwise01.github.io/quantum-box/"
 },
@@ -2287,7 +2293,7 @@
 },
 {
 "name": "ternary-spec",
-"cat": "Lineage · Provenance · IP",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/ternary-spec",
 "pages": "https://davidwise01.github.io/ternary-spec/"
 },
@@ -3355,7 +3361,7 @@
 },
 {
 "name": "zero-point",
-"cat": "HEÚREMA",
+"cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/zero-point",
 "pages": "https://davidwise01.github.io/zero-point/"
 },
