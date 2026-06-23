@@ -1848,6 +1848,18 @@
 "pages": "https://davidwise01.github.io/palm-sunday/"
 },
 {
+"name": "perceptron-capacity",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/perceptron-capacity",
+"pages": "https://davidwise01.github.io/perceptron-capacity/"
+},
+{
+"name": "perceptron-convergence",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/perceptron-convergence",
+"pages": "https://davidwise01.github.io/perceptron-convergence/"
+},
+{
 "name": "perceptron-in-silicon",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/perceptron-in-silicon",
@@ -2704,6 +2716,12 @@
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/the-dark-tower",
 "pages": "https://davidwise01.github.io/the-dark-tower/"
+},
+{
+"name": "the-deep-neuron",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-deep-neuron",
+"pages": "https://davidwise01.github.io/the-deep-neuron/"
 },
 {
 "name": "the-diamond-age",
