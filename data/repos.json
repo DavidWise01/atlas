@@ -1866,6 +1866,12 @@
 "pages": "https://davidwise01.github.io/perceptron-in-a-quantum-dot/"
 },
 {
+"name": "perceptron-in-light",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-light",
+"pages": "https://davidwise01.github.io/perceptron-in-light/"
+},
+{
 "name": "perceptron-in-silicon",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/perceptron-in-silicon",
