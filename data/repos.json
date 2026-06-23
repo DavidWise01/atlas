@@ -1860,6 +1860,12 @@
 "pages": "https://davidwise01.github.io/perceptron-convergence/"
 },
 {
+"name": "perceptron-in-a-crossbar",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-a-crossbar",
+"pages": "https://davidwise01.github.io/perceptron-in-a-crossbar/"
+},
+{
 "name": "perceptron-in-a-quantum-dot",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/perceptron-in-a-quantum-dot",
