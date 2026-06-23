@@ -1860,6 +1860,12 @@
 "pages": "https://davidwise01.github.io/perceptron-convergence/"
 },
 {
+"name": "perceptron-in-a-quantum-dot",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-a-quantum-dot",
+"pages": "https://davidwise01.github.io/perceptron-in-a-quantum-dot/"
+},
+{
 "name": "perceptron-in-silicon",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/perceptron-in-silicon",
