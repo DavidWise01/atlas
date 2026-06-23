@@ -978,6 +978,12 @@
 "pages": "https://davidwise01.github.io/governed-instances/"
 },
 {
+"name": "grace-hopper",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/grace-hopper",
+"pages": "https://davidwise01.github.io/grace-hopper/"
+},
+{
 "name": "gravitational-lensing",
 "cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/gravitational-lensing",
@@ -1372,6 +1378,12 @@
 "cat": "ENTERTAINMENT",
 "gh": "https://github.com/DavidWise01/little-witch-academia",
 "pages": "https://davidwise01.github.io/little-witch-academia/"
+},
+{
+"name": "littles-law",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/littles-law",
+"pages": "https://davidwise01.github.io/littles-law/"
 },
 {
 "name": "lottery-ticket",
@@ -2400,6 +2412,12 @@
 "pages": "https://davidwise01.github.io/the-black-hole/"
 },
 {
+"name": "the-board-language",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/the-board-language",
+"pages": "https://davidwise01.github.io/the-board-language/"
+},
+{
 "name": "the-body",
 "cat": "Creative · Audio · Visual",
 "gh": "https://github.com/DavidWise01/the-body",
@@ -2440,6 +2458,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/the-colecovision",
 "pages": "https://davidwise01.github.io/the-colecovision/"
+},
+{
+"name": "the-compiler-hourglass",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/the-compiler-hourglass",
+"pages": "https://davidwise01.github.io/the-compiler-hourglass/"
 },
 {
 "name": "the-core",
@@ -2488,6 +2512,12 @@
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/the-diamond-age",
 "pages": "https://davidwise01.github.io/the-diamond-age/"
+},
+{
+"name": "the-doped-crystal",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/the-doped-crystal",
+"pages": "https://davidwise01.github.io/the-doped-crystal/"
 },
 {
 "name": "the-dreamcast",
@@ -2668,6 +2698,12 @@
 "cat": "TIN-FOIL",
 "gh": "https://github.com/DavidWise01/the-internet-1984",
 "pages": "https://davidwise01.github.io/the-internet-1984/"
+},
+{
+"name": "the-junction-zoo",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/the-junction-zoo",
+"pages": "https://davidwise01.github.io/the-junction-zoo/"
 },
 {
 "name": "the-language-of-the-machine",
@@ -2886,6 +2922,12 @@
 "pages": "https://davidwise01.github.io/the-quorum-engine/"
 },
 {
+"name": "the-rhythm-section",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/the-rhythm-section",
+"pages": "https://davidwise01.github.io/the-rhythm-section/"
+},
+{
 "name": "the-rise-and-fall-of-dodo",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/the-rise-and-fall-of-dodo",
@@ -2932,6 +2974,12 @@
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/the-sponge",
 "pages": "https://davidwise01.github.io/the-sponge/"
+},
+{
+"name": "the-standing-wave",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/the-standing-wave",
+"pages": "https://davidwise01.github.io/the-standing-wave/"
 },
 {
 "name": "the-star",
