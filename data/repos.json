@@ -1728,6 +1728,12 @@
 "pages": "https://davidwise01.github.io/palm-sunday/"
 },
 {
+"name": "perceptron-in-silicon",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/perceptron-in-silicon",
+"pages": "https://davidwise01.github.io/perceptron-in-silicon/"
+},
+{
 "name": "persistence-protocol",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/persistence-protocol",
