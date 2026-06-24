@@ -234,6 +234,12 @@
 "pages": "https://davidwise01.github.io/argus-console/"
 },
 {
+"name": "aristotle",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/aristotle",
+"pages": "https://davidwise01.github.io/aristotle/"
+},
+{
 "name": "artificial-life",
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/artificial-life",
@@ -2602,6 +2608,12 @@
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/text-to-picture",
 "pages": "https://davidwise01.github.io/text-to-picture/"
+},
+{
+"name": "thales-of-miletus",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/thales-of-miletus",
+"pages": "https://davidwise01.github.io/thales-of-miletus/"
 },
 {
 "name": "the-3do",
