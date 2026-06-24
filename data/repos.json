@@ -1902,6 +1902,12 @@
 "pages": "https://davidwise01.github.io/perceptron-in-silicon/"
 },
 {
+"name": "perceptron-in-two-cubi",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-two-cubi",
+"pages": "https://davidwise01.github.io/perceptron-in-two-cubi/"
+},
+{
 "name": "persistence-protocol",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/persistence-protocol",
