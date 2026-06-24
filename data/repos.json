@@ -1866,6 +1866,12 @@
 "pages": "https://davidwise01.github.io/perceptron-in-a-crossbar/"
 },
 {
+"name": "perceptron-in-a-josephson",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-a-josephson",
+"pages": "https://davidwise01.github.io/perceptron-in-a-josephson/"
+},
+{
 "name": "perceptron-in-a-quantum-dot",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/perceptron-in-a-quantum-dot",
