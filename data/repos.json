@@ -1890,16 +1890,34 @@
 "pages": "https://davidwise01.github.io/perceptron-in-a-spin/"
 },
 {
+"name": "perceptron-in-dna",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-dna",
+"pages": "https://davidwise01.github.io/perceptron-in-dna/"
+},
+{
 "name": "perceptron-in-light",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/perceptron-in-light",
 "pages": "https://davidwise01.github.io/perceptron-in-light/"
 },
 {
+"name": "perceptron-in-n-cubi",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-n-cubi",
+"pages": "https://davidwise01.github.io/perceptron-in-n-cubi/"
+},
+{
 "name": "perceptron-in-silicon",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/perceptron-in-silicon",
 "pages": "https://davidwise01.github.io/perceptron-in-silicon/"
+},
+{
+"name": "perceptron-in-sound",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-sound",
+"pages": "https://davidwise01.github.io/perceptron-in-sound/"
 },
 {
 "name": "perceptron-in-two-cubi",
