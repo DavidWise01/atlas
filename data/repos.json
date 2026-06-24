@@ -1050,6 +1050,12 @@
 "pages": "https://davidwise01.github.io/general-relativity/"
 },
 {
+"name": "george-boole",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/george-boole",
+"pages": "https://davidwise01.github.io/george-boole/"
+},
+{
 "name": "gilgamesh",
 "cat": "POLEMOS",
 "gh": "https://github.com/DavidWise01/gilgamesh",
