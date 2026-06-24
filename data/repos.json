@@ -1908,6 +1908,18 @@
 "pages": "https://davidwise01.github.io/perceptron-in-n-cubi/"
 },
 {
+"name": "perceptron-in-noise",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-noise",
+"pages": "https://davidwise01.github.io/perceptron-in-noise/"
+},
+{
+"name": "perceptron-in-reverse",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/perceptron-in-reverse",
+"pages": "https://davidwise01.github.io/perceptron-in-reverse/"
+},
+{
 "name": "perceptron-in-silicon",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/perceptron-in-silicon",
