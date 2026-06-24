@@ -1446,6 +1446,12 @@
 "pages": "https://davidwise01.github.io/legacy-of-the-wizard/"
 },
 {
+"name": "leibniz",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/leibniz",
+"pages": "https://davidwise01.github.io/leibniz/"
+},
+{
 "name": "library",
 "cat": "Library & Foundations",
 "gh": "https://github.com/DavidWise01/library",
