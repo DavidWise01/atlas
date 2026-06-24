@@ -918,6 +918,12 @@
 "pages": "https://davidwise01.github.io/entelecheia/"
 },
 {
+"name": "euclid",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/euclid",
+"pages": "https://davidwise01.github.io/euclid/"
+},
+{
 "name": "eve-constitution",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/eve-constitution",
