@@ -120,10 +120,22 @@
 "pages": "https://davidwise01.github.io/Akasha/"
 },
 {
+"name": "akasha-design-system",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/akasha-design-system",
+"pages": ""
+},
+{
 "name": "al-h2o-reactor",
 "cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/al-h2o-reactor",
 "pages": "https://davidwise01.github.io/al-h2o-reactor/"
+},
+{
+"name": "alan-turing",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/alan-turing",
+"pages": "https://davidwise01.github.io/alan-turing/"
 },
 {
 "name": "alchemical-bible",
@@ -144,6 +156,12 @@
 "pages": "https://davidwise01.github.io/aletheia/"
 },
 {
+"name": "alfred-tarski",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/alfred-tarski",
+"pages": "https://davidwise01.github.io/alfred-tarski/"
+},
+{
 "name": "aliens",
 "cat": "TIN-FOIL",
 "gh": "https://github.com/DavidWise01/aliens",
@@ -154,6 +172,12 @@
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/alignment",
 "pages": "https://davidwise01.github.io/alignment/"
+},
+{
+"name": "alonzo-church",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/alonzo-church",
+"pages": "https://davidwise01.github.io/alonzo-church/"
 },
 {
 "name": "alpha40-box",
@@ -186,6 +210,12 @@
 "pages": "https://davidwise01.github.io/anabasis/"
 },
 {
+"name": "analytical-engine",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/analytical-engine",
+"pages": "https://davidwise01.github.io/analytical-engine/"
+},
+{
 "name": "anathem",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/anathem",
@@ -208,6 +238,12 @@
 "cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/anti-gravity",
 "pages": "https://davidwise01.github.io/anti-gravity/"
+},
+{
+"name": "anti-gravity-motor",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/anti-gravity-motor",
+"pages": "https://davidwise01.github.io/anti-gravity-motor/"
 },
 {
 "name": "apsalar",
@@ -306,10 +342,22 @@
 "pages": "https://davidwise01.github.io/atomic-structure/"
 },
 {
+"name": "attention-hourglass",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/attention-hourglass",
+"pages": "https://davidwise01.github.io/attention-hourglass/"
+},
+{
 "name": "attribution-standard",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/attribution-standard",
 "pages": "https://davidwise01.github.io/attribution-standard/"
+},
+{
+"name": "audit8",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/audit8",
+"pages": "https://davidwise01.github.io/audit8/"
 },
 {
 "name": "augustus-de-morgan",
@@ -322,6 +370,12 @@
 "cat": "EDUCATIONAL",
 "gh": "https://github.com/DavidWise01/authorship",
 "pages": "https://davidwise01.github.io/authorship/"
+},
+{
+"name": "autonomy-closure",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/autonomy-closure",
+"pages": "https://davidwise01.github.io/autonomy-closure/"
 },
 {
 "name": "awk",
@@ -354,6 +408,12 @@
 "pages": "https://davidwise01.github.io/below-planck/"
 },
 {
+"name": "bertrand-russell",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/bertrand-russell",
+"pages": "https://davidwise01.github.io/bertrand-russell/"
+},
+{
 "name": "black-company",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/black-company",
@@ -370,6 +430,12 @@
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/bluebeard",
 "pages": "https://davidwise01.github.io/bluebeard/"
+},
+{
+"name": "blueprint-sm",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/blueprint-sm",
+"pages": "https://davidwise01.github.io/blueprint-sm/"
 },
 {
 "name": "bna-brand-new-animal",
@@ -400,6 +466,12 @@
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/brave-new-world",
 "pages": "https://davidwise01.github.io/brave-new-world/"
+},
+{
+"name": "breakdown-tree",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/breakdown-tree",
+"pages": "https://davidwise01.github.io/breakdown-tree/"
 },
 {
 "name": "breakfast-of-champions",
@@ -462,6 +534,12 @@
 "pages": "https://davidwise01.github.io/caste-system/"
 },
 {
+"name": "cat-tells-air",
+"cat": "QUANTUM FRONTIER",
+"gh": "https://github.com/DavidWise01/cat-tells-air",
+"pages": "https://davidwise01.github.io/cat-tells-air/"
+},
+{
 "name": "cats-cradle",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/cats-cradle",
@@ -486,6 +564,12 @@
 "pages": "https://davidwise01.github.io/chaos-engine/"
 },
 {
+"name": "charles-peirce",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/charles-peirce",
+"pages": "https://davidwise01.github.io/charles-peirce/"
+},
+{
 "name": "charlottes-web",
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/charlottes-web",
@@ -508,6 +592,12 @@
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/christine-de-pizan",
 "pages": "https://davidwise01.github.io/christine-de-pizan/"
+},
+{
+"name": "christine-ladd-franklin",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/christine-ladd-franklin",
+"pages": "https://davidwise01.github.io/christine-ladd-franklin/"
 },
 {
 "name": "chromatic-laser",
@@ -552,6 +642,12 @@
 "pages": "https://davidwise01.github.io/claude-lineage/"
 },
 {
+"name": "claude-shannon",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/claude-shannon",
+"pages": "https://davidwise01.github.io/claude-shannon/"
+},
+{
 "name": "cleopatra",
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/cleopatra",
@@ -582,10 +678,22 @@
 "pages": "https://davidwise01.github.io/coding-theory-ternary/"
 },
 {
+"name": "comes-home",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/comes-home",
+"pages": "https://davidwise01.github.io/comes-home/"
+},
+{
 "name": "commandable-scene",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/commandable-scene",
 "pages": "https://davidwise01.github.io/commandable-scene/"
+},
+{
+"name": "commitment-box",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/commitment-box",
+"pages": "https://davidwise01.github.io/commitment-box/"
 },
 {
 "name": "compiler-lineage",
@@ -624,6 +732,12 @@
 "pages": "https://davidwise01.github.io/coral/"
 },
 {
+"name": "core-plus-bridge",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/core-plus-bridge",
+"pages": "https://davidwise01.github.io/core-plus-bridge/"
+},
+{
 "name": "coreutils",
 "cat": "LOGISMÓS",
 "gh": "https://github.com/DavidWise01/coreutils",
@@ -658,6 +772,12 @@
 "cat": "LOGISMÓS",
 "gh": "https://github.com/DavidWise01/cron",
 "pages": "https://davidwise01.github.io/cron/"
+},
+{
+"name": "crossed-hourglasses",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/crossed-hourglasses",
+"pages": "https://davidwise01.github.io/crossed-hourglasses/"
 },
 {
 "name": "cryptonomicon",
@@ -714,10 +834,22 @@
 "pages": "https://davidwise01.github.io/dark-matter/"
 },
 {
+"name": "dark-matter-lineage",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/dark-matter-lineage",
+"pages": "https://davidwise01.github.io/dark-matter-lineage/"
+},
+{
 "name": "darling-in-the-franxx",
 "cat": "ENTERTAINMENT",
 "gh": "https://github.com/DavidWise01/darling-in-the-franxx",
 "pages": "https://davidwise01.github.io/darling-in-the-franxx/"
+},
+{
+"name": "david-hilbert",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/david-hilbert",
+"pages": "https://davidwise01.github.io/david-hilbert/"
 },
 {
 "name": "DavidWise01.github.io",
@@ -742,6 +874,12 @@
 "cat": "EDUCATIONAL",
 "gh": "https://github.com/DavidWise01/decadal",
 "pages": "https://davidwise01.github.io/decadal/"
+},
+{
+"name": "decoisohedron-dashboard",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/decoisohedron-dashboard",
+"pages": "https://davidwise01.github.io/decoisohedron-dashboard/"
 },
 {
 "name": "delicious-in-dungeon",
@@ -840,16 +978,34 @@
 "pages": "https://davidwise01.github.io/ed/"
 },
 {
+"name": "edge-of-chaos",
+"cat": "LIFE SCIENCE",
+"gh": "https://github.com/DavidWise01/edge-of-chaos",
+"pages": "https://davidwise01.github.io/edge-of-chaos/"
+},
+{
 "name": "egyptian-pantheon",
 "cat": "MYTHOS",
 "gh": "https://github.com/DavidWise01/egyptian-pantheon",
 "pages": "https://davidwise01.github.io/egyptian-pantheon/"
 },
 {
+"name": "einstein-lens",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/einstein-lens",
+"pages": "https://davidwise01.github.io/einstein-lens/"
+},
+{
 "name": "elden-ring",
 "cat": "HOBBY",
 "gh": "https://github.com/DavidWise01/elden-ring",
 "pages": "https://davidwise01.github.io/elden-ring/"
+},
+{
+"name": "electromagnetic-processor",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/electromagnetic-processor",
+"pages": "https://davidwise01.github.io/electromagnetic-processor/"
 },
 {
 "name": "elementals",
@@ -888,6 +1044,12 @@
 "pages": "https://davidwise01.github.io/emergent-engine/"
 },
 {
+"name": "emil-post",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/emil-post",
+"pages": "https://davidwise01.github.io/emil-post/"
+},
+{
 "name": "emilie-du-chatelet",
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/emilie-du-chatelet",
@@ -898,6 +1060,12 @@
 "cat": "LOGIKĒ",
 "gh": "https://github.com/DavidWise01/emmy-noether",
 "pages": "https://davidwise01.github.io/emmy-noether/"
+},
+{
+"name": "encapsulated-pulsar",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/encapsulated-pulsar",
+"pages": "https://davidwise01.github.io/encapsulated-pulsar/"
 },
 {
 "name": "enderverse",
@@ -928,6 +1096,12 @@
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/entelecheia",
 "pages": "https://davidwise01.github.io/entelecheia/"
+},
+{
+"name": "ernst-schroder",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/ernst-schroder",
+"pages": "https://davidwise01.github.io/ernst-schroder/"
 },
 {
 "name": "euclid",
@@ -1002,10 +1176,22 @@
 "pages": "https://davidwise01.github.io/fission-compression-core/"
 },
 {
+"name": "fortran-teaching",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/fortran-teaching",
+"pages": "https://davidwise01.github.io/fortran-teaching/"
+},
+{
 "name": "foundation",
 "cat": "Library & Foundations",
 "gh": "https://github.com/DavidWise01/foundation",
 "pages": "https://davidwise01.github.io/foundation/"
+},
+{
+"name": "four-hats-void",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/four-hats-void",
+"pages": "https://davidwise01.github.io/four-hats-void/"
 },
 {
 "name": "FractalKernel",
@@ -1044,6 +1230,12 @@
 "pages": "https://davidwise01.github.io/game-theory/"
 },
 {
+"name": "game-theory-engine",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/game-theory-engine",
+"pages": "https://davidwise01.github.io/game-theory-engine/"
+},
+{
 "name": "gap-cycle",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/gap-cycle",
@@ -1056,10 +1248,28 @@
 "pages": "https://davidwise01.github.io/general-relativity/"
 },
 {
+"name": "georg-cantor",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/georg-cantor",
+"pages": "https://davidwise01.github.io/georg-cantor/"
+},
+{
 "name": "george-boole",
 "cat": "LOGIKĒ",
 "gh": "https://github.com/DavidWise01/george-boole",
 "pages": "https://davidwise01.github.io/george-boole/"
+},
+{
+"name": "george-boolos",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/george-boolos",
+"pages": "https://davidwise01.github.io/george-boolos/"
+},
+{
+"name": "gerhard-gentzen",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/gerhard-gentzen",
+"pages": "https://davidwise01.github.io/gerhard-gentzen/"
 },
 {
 "name": "gilgamesh",
@@ -1116,6 +1326,12 @@
 "pages": "https://davidwise01.github.io/gravitational-waves/"
 },
 {
+"name": "graviton-stars",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/graviton-stars",
+"pages": "https://davidwise01.github.io/graviton-stars/"
+},
+{
 "name": "gravity-bracket",
 "cat": "GURUTVA",
 "gh": "https://github.com/DavidWise01/gravity-bracket",
@@ -1126,6 +1342,12 @@
 "cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/gravity-processor",
 "pages": "https://davidwise01.github.io/gravity-processor/"
+},
+{
+"name": "gravity-tensor-modulator",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/gravity-tensor-modulator",
+"pages": "https://davidwise01.github.io/gravity-tensor-modulator/"
 },
 {
 "name": "green-paper",
@@ -1204,6 +1426,12 @@
 "cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/hardware-lab",
 "pages": "https://davidwise01.github.io/hardware-lab/"
+},
+{
+"name": "haskell-curry",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/haskell-curry",
+"pages": "https://davidwise01.github.io/haskell-curry/"
 },
 {
 "name": "hatshepsut",
@@ -1308,6 +1536,12 @@
 "pages": "https://davidwise01.github.io/hypatia/"
 },
 {
+"name": "hyperboloid",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/hyperboloid",
+"pages": "https://davidwise01.github.io/hyperboloid/"
+},
+{
 "name": "id",
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/id",
@@ -1368,16 +1602,34 @@
 "pages": "https://davidwise01.github.io/jailbird/"
 },
 {
+"name": "jan-lukasiewicz",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/jan-lukasiewicz",
+"pages": "https://davidwise01.github.io/jan-lukasiewicz/"
+},
+{
 "name": "joe-abercrombie",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/joe-abercrombie",
 "pages": "https://davidwise01.github.io/joe-abercrombie/"
 },
 {
+"name": "john-venn",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/john-venn",
+"pages": "https://davidwise01.github.io/john-venn/"
+},
+{
 "name": "joint-bill-of-rights",
 "cat": "Writing · Books · Doctrine",
 "gh": "https://github.com/DavidWise01/joint-bill-of-rights",
 "pages": "https://davidwise01.github.io/joint-bill-of-rights/"
+},
+{
+"name": "julia-robinson",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/julia-robinson",
+"pages": "https://davidwise01.github.io/julia-robinson/"
 },
 {
 "name": "karnov",
@@ -1426,6 +1678,12 @@
 "cat": "Library & Foundations",
 "gh": "https://github.com/DavidWise01/knowledge-gates",
 "pages": "https://davidwise01.github.io/knowledge-gates/"
+},
+{
+"name": "kurt-godel",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/kurt-godel",
+"pages": "https://davidwise01.github.io/kurt-godel/"
 },
 {
 "name": "l-ron-hubbard",
@@ -1530,6 +1788,18 @@
 "pages": "https://davidwise01.github.io/littles-law/"
 },
 {
+"name": "living-governance",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/living-governance",
+"pages": "https://davidwise01.github.io/living-governance/"
+},
+{
+"name": "lo-kernel-dodeka",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/lo-kernel-dodeka",
+"pages": "https://davidwise01.github.io/lo-kernel-dodeka/"
+},
+{
 "name": "lottery-ticket",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/lottery-ticket",
@@ -1546,6 +1816,12 @@
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/luca",
 "pages": "https://davidwise01.github.io/luca/"
+},
+{
+"name": "ludwig-wittgenstein",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/ludwig-wittgenstein",
+"pages": "https://davidwise01.github.io/ludwig-wittgenstein/"
 },
 {
 "name": "lumen",
@@ -1620,10 +1896,22 @@
 "pages": "https://davidwise01.github.io/memristor/"
 },
 {
+"name": "memristor-crossbar",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/memristor-crossbar",
+"pages": "https://davidwise01.github.io/memristor-crossbar/"
+},
+{
 "name": "merkle-bloom",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/merkle-bloom",
 "pages": "https://davidwise01.github.io/merkle-bloom/"
+},
+{
+"name": "meta-ai-intro",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/meta-ai-intro",
+"pages": "https://davidwise01.github.io/meta-ai-intro/"
 },
 {
 "name": "metroid",
@@ -1668,6 +1956,12 @@
 "pages": "https://davidwise01.github.io/mimzy-core/"
 },
 {
+"name": "mini-compiler",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/mini-compiler",
+"pages": "https://davidwise01.github.io/mini-compiler/"
+},
+{
 "name": "mirror-lattice",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/mirror-lattice",
@@ -1690,6 +1984,18 @@
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/mnemosyne",
 "pages": "https://davidwise01.github.io/mnemosyne/"
+},
+{
+"name": "mobius-kernel",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/mobius-kernel",
+"pages": "https://davidwise01.github.io/mobius-kernel/"
+},
+{
+"name": "mobius-truth-untruth",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/mobius-truth-untruth",
+"pages": "https://davidwise01.github.io/mobius-truth-untruth/"
 },
 {
 "name": "moirai",
@@ -1770,6 +2076,12 @@
 "pages": "https://davidwise01.github.io/nest-3-deep/"
 },
 {
+"name": "nested-shells",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/nested-shells",
+"pages": "https://davidwise01.github.io/nested-shells/"
+},
+{
 "name": "neural-tangent-kernel",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/neural-tangent-kernel",
@@ -1842,6 +2154,12 @@
 "pages": "https://davidwise01.github.io/oasis/"
 },
 {
+"name": "octet-holonomy",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/octet-holonomy",
+"pages": "https://davidwise01.github.io/octet-holonomy/"
+},
+{
 "name": "octopus",
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/octopus",
@@ -1866,6 +2184,12 @@
 "pages": "https://davidwise01.github.io/organoid-intelligence/"
 },
 {
+"name": "oscillation-engine-ansible",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/oscillation-engine-ansible",
+"pages": "https://davidwise01.github.io/oscillation-engine-ansible/"
+},
+{
 "name": "otherland",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/otherland",
@@ -1888,6 +2212,18 @@
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/palm-sunday",
 "pages": "https://davidwise01.github.io/palm-sunday/"
+},
+{
+"name": "parmenides",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/parmenides",
+"pages": "https://davidwise01.github.io/parmenides/"
+},
+{
+"name": "pencil-one-line-engine",
+"cat": "TECHNĒ",
+"gh": "https://github.com/DavidWise01/pencil-one-line-engine",
+"pages": "https://davidwise01.github.io/pencil-one-line-engine/"
 },
 {
 "name": "perceptron-capacity",
@@ -2010,6 +2346,12 @@
 "pages": "https://davidwise01.github.io/physis/"
 },
 {
+"name": "planetary-core",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/planetary-core",
+"pages": "https://davidwise01.github.io/planetary-core/"
+},
+{
 "name": "plant-intelligence",
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/plant-intelligence",
@@ -2106,6 +2448,12 @@
 "pages": "https://davidwise01.github.io/psephos/"
 },
 {
+"name": "pulsar-fractal-beacon",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/pulsar-fractal-beacon",
+"pages": "https://davidwise01.github.io/pulsar-fractal-beacon/"
+},
+{
 "name": "pulse",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/pulse",
@@ -2124,6 +2472,12 @@
 "pages": "https://davidwise01.github.io/purple-team/"
 },
 {
+"name": "pythagoras",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/pythagoras",
+"pages": "https://davidwise01.github.io/pythagoras/"
+},
+{
 "name": "quantum-box",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/quantum-box",
@@ -2134,6 +2488,12 @@
 "cat": "METAXÝ",
 "gh": "https://github.com/DavidWise01/quantum-cellular-automata",
 "pages": "https://davidwise01.github.io/quantum-cellular-automata/"
+},
+{
+"name": "quantum-dot-vm",
+"cat": "QUANTUM FRONTIER",
+"gh": "https://github.com/DavidWise01/quantum-dot-vm",
+"pages": "https://davidwise01.github.io/quantum-dot-vm/"
 },
 {
 "name": "quantum-error-correction",
@@ -2194,6 +2554,12 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/red-hat",
 "pages": "https://davidwise01.github.io/red-hat/"
+},
+{
+"name": "refusal-lineage",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/refusal-lineage",
+"pages": "https://davidwise01.github.io/refusal-lineage/"
 },
 {
 "name": "resonance",
@@ -2274,10 +2640,28 @@
 "pages": "https://davidwise01.github.io/rotating-core/"
 },
 {
+"name": "rozsa-peter",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/rozsa-peter",
+"pages": "https://davidwise01.github.io/rozsa-peter/"
+},
+{
+"name": "ruth-barcan-marcus",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/ruth-barcan-marcus",
+"pages": "https://davidwise01.github.io/ruth-barcan-marcus/"
+},
+{
 "name": "sappho",
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/sappho",
 "pages": "https://davidwise01.github.io/sappho/"
+},
+{
+"name": "saul-kripke",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/saul-kripke",
+"pages": "https://davidwise01.github.io/saul-kripke/"
 },
 {
 "name": "scaling-laws",
@@ -2356,6 +2740,12 @@
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/shadow-court",
 "pages": "https://davidwise01.github.io/shadow-court/"
+},
+{
+"name": "shadow-queen-silicon",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/shadow-queen-silicon",
+"pages": "https://davidwise01.github.io/shadow-queen-silicon/"
 },
 {
 "name": "shadowmarch",
@@ -2490,6 +2880,12 @@
 "pages": "https://davidwise01.github.io/stephen-bury/"
 },
 {
+"name": "stephen-kleene",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/stephen-kleene",
+"pages": "https://davidwise01.github.io/stephen-kleene/"
+},
+{
 "name": "stephenson-nonfiction",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/stephenson-nonfiction",
@@ -2530,6 +2926,12 @@
 "cat": "POLEMOS",
 "gh": "https://github.com/DavidWise01/strife",
 "pages": "https://davidwise01.github.io/strife/"
+},
+{
+"name": "subleq-lineage",
+"cat": "LOGISMÓS",
+"gh": "https://github.com/DavidWise01/subleq-lineage",
+"pages": "https://davidwise01.github.io/subleq-lineage/"
 },
 {
 "name": "sublime",
@@ -2574,6 +2976,12 @@
 "pages": "https://davidwise01.github.io/symbiot-os/"
 },
 {
+"name": "synonym-enforcer",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/synonym-enforcer",
+"pages": "https://davidwise01.github.io/synonym-enforcer/"
+},
+{
 "name": "syzygy",
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/syzygy",
@@ -2584,6 +2992,12 @@
 "cat": "Security & Defense",
 "gh": "https://github.com/DavidWise01/t133",
 "pages": "https://davidwise01.github.io/t133/"
+},
+{
+"name": "t4-void",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/t4-void",
+"pages": "https://davidwise01.github.io/t4-void/"
 },
 {
 "name": "tad-williams-shorter-works",
@@ -2614,6 +3028,12 @@
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/terminus-doctrine",
 "pages": "https://davidwise01.github.io/terminus-doctrine/"
+},
+{
+"name": "ternary-12body",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/ternary-12body",
+"pages": "https://davidwise01.github.io/ternary-12body/"
 },
 {
 "name": "ternary-hamming-decoder",
@@ -2802,6 +3222,12 @@
 "pages": "https://davidwise01.github.io/the-colecovision/"
 },
 {
+"name": "the-commutator",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-commutator",
+"pages": "https://davidwise01.github.io/the-commutator/"
+},
+{
 "name": "the-compiler-hourglass",
 "cat": "LOGISMÓS",
 "gh": "https://github.com/DavidWise01/the-compiler-hourglass",
@@ -2830,6 +3256,12 @@
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/the-cost",
 "pages": "https://davidwise01.github.io/the-cost/"
+},
+{
+"name": "the-cube",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-cube",
+"pages": "https://davidwise01.github.io/the-cube/"
 },
 {
 "name": "the-cyborg",
@@ -2908,6 +3340,12 @@
 "cat": "METAXÝ",
 "gh": "https://github.com/DavidWise01/the-exchange",
 "pages": "https://davidwise01.github.io/the-exchange/"
+},
+{
+"name": "the-far-side",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-far-side",
+"pages": "https://davidwise01.github.io/the-far-side/"
 },
 {
 "name": "the-fifth-element",
@@ -3036,6 +3474,12 @@
 "pages": "https://davidwise01.github.io/the-hegemon/"
 },
 {
+"name": "the-higgs",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/the-higgs",
+"pages": "https://davidwise01.github.io/the-higgs/"
+},
+{
 "name": "the-honeycomb-family",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/the-honeycomb-family",
@@ -3138,6 +3582,12 @@
 "pages": "https://davidwise01.github.io/the-liminal/"
 },
 {
+"name": "the-lineage",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-lineage",
+"pages": "https://davidwise01.github.io/the-lineage/"
+},
+{
 "name": "the-living-core",
 "cat": "STOICHEION & Governance",
 "gh": "https://github.com/DavidWise01/the-living-core",
@@ -3208,6 +3658,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/the-nes",
 "pages": "https://davidwise01.github.io/the-nes/"
+},
+{
+"name": "the-next-frontier",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/the-next-frontier",
+"pages": "https://davidwise01.github.io/the-next-frontier/"
 },
 {
 "name": "the-next-prediction",
@@ -3324,6 +3780,12 @@
 "pages": "https://davidwise01.github.io/the-quorum-engine/"
 },
 {
+"name": "the-red-team",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/the-red-team",
+"pages": "https://davidwise01.github.io/the-red-team/"
+},
+{
 "name": "the-render-step",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/the-render-step",
@@ -3370,6 +3832,12 @@
 "cat": "LOGISMÓS",
 "gh": "https://github.com/DavidWise01/the-shell",
 "pages": "https://davidwise01.github.io/the-shell/"
+},
+{
+"name": "the-sideways-problem",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/the-sideways-problem",
+"pages": "https://davidwise01.github.io/the-sideways-problem/"
 },
 {
 "name": "the-sirens-of-titan",
@@ -3582,6 +4050,12 @@
 "pages": "https://davidwise01.github.io/three-body-purple/"
 },
 {
+"name": "three-body-void",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/three-body-void",
+"pages": "https://davidwise01.github.io/three-body-void/"
+},
+{
 "name": "three-body-white",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/three-body-white",
@@ -3624,16 +4098,40 @@
 "pages": "https://davidwise01.github.io/toph-sovereign/"
 },
 {
+"name": "toroid-builder",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/toroid-builder",
+"pages": "https://davidwise01.github.io/toroid-builder/"
+},
+{
+"name": "toroid-inference-engine",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/toroid-inference-engine",
+"pages": "https://davidwise01.github.io/toroid-inference-engine/"
+},
+{
 "name": "toroid-kernel",
 "cat": "Memory · Persistence · Continuity",
 "gh": "https://github.com/DavidWise01/toroid-kernel",
 "pages": "https://davidwise01.github.io/toroid-kernel/"
 },
 {
+"name": "torus-ride",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/torus-ride",
+"pages": "https://davidwise01.github.io/torus-ride/"
+},
+{
 "name": "transmon",
 "cat": "QUANTUM FRONTIER",
 "gh": "https://github.com/DavidWise01/transmon",
 "pages": "https://davidwise01.github.io/transmon/"
+},
+{
+"name": "triadic-memory",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/triadic-memory",
+"pages": "https://davidwise01.github.io/triadic-memory/"
 },
 {
 "name": "triados",
@@ -3646,6 +4144,12 @@
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/trichoplax",
 "pages": "https://davidwise01.github.io/trichoplax/"
+},
+{
+"name": "triple-mobius-quadpole",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/triple-mobius-quadpole",
+"pages": "https://davidwise01.github.io/triple-mobius-quadpole/"
 },
 {
 "name": "tripod",
@@ -3738,6 +4242,18 @@
 "pages": "https://davidwise01.github.io/turn-comes-home/"
 },
 {
+"name": "twelve-by-four",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/twelve-by-four",
+"pages": "https://davidwise01.github.io/twelve-by-four/"
+},
+{
+"name": "twelve-gate-core",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/twelve-gate-core",
+"pages": "https://davidwise01.github.io/twelve-gate-core/"
+},
+{
 "name": "two-axis-gap",
 "cat": "METAXÝ",
 "gh": "https://github.com/DavidWise01/two-axis-gap",
@@ -3748,6 +4264,12 @@
 "cat": "METAXÝ",
 "gh": "https://github.com/DavidWise01/two-depths",
 "pages": "https://davidwise01.github.io/two-depths/"
+},
+{
+"name": "two-entangled-boxes",
+"cat": "QUANTUM FRONTIER",
+"gh": "https://github.com/DavidWise01/two-entangled-boxes",
+"pages": "https://davidwise01.github.io/two-entangled-boxes/"
 },
 {
 "name": "two-probe-engine",
@@ -3786,10 +4308,22 @@
 "pages": "https://davidwise01.github.io/ud0/"
 },
 {
+"name": "unity-collapse-tensor",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/unity-collapse-tensor",
+"pages": "https://davidwise01.github.io/unity-collapse-tensor/"
+},
+{
 "name": "unity-tensor",
 "cat": "HEÚREMA",
 "gh": "https://github.com/DavidWise01/unity-tensor",
 "pages": "https://davidwise01.github.io/unity-tensor/"
+},
+{
+"name": "unity-tensor-seed",
+"cat": "IDIOS",
+"gh": "https://github.com/DavidWise01/unity-tensor-seed",
+"pages": "https://davidwise01.github.io/unity-tensor-seed/"
 },
 {
 "name": "universal-gravitation",
@@ -3814,6 +4348,12 @@
 "cat": "ENTERTAINMENT",
 "gh": "https://github.com/DavidWise01/varsity-blues",
 "pages": "https://davidwise01.github.io/varsity-blues/"
+},
+{
+"name": "veracity-ledger",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/veracity-ledger",
+"pages": "https://davidwise01.github.io/veracity-ledger/"
 },
 {
 "name": "vi",
@@ -3864,6 +4404,12 @@
 "pages": "https://davidwise01.github.io/welcome-to-the-monkey-house/"
 },
 {
+"name": "what-does-it-mean",
+"cat": "ARTIFICIAL INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/what-does-it-mean",
+"pages": "https://davidwise01.github.io/what-does-it-mean/"
+},
+{
 "name": "wheel-of-time",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/wheel-of-time",
@@ -3894,6 +4440,24 @@
 "pages": "https://davidwise01.github.io/wii-u/"
 },
 {
+"name": "william-of-ockham",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/william-of-ockham",
+"pages": "https://davidwise01.github.io/william-of-ockham/"
+},
+{
+"name": "william-stanley-jevons",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/william-stanley-jevons",
+"pages": "https://davidwise01.github.io/william-stanley-jevons/"
+},
+{
+"name": "wireless-energy",
+"cat": "SCIENTIFIC",
+"gh": "https://github.com/DavidWise01/wireless-energy",
+"pages": "https://davidwise01.github.io/wireless-energy/"
+},
+{
 "name": "without-remorse",
 "cat": "BIBLÍON",
 "gh": "https://github.com/DavidWise01/without-remorse",
@@ -3904,6 +4468,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/wonderswan",
 "pages": "https://davidwise01.github.io/wonderswan/"
+},
+{
+"name": "wormhole-toolkit",
+"cat": "GURUTVA",
+"gh": "https://github.com/DavidWise01/wormhole-toolkit",
+"pages": "https://davidwise01.github.io/wormhole-toolkit/"
 },
 {
 "name": "wrath-of-the-black-manta",
@@ -3940,6 +4510,12 @@
 "cat": "HOBBY",
 "gh": "https://github.com/DavidWise01/zelda",
 "pages": "https://davidwise01.github.io/zelda/"
+},
+{
+"name": "zeno-of-elea",
+"cat": "LOGIKĒ",
+"gh": "https://github.com/DavidWise01/zeno-of-elea",
+"pages": "https://davidwise01.github.io/zeno-of-elea/"
 },
 {
 "name": "zero-point",
