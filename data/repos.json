@@ -2334,6 +2334,12 @@
 "pages": "https://davidwise01.github.io/phonetikos/"
 },
 {
+"name": "phononic-core",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/phononic-core",
+"pages": "https://davidwise01.github.io/phononic-core/"
+},
+{
 "name": "photonic",
 "cat": "PSĒPHOS",
 "gh": "https://github.com/DavidWise01/photonic",
@@ -2800,6 +2806,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/six-coffins",
 "pages": "https://davidwise01.github.io/six-coffins/"
+},
+{
+"name": "skyrmionic-core",
+"cat": "PSĒPHOS",
+"gh": "https://github.com/DavidWise01/skyrmionic-core",
+"pages": "https://davidwise01.github.io/skyrmionic-core/"
 },
 {
 "name": "slapstick",
