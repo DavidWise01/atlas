@@ -31,9 +31,15 @@
 },
 {
 "name": "aci",
-"cat": "ARTIFICIAL INTELLIGENCE",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/aci",
 "pages": "https://davidwise01.github.io/aci/"
+},
+{
+"name": "aci-namespace",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/aci-namespace",
+"pages": "https://davidwise01.github.io/aci-namespace/"
 },
 {
 "name": "ada-lovelace",
@@ -979,7 +985,7 @@
 },
 {
 "name": "du1",
-"cat": "ARTIFICIAL INTELLIGENCE",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/du1",
 "pages": "https://davidwise01.github.io/du1/"
 },

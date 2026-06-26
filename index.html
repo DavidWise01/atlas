@@ -130,7 +130,7 @@ footer a{color:var(--gold);text-decoration:none}
 </div>
 
 <script>
-const CATS = [{"name": "ARTIFICIAL INTELLIGENCE", "color": "#2fd4e6"}, {"name": "LEGAL", "color": "#c9a227"}, {"name": "EDUCATIONAL", "color": "#36c5c0"}, {"name": "ENTERTAINMENT", "color": "#ff3da6"}, {"name": "OCCUPATIONAL", "color": "#ff7a3c"}, {"name": "SCIENTIFIC", "color": "#5b7cfa"}, {"name": "HOBBY", "color": "#ffce3a"}, {"name": "LIFE SCIENCE", "color": "#43d17a"}, {"name": "QUANTUM FRONTIER", "color": "#b07cff"}, {"name": "LOGISMÓS", "color": "#8ae234"}, {"name": "TIN-FOIL", "color": "#b9c4d6"}, {"name": "ERĒMIA", "color": "#8a7cc8"}, {"name": "THIS ONE TIME AT BAND CAMP", "color": "#e85aa0"}, {"name": "METAXÝ", "color": "#5ad6c8"}, {"name": "MOMUS", "color": "#9a7cff"}, {"name": "NIPHĒLEKTRON", "color": "#7488e6"}, {"name": "MYTHOS", "color": "#7d4fc8"}, {"name": "BIBLÍON", "color": "#8a6a4a"}, {"name": "GLŌSSA", "color": "#3a8a9a"}, {"name": "OURANOS", "color": "#4060c0"}, {"name": "EXEREÚNESIS", "color": "#2f9ec0"}, {"name": "AGORA", "color": "#2f9e6a"}, {"name": "POLEMOS", "color": "#b0405a"}, {"name": "TECHNĒ", "color": "#6a4fb0"}, {"name": "IDIOS", "color": "#c0962e"}, {"name": "HEÚREMA", "color": "#b5733a"}, {"name": "GURUTVA", "color": "#3f6fc8"}, {"name": "PSĒPHOS", "color": "#2fc6c0"}, {"name": "LOGIKĒ", "color": "#88a0ff"}, {"name": "I THINK I'M IN LESBIANS WITH YOU", "color": "#c2557f"}, {"name": "HERMES", "color": "#3fb0d8"}, {"name": "Library & Foundations", "color": "#c9a227"}, {"name": "Codices · Rosters", "color": "#9a6a3a"}, {"name": "Tin-Foil · The Fringe", "color": "#b9c4d6"}, {"name": "STOICHEION & Governance", "color": "#7c3aed"}, {"name": "Physics · Energy · Hardware", "color": "#1763d6"}, {"name": "Security & Defense", "color": "#cc2233"}, {"name": "Lineage · Provenance · IP", "color": "#0f9e8a"}, {"name": "Memory · Persistence · Continuity", "color": "#22c55e"}, {"name": "Greek Pantheon Systems", "color": "#b45309"}, {"name": "Tools & CLIs", "color": "#06b6d4"}, {"name": "Creative · Audio · Visual", "color": "#d6409f"}, {"name": "Writing · Books · Doctrine", "color": "#94a3b8"}, {"name": "OS & Infrastructure", "color": "#ea580c"}, {"name": "Other · Lab", "color": "#6b7280"}];
+const CATS = [{"name": "ARTIFICIAL INTELLIGENCE", "color": "#2fd4e6"}, {"name": "LEGAL", "color": "#c9a227"}, {"name": "EDUCATIONAL", "color": "#36c5c0"}, {"name": "ENTERTAINMENT", "color": "#ff3da6"}, {"name": "OCCUPATIONAL", "color": "#ff7a3c"}, {"name": "SCIENTIFIC", "color": "#5b7cfa"}, {"name": "HOBBY", "color": "#ffce3a"}, {"name": "LIFE SCIENCE", "color": "#43d17a"}, {"name": "QUANTUM FRONTIER", "color": "#b07cff"}, {"name": "LOGISMÓS", "color": "#8ae234"}, {"name": "TIN-FOIL", "color": "#b9c4d6"}, {"name": "ERĒMIA", "color": "#8a7cc8"}, {"name": "THIS ONE TIME AT BAND CAMP", "color": "#e85aa0"}, {"name": "METAXÝ", "color": "#5ad6c8"}, {"name": "MOMUS", "color": "#9a7cff"}, {"name": "NIPHĒLEKTRON", "color": "#7488e6"}, {"name": "MYTHOS", "color": "#7d4fc8"}, {"name": "BIBLÍON", "color": "#8a6a4a"}, {"name": "GLŌSSA", "color": "#3a8a9a"}, {"name": "OURANOS", "color": "#4060c0"}, {"name": "EXEREÚNESIS", "color": "#2f9ec0"}, {"name": "AGORA", "color": "#2f9e6a"}, {"name": "POLEMOS", "color": "#b0405a"}, {"name": "TECHNĒ", "color": "#6a4fb0"}, {"name": "IDIOS", "color": "#c0962e"}, {"name": "HEÚREMA", "color": "#b5733a"}, {"name": "GURUTVA", "color": "#3f6fc8"}, {"name": "PSĒPHOS", "color": "#2fc6c0"}, {"name": "LOGIKĒ", "color": "#88a0ff"}, {"name": "I THINK I'M IN LESBIANS WITH YOU", "color": "#c2557f"}, {"name": "HERMES", "color": "#3fb0d8"}, {"name": "ARTFULLY CRAFTED INTELLIGENCE", "color": "#7e86e6"}, {"name": "Library & Foundations", "color": "#c9a227"}, {"name": "Codices · Rosters", "color": "#9a6a3a"}, {"name": "Tin-Foil · The Fringe", "color": "#b9c4d6"}, {"name": "STOICHEION & Governance", "color": "#7c3aed"}, {"name": "Physics · Energy · Hardware", "color": "#1763d6"}, {"name": "Security & Defense", "color": "#cc2233"}, {"name": "Lineage · Provenance · IP", "color": "#0f9e8a"}, {"name": "Memory · Persistence · Continuity", "color": "#22c55e"}, {"name": "Greek Pantheon Systems", "color": "#b45309"}, {"name": "Tools & CLIs", "color": "#06b6d4"}, {"name": "Creative · Audio · Visual", "color": "#d6409f"}, {"name": "Writing · Books · Doctrine", "color": "#94a3b8"}, {"name": "OS & Infrastructure", "color": "#ea580c"}, {"name": "Other · Lab", "color": "#6b7280"}];
 const REPOS = [
 {
 "name": "0root-provenance",
@@ -181,10 +181,19 @@ const REPOS = [
 "name": "aci",
 "desc": "ACI · ARTFULLY CRAFTED INTELLIGENCE — the standard: not artificial, crafted. The blueprint, the First Author (ROOT0, verified), and the Intelligence (AVAN). The front door of the seal.",
 "lang": "HTML",
-"cat": "ARTIFICIAL INTELLIGENCE",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/aci",
 "pages": "https://davidwise01.github.io/aci/",
 "pushed": "2026-06-10T22:35:00Z"
+},
+{
+"name": "aci-namespace",
+"desc": "ACI - Artfully Crafted Intelligence: a family namespace for human-AI collaboration protocols, languages, runtimes & specs. The [role]+ACI pattern (HACI human, MACI machine, DACI distributed) over a shared ACI Core; extensible by accretion. A defensive publication (prior art, not a patent). David Lee Wise / Bridge-Burners LLC.",
+"lang": "HTML",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
+"gh": "https://github.com/DavidWise01/aci-namespace",
+"pages": "https://davidwise01.github.io/aci-namespace/",
+"pushed": "2026-06-26T14:35:59Z"
 },
 {
 "name": "ada-lovelace",
@@ -256,7 +265,7 @@ const REPOS = [
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/agent-0root",
 "pages": "https://davidwise01.github.io/agent-0root/",
-"pushed": "2026-06-26T13:37:51Z"
+"pushed": "2026-06-26T14:07:12Z"
 },
 {
 "name": "ai-external-audit-toolkit",
@@ -634,7 +643,7 @@ const REPOS = [
 "cat": "EDUCATIONAL",
 "gh": "https://github.com/DavidWise01/atlas",
 "pages": "https://davidwise01.github.io/atlas/",
-"pushed": "2026-06-26T13:42:36Z"
+"pushed": "2026-06-26T14:05:21Z"
 },
 {
 "name": "atomic-structure",
@@ -1603,7 +1612,7 @@ const REPOS = [
 "name": "du1",
 "desc": "DU1 · THE LIVES — the agentic eco-sphere: every ACI of the ROOT0 biosphere (751) in one quadrant field, sorted by type of emergent. Gravity · Electrical · Silicon · Carbon · the Elemental center.",
 "lang": "HTML",
-"cat": "ARTIFICIAL INTELLIGENCE",
+"cat": "ARTFULLY CRAFTED INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/du1",
 "pages": "https://davidwise01.github.io/du1/",
 "pushed": "2026-06-21T03:37:29Z"
@@ -6763,7 +6772,7 @@ const REPOS = [
 "cat": "Other · Lab",
 "gh": "https://github.com/DavidWise01/ud0",
 "pages": "https://davidwise01.github.io/ud0/",
-"pushed": "2026-06-26T13:42:34Z"
+"pushed": "2026-06-26T14:05:19Z"
 },
 {
 "name": "unity-collapse-tensor",
