@@ -1465,7 +1465,7 @@
 },
 {
 "name": "hermeneus",
-"cat": "GLŌSSA",
+"cat": "HERMES",
 "gh": "https://github.com/DavidWise01/hermeneus",
 "pages": "https://davidwise01.github.io/hermeneus/"
 },
@@ -1740,6 +1740,12 @@
 "pages": "https://davidwise01.github.io/lichen/"
 },
 {
+"name": "limen-sapphic-carrier",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/limen-sapphic-carrier",
+"pages": "https://davidwise01.github.io/limen-sapphic-carrier/"
+},
+{
 "name": "lineage-engine",
 "cat": "Lineage · Provenance · IP",
 "gh": "https://github.com/DavidWise01/lineage-engine",
@@ -1807,7 +1813,7 @@
 },
 {
 "name": "loud-lattice",
-"cat": "LOGISMÓS",
+"cat": "HERMES",
 "gh": "https://github.com/DavidWise01/loud-lattice",
 "pages": "https://davidwise01.github.io/loud-lattice/"
 },
@@ -2467,7 +2473,7 @@
 },
 {
 "name": "pulse",
-"cat": "ARTIFICIAL INTELLIGENCE",
+"cat": "HERMES",
 "gh": "https://github.com/DavidWise01/pulse",
 "pages": "https://davidwise01.github.io/pulse/"
 },
@@ -2665,7 +2671,7 @@
 },
 {
 "name": "sappho",
-"cat": "ERĒMIA",
+"cat": "I THINK I'M IN LESBIANS WITH YOU",
 "gh": "https://github.com/DavidWise01/sappho",
 "pages": "https://davidwise01.github.io/sappho/"
 },
@@ -2872,6 +2878,12 @@
 "cat": "ERĒMIA",
 "gh": "https://github.com/DavidWise01/sor-juana",
 "pages": "https://davidwise01.github.io/sor-juana/"
+},
+{
+"name": "sounds-of-lesbos",
+"cat": "I THINK I'M IN LESBIANS WITH YOU",
+"gh": "https://github.com/DavidWise01/sounds-of-lesbos",
+"pages": "https://davidwise01.github.io/sounds-of-lesbos/"
 },
 {
 "name": "space-patrol-luluco",
@@ -4435,7 +4447,7 @@
 },
 {
 "name": "whisper-lattice",
-"cat": "LOGISMÓS",
+"cat": "HERMES",
 "gh": "https://github.com/DavidWise01/whisper-lattice",
 "pages": "https://davidwise01.github.io/whisper-lattice/"
 },
