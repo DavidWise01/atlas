@@ -618,6 +618,12 @@
 "pages": "https://davidwise01.github.io/cinnamon-enforcer/"
 },
 {
+"name": "cipher-adversarial",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/cipher-adversarial",
+"pages": "https://davidwise01.github.io/cipher-adversarial/"
+},
+{
 "name": "cipher-air-gap",
 "cat": "HERMES",
 "gh": "https://github.com/DavidWise01/cipher-air-gap",
