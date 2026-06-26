@@ -3054,6 +3054,18 @@
 "pages": "https://davidwise01.github.io/tailchasers-song/"
 },
 {
+"name": "talking-drum",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/talking-drum",
+"pages": "https://davidwise01.github.io/talking-drum/"
+},
+{
+"name": "talking-drum-dundun",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/talking-drum-dundun",
+"pages": "https://davidwise01.github.io/talking-drum-dundun/"
+},
+{
 "name": "tardigrade",
 "cat": "LIFE SCIENCE",
 "gh": "https://github.com/DavidWise01/tardigrade",
@@ -3766,6 +3778,12 @@
 "cat": "EXEREÚNESIS",
 "gh": "https://github.com/DavidWise01/the-playstation",
 "pages": "https://davidwise01.github.io/the-playstation/"
+},
+{
+"name": "the-procession",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/the-procession",
+"pages": "https://davidwise01.github.io/the-procession/"
 },
 {
 "name": "the-ps2",
