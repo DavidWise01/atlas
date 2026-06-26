@@ -624,6 +624,18 @@
 "pages": "https://davidwise01.github.io/cipher-and-shadow/"
 },
 {
+"name": "cipher-steganography",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/cipher-steganography",
+"pages": "https://davidwise01.github.io/cipher-steganography/"
+},
+{
+"name": "cipher-ultrasonic",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/cipher-ultrasonic",
+"pages": "https://davidwise01.github.io/cipher-ultrasonic/"
+},
+{
 "name": "circuits",
 "cat": "ARTIFICIAL INTELLIGENCE",
 "gh": "https://github.com/DavidWise01/circuits",
