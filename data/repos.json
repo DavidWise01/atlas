@@ -624,6 +624,12 @@
 "pages": "https://davidwise01.github.io/cipher-and-shadow/"
 },
 {
+"name": "cipher-side-channels",
+"cat": "HERMES",
+"gh": "https://github.com/DavidWise01/cipher-side-channels",
+"pages": "https://davidwise01.github.io/cipher-side-channels/"
+},
+{
 "name": "cipher-steganography",
 "cat": "HERMES",
 "gh": "https://github.com/DavidWise01/cipher-steganography",
