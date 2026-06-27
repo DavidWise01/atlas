@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-ATLAS",
+  "name": "ATLAS",
+  "universe": "EDUCATIONAL",
+  "moniker": "⟦ATLAS:atlas:7f32af⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "7f32af141661174b9ca498918b57bc835979d249eec15eaf130c4ebf2434ebb5",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

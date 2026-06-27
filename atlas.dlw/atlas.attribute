@@ -1,0 +1,9 @@
+ROOT0-ATTRIBUTION-v1.0
+name: ATLAS
+slug: atlas
+domain: EDUCATIONAL
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦ATLAS:atlas:7f32af⟧
+seal_sha256: 7f32af141661174b9ca498918b57bc835979d249eec15eaf130c4ebf2434ebb5
