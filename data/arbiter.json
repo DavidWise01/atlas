@@ -2,9 +2,9 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-06-22T12:49:07.754458+00:00",
-  "repos": 564,
-  "links_checked": 1127,
+  "at": "2026-06-29T12:02:15.548776+00:00",
+  "repos": 777,
+  "links_checked": 1552,
   "dead": [
     {
       "name": "astraea",
@@ -74,5 +74,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "cb4c15569467"
+  "seal": "ec29a08f2b5c"
 }
