@@ -4,6 +4,6 @@ slug  : atlas
 seal  : 7f32af141661174b9ca498918b57bc835979d249eec15eaf130c4ebf2434ebb5
 prev  : 007d0c42941962df09b85084fc9c4e58363a0cd4951b9cf23e060ea64b0eb64f
 link  : 812e61544541cc37c4a0ac2b8392175519f73a6557d8be09c3145c6f1f14bbb7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
