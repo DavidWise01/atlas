@@ -2,68 +2,14 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-07-13T10:24:42.227851+00:00",
+  "at": "2026-07-20T10:01:20.666554+00:00",
   "repos": 777,
   "links_checked": 1552,
   "dead": [
     {
-      "name": "astraea",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/astraea/",
-      "status": 404
-    },
-    {
-      "name": "bridge-burner",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/bridge-burner/",
-      "status": 404
-    },
-    {
-      "name": "cannon",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/cannon/",
-      "status": 404
-    },
-    {
       "name": "FractalKernel",
       "kind": "live",
       "url": "https://davidwise01.github.io/FractalKernel/",
-      "status": 404
-    },
-    {
-      "name": "lineage-engine",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/lineage-engine/",
-      "status": 404
-    },
-    {
-      "name": "lumen",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/lumen/",
-      "status": 404
-    },
-    {
-      "name": "triados",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/triados/",
-      "status": 404
-    },
-    {
-      "name": "tripod",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/tripod/",
-      "status": 404
-    },
-    {
-      "name": "tripod-cardinal",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/tripod-cardinal/",
-      "status": 404
-    },
-    {
-      "name": "tripod-pck",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/tripod-pck/",
       "status": 404
     },
     {
@@ -74,5 +20,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "ec29a08f2b5c"
+  "seal": "a6b208db31c7"
 }
