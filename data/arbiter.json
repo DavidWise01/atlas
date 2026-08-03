@@ -2,7 +2,7 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-07-27T10:40:07.582238+00:00",
+  "at": "2026-08-03T10:40:38.913521+00:00",
   "repos": 777,
   "links_checked": 1552,
   "dead": [
@@ -13,12 +13,6 @@
       "status": 404
     },
     {
-      "name": "gap-cycle",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/gap-cycle/",
-      "status": 503
-    },
-    {
       "name": "whisper-lattice-log",
       "kind": "live",
       "url": "https://davidwise01.github.io/whisper-lattice-log/",
@@ -26,5 +20,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "f1c280db8c35"
+  "seal": "a6b208db31c7"
 }
