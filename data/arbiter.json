@@ -2,27 +2,21 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-08-10T08:33:00.912739+00:00",
+  "at": "2026-08-17T07:53:15.334476+00:00",
   "repos": 777,
   "links_checked": 1552,
   "dead": [
+    {
+      "name": "chromatic-laser",
+      "kind": "code",
+      "url": "https://github.com/DavidWise01/chromatic-laser",
+      "status": 502
+    },
     {
       "name": "FractalKernel",
       "kind": "live",
       "url": "https://davidwise01.github.io/FractalKernel/",
       "status": 404
-    },
-    {
-      "name": "syzygy",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/syzygy/",
-      "status": 503
-    },
-    {
-      "name": "the-graveyard",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/the-graveyard/",
-      "status": 503
     },
     {
       "name": "whisper-lattice-log",
@@ -32,5 +26,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "57d98f13f1b6"
+  "seal": "ac2153cd5ae2"
 }
