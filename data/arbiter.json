@@ -2,16 +2,10 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-08-17T07:53:15.334476+00:00",
+  "at": "2026-08-24T07:59:08.204993+00:00",
   "repos": 777,
   "links_checked": 1552,
   "dead": [
-    {
-      "name": "chromatic-laser",
-      "kind": "code",
-      "url": "https://github.com/DavidWise01/chromatic-laser",
-      "status": 502
-    },
     {
       "name": "FractalKernel",
       "kind": "live",
@@ -26,5 +20,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "ac2153cd5ae2"
+  "seal": "a6b208db31c7"
 }
