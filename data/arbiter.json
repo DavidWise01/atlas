@@ -2,16 +2,10 @@
   "by": "nom",
   "role": "arbiter of the atlas",
   "doctrine": "if it can't be reached, it didn't happen",
-  "at": "2026-11-02T16:52:26.543060+00:00",
+  "at": "2026-11-09T17:09:53.229625+00:00",
   "repos": 777,
   "links_checked": 1552,
   "dead": [
-    {
-      "name": "confabulation-spiral",
-      "kind": "live",
-      "url": "https://davidwise01.github.io/confabulation-spiral/",
-      "status": 503
-    },
     {
       "name": "FractalKernel",
       "kind": "live",
@@ -26,5 +20,5 @@
     }
   ],
   "verdict": "DEAD_LINKS",
-  "seal": "af5b3c2bbf90"
+  "seal": "a6b208db31c7"
 }
